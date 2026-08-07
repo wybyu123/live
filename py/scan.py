@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 # --- 动态路径与配置 ---
 BASE_PATH = os.getcwd()
-INPUT_FILE = os.path.join(BASE_PATH, "py", "1000.txt")
+INPUT_FILE = os.path.join(BASE_PATH, "py", "txiptv.txt")
 SUCCESS_FILE = os.path.join(BASE_PATH, "py", "1000_alive.txt")
 
 TIMEOUT = 5        # 单次连接超时
