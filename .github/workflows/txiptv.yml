@@ -1,4 +1,4 @@
-name: IPTV 酒店源全自动扫描
+name: IPTV txiptv扫描
 
 on:
   schedule:
