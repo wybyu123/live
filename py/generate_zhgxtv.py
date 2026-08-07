@@ -10,7 +10,7 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
 
 # 输入与输出路径适配 GitHub 仓库结构
 INPUT_FILE = "py/zhgxtv.txt"
-BLACKLIST_FILE = "py/black_ips.txt"
+BLACKLIST_FILE = "py/black2_ips.txt"
 OUTPUT_TXT = "zhgxtv_live.txt"
 OUTPUT_M3U = "zhgxtv_live.m3u"
 
