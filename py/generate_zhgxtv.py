@@ -172,8 +172,13 @@ def main():
     print(f"\n🚀 开始批量处理 {len(filtered_ips)} 个有效地址...\n")
 
     for ip_port in filtered_ips:
-        base_host_key = ip_port.replace("http://", "").replace("https://", "").rstrip("/")
-        print(f"🔍 正在检测: {ip_port} ...", end=" ")
+        # 【关键修复】清洗掉可能自带的 http:// 或 https:// 和末尾斜杠，只留纯 IP:端口
+        ip_port = ip_item.replace("http://", "").replace("https://", "").strip().rstrip("/")
+        if not ip_port:
+            continue
+            
+        base_host_key = ip_port
+        print(f"🔍 正在检测: http://{ip_port} ...", end=" ")
         
         # 1. 尝试第二类系统 (ZHGXTV)
         type2_channels = parse_type2(ip_port)
