@@ -84,8 +84,8 @@ def parse_type1(ip_port):
 
 def parse_type2(ip_port):
     """
-    第二类系统 (ZHGXTV)：解析返回的文本，并智能修复残缺 URL（如 http:///hls/...）
-    或替换带有旧/内网 IP 的链接，确保全部正确指向当前的真实公网 ip_port。
+    第二类系统 (ZHGXTV)：严格过滤掉所有 udp:// 和 rtp:// 组播源，
+    仅保留通过 HTTP/HTTPS 能够正常转换或代理的有效播放链接。
     """
     channels = []
     urls_to_try = [
@@ -106,7 +106,7 @@ def parse_type2(ip_port):
             for enc in encodings:
                 try:
                     decoded_text = response.content.decode(enc)
-                    if "," in decoded_text or "index.m3u8" in decoded_text or "udp://" in decoded_text:
+                    if "," in decoded_text or "index.m3u8" in decoded_text:
                         break
                 except UnicodeDecodeError:
                     continue
@@ -148,16 +148,16 @@ def parse_type2(ip_port):
                 if not is_valid_channel(name):
                     continue
                     
-                # 【核心修复逻辑】
-                if orig_url.startswith("udp://"):
-                    new_url = orig_url
+                # 【核心修改逻辑：直接屏蔽 udp:// 和 rtp:// 组播源】
+                if orig_url.startswith("udp://") or orig_url.startswith("rtp://"):
+                    continue
+                    
+                # 1. 适配残缺链接：形如 http:///hls/... 补全 IP
+                if orig_url.startswith("http:///"):
+                    new_url = orig_url.replace("http:///", f"http://{ip_port}/", 1)
+                # 2. 适配常规 http 链接，替换为主机当前的真实 ip_port
                 else:
-                    # 1. 适配残缺链接：如果形如 http:///hls/... 或 http:///:80/... 缺少主机 IP
-                    if orig_url.startswith("http:///"):
-                        new_url = orig_url.replace("http:///", f"http://{ip_port}/", 1)
-                    # 2. 适配常规链接：强行将原链接的主机头替换为当前的有效公网 ip_port
-                    else:
-                        new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
+                    new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
                 
                 # 校验重写后的 URL 是否合法
                 if new_url and not any(k in new_url.lower() for k in ["/metrics", "/api/video/", "china.com/api"]):
