@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_js.hls.huya.com",李连杰电影
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="Hotel_js.hls.huya.com",电影-黑帮大片
+https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8

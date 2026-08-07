@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_113.64.147.217:8081",广东体育高清
+http://113.64.147.217:8081/hls/1/index.m3u8

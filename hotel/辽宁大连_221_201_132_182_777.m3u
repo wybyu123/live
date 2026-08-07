@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-1
+http://221.201.132.182:777/hls/222445664/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-2
+http://221.201.132.182:777/hls/232899539/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-3
+http://221.201.132.182:777/hls/243923676/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-4
+http://221.201.132.182:777/hls/246746218/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-5
+http://221.201.132.182:777/hls/257663393/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-5+
+http://221.201.132.182:777/hls/443969582/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-6
+http://221.201.132.182:777/hls/284143533/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-7
+http://221.201.132.182:777/hls/287281364/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-8
+http://221.201.132.182:777/hls/319736149/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-9
+http://221.201.132.182:777/hls/334366488/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-10
+http://221.201.132.182:777/hls/355242285/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-11
+http://221.201.132.182:777/hls/368455614/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-12
+http://221.201.132.182:777/hls/383356249/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-13
+http://221.201.132.182:777/hls/394414763/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-14
+http://221.201.132.182:777/hls/419338931/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-15
+http://221.201.132.182:777/hls/423159946/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-16
+http://221.201.132.182:777/hls/426837468/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",CCTV-17
+http://221.201.132.182:777/hls/443156247/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",东方卫视
+http://221.201.132.182:777/hls/455839734/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",北京卫视
+http://221.201.132.182:777/hls/455272231/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",卡通卫视
+http://221.201.132.182:777/hls/494596185/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",吉林卫视
+http://221.201.132.182:777/hls/479119729/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",天津卫视
+http://221.201.132.182:777/hls/488289735/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",山东卫视
+http://221.201.132.182:777/hls/488852284/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",广东卫视
+http://221.201.132.182:777/hls/492875544/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",江苏卫视
+http://221.201.132.182:777/hls/474995545/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",浙江卫视
+http://221.201.132.182:777/hls/463882882/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",海南卫视
+http://221.201.132.182:777/hls/486344274/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",湖南卫视
+http://221.201.132.182:777/hls/465591451/index.m3u8
+#EXTINF:-1 group-title="Hotel_221.201.132.182:777",辽宁卫视
+http://221.201.132.182:777/hls/448726876/index.m3u8

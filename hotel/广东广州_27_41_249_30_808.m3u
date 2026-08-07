@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",汕头综合一套
+http://27.41.249.30:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",汕头经济生活
+http://27.41.249.30:808/hls/82/index.m3u8
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",汕头文旅体育
+http://27.41.249.30:808/hls/80/index.m3u8
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",揭阳综合
+http://27.41.249.30:808/http/172.16.8.212:7766/udp/239.21.0.91:3704
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",潮州综合
+http://27.41.249.30:808/hls/503/index.m3u8
+#EXTINF:-1 group-title="Hotel_27.41.249.30:808",潮阳台
+http://27.41.249.30:808/hls/531/index.m3u8

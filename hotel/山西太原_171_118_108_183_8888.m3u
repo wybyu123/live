@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-1
+http://171.118.108.183:8888/hls/1/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-2
+http://171.118.108.183:8888/hls/2/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-3
+http://171.118.108.183:8888/hls/3/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-5
+http://171.118.108.183:8888/hls/5/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-6
+http://171.118.108.183:8888/hls/6/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-13
+http://171.118.108.183:8888/hls/13/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",CCTV-15
+http://171.118.108.183:8888/hls/15/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",东方卫视
+http://171.118.108.183:8888/hls/17/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",云南卫视
+http://171.118.108.183:8888/hls/40/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",北京卫视
+http://171.118.108.183:8888/hls/22/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",四川卫视
+http://171.118.108.183:8888/hls/25/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",天津卫视
+http://171.118.108.183:8888/hls/24/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",山东卫视
+http://171.118.108.183:8888/hls/33/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",江苏卫视
+http://171.118.108.183:8888/hls/21/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",河北卫视
+http://171.118.108.183:8888/hls/43/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",浙江卫视
+http://171.118.108.183:8888/hls/19/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",深圳卫视
+http://171.118.108.183:8888/hls/29/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",湖南卫视
+http://171.118.108.183:8888/hls/16/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",辽宁卫视
+http://171.118.108.183:8888/hls/18/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",重庆卫视
+http://171.118.108.183:8888/hls/32/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",黑龙江卫视
+http://171.118.108.183:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",黄河
+http://171.118.108.183:8888/hls/47/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",山西
+http://171.118.108.183:8888/hls/53/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.118.108.183:8888",山西公共
+http://171.118.108.183:8888/hls/51/index.m3u8

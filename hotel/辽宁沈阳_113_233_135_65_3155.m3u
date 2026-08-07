@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV1
+http://113.233.135.65:3155/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV2
+http://113.233.135.65:3155/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV3
+http://113.233.135.65:3155/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV4
+http://113.233.135.65:3155/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV5
+http://113.233.135.65:3155/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV6
+http://113.233.135.65:3155/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV7
+http://113.233.135.65:3155/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV8
+http://113.233.135.65:3155/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV9
+http://113.233.135.65:3155/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV10
+http://113.233.135.65:3155/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV11
+http://113.233.135.65:3155/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV12
+http://113.233.135.65:3155/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV13
+http://113.233.135.65:3155/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV14
+http://113.233.135.65:3155/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV15
+http://113.233.135.65:3155/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CCTV17
+http://113.233.135.65:3155/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",央视精品
+http://113.233.135.65:3155/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",东方卫视
+http://113.233.135.65:3155/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",云南卫视
+http://113.233.135.65:3155/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",兵团卫视
+http://113.233.135.65:3155/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",内蒙古卫视
+http://113.233.135.65:3155/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",农林卫视
+http://113.233.135.65:3155/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",北京卫视
+http://113.233.135.65:3155/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",吉林卫视
+http://113.233.135.65:3155/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",四川卫视
+http://113.233.135.65:3155/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",天津卫视
+http://113.233.135.65:3155/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",宁夏卫视
+http://113.233.135.65:3155/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",安徽卫视
+http://113.233.135.65:3155/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",山东卫视
+http://113.233.135.65:3155/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",山西卫视
+http://113.233.135.65:3155/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",广东卫视
+http://113.233.135.65:3155/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",广西卫视
+http://113.233.135.65:3155/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",延边卫视
+http://113.233.135.65:3155/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",新疆卫视
+http://113.233.135.65:3155/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",江苏卫视
+http://113.233.135.65:3155/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",江西卫视
+http://113.233.135.65:3155/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",河北卫视
+http://113.233.135.65:3155/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",河南卫视
+http://113.233.135.65:3155/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",浙江卫视
+http://113.233.135.65:3155/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",深圳卫视
+http://113.233.135.65:3155/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",湖北卫视
+http://113.233.135.65:3155/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",湖南卫视
+http://113.233.135.65:3155/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",甘肃卫视
+http://113.233.135.65:3155/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",西藏卫视
+http://113.233.135.65:3155/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",贵州卫视
+http://113.233.135.65:3155/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁卫视
+http://113.233.135.65:3155/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",重庆卫视
+http://113.233.135.65:3155/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",陕西卫视
+http://113.233.135.65:3155/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",青海卫视
+http://113.233.135.65:3155/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",黑龙江卫视
+http://113.233.135.65:3155/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁北方
+http://113.233.135.65:3155/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁公共
+http://113.233.135.65:3155/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁教育青少
+http://113.233.135.65:3155/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁经济
+http://113.233.135.65:3155/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁都市
+http://113.233.135.65:3155/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁生活
+http://113.233.135.65:3155/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁体育
+http://113.233.135.65:3155/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁影视
+http://113.233.135.65:3155/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",沈阳新闻综合
+http://113.233.135.65:3155/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",中国教育4
+http://113.233.135.65:3155/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",中国教育
+http://113.233.135.65:3155/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",山东教育
+http://113.233.135.65:3155/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",CGTN
+http://113.233.135.65:3155/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",中国教育4
+http://113.233.135.65:3155/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",金鹰卡通
+http://113.233.135.65:3155/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",卡酷动漫
+http://113.233.135.65:3155/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",风尚购物
+http://113.233.135.65:3155/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",聚鲨环球精选
+http://113.233.135.65:3155/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",家有购物
+http://113.233.135.65:3155/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",央广购物
+http://113.233.135.65:3155/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",好享购物
+http://113.233.135.65:3155/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",发现之旅
+http://113.233.135.65:3155/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",环球奇观
+http://113.233.135.65:3155/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",家庭理财
+http://113.233.135.65:3155/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",金色学堂
+http://113.233.135.65:3155/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",老故事
+http://113.233.135.65:3155/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",书画
+http://113.233.135.65:3155/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",新动漫
+http://113.233.135.65:3155/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",BRTV纪实科教
+http://113.233.135.65:3155/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",新闻综合
+http://113.233.135.65:3155/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",影视生活
+http://113.233.135.65:3155/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",国学
+http://113.233.135.65:3155/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",中视购物
+http://113.233.135.65:3155/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",时尚购物
+http://113.233.135.65:3155/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",证券服务
+http://113.233.135.65:3155/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",财富天下
+http://113.233.135.65:3155/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",环球旅游
+http://113.233.135.65:3155/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",汽摩
+http://113.233.135.65:3155/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",茶
+http://113.233.135.65:3155/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",优购物
+http://113.233.135.65:3155/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",早期教育
+http://113.233.135.65:3155/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",都市剧场
+http://113.233.135.65:3155/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",快乐购物
+http://113.233.135.65:3155/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",乐游
+http://113.233.135.65:3155/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",法制天地
+http://113.233.135.65:3155/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",中华特产
+http://113.233.135.65:3155/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",女性时尚
+http://113.233.135.65:3155/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",生态环境
+http://113.233.135.65:3155/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",收藏天下
+http://113.233.135.65:3155/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",家家购物
+http://113.233.135.65:3155/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",生活时尚
+http://113.233.135.65:3155/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",动漫秀场
+http://113.233.135.65:3155/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",游戏风云
+http://113.233.135.65:3155/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",重温经典
+http://113.233.135.65:3155/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",世界地理
+http://113.233.135.65:3155/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",风云剧场
+http://113.233.135.65:3155/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",第一剧场
+http://113.233.135.65:3155/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",风云足球
+http://113.233.135.65:3155/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",风云音乐
+http://113.233.135.65:3155/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",北方导视
+http://113.233.135.65:3155/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",辽宁宜佳购物
+http://113.233.135.65:3155/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Hotel_113.233.135.65:3155",兵器科技
+http://113.233.135.65:3155/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0

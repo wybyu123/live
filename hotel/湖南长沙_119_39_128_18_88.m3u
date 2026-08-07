@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV1
+http://119.39.128.18:88/hls/1/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV2
+http://119.39.128.18:88/hls/2/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV3
+http://119.39.128.18:88/hls/3/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV4
+http://119.39.128.18:88/hls/4/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV5+
+http://119.39.128.18:88/hls/10/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV6
+http://119.39.128.18:88/hls/7/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV7
+http://119.39.128.18:88/hls/8/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV8
+http://119.39.128.18:88/hls/9/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV9
+http://119.39.128.18:88/hls/6/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV10
+http://119.39.128.18:88/hls/11/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV11
+http://119.39.128.18:88/hls/12/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV12
+http://119.39.128.18:88/hls/13/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV13
+http://119.39.128.18:88/hls/14/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV14
+http://119.39.128.18:88/hls/15/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV15
+http://119.39.128.18:88/hls/16/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",CCTV17
+http://119.39.128.18:88/hls/17/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",北京卫视
+http://119.39.128.18:88/hls/43/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",江苏卫视
+http://119.39.128.18:88/hls/41/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",浙江卫视
+http://119.39.128.18:88/hls/42/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南卫视
+http://119.39.128.18:88/hls/32/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南经视
+http://119.39.128.18:88/hls/26/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南都市
+http://119.39.128.18:88/hls/27/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南国际
+http://119.39.128.18:88/hls/24/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南娱乐
+http://119.39.128.18:88/hls/31/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南电视剧
+http://119.39.128.18:88/hls/29/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南教育
+http://119.39.128.18:88/hls/25/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南公共
+http://119.39.128.18:88/hls/28/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",湖南电影
+http://119.39.128.18:88/hls/30/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",高清院线
+http://119.39.128.18:88/hls/34/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",古装剧场
+http://119.39.128.18:88/hls/36/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",抗战剧场
+http://119.39.128.18:88/hls/35/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",经典剧场
+http://119.39.128.18:88/hls/37/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",金鹰纪实
+http://119.39.128.18:88/hls/45/index.m3u8
+#EXTINF:-1 group-title="119.39.128.18:88",株洲新闻综合
+http://119.39.128.18:88/hls/39/index.m3u8

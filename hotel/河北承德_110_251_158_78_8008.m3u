@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-1
+http://110.251.158.78:8008/hls/1/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-2
+http://110.251.158.78:8008/hls/2/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-3
+http://110.251.158.78:8008/hls/3/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-4
+http://110.251.158.78:8008/hls/4/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-5
+http://110.251.158.78:8008/hls/5/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-5+
+http://110.251.158.78:8008/hls/17/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-6
+http://110.251.158.78:8008/hls/6/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-7
+http://110.251.158.78:8008/hls/7/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-8
+http://110.251.158.78:8008/hls/8/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-9
+http://110.251.158.78:8008/hls/9/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-10
+http://110.251.158.78:8008/hls/10/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-11
+http://110.251.158.78:8008/hls/11/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-12
+http://110.251.158.78:8008/hls/12/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-13
+http://110.251.158.78:8008/hls/13/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-14
+http://110.251.158.78:8008/hls/14/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-15
+http://110.251.158.78:8008/hls/15/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CCTV-16
+http://110.251.158.78:8008/hls/16/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",东南卫视
+http://110.251.158.78:8008/hls/34/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",东方卫视
+http://110.251.158.78:8008/hls/32/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",北京卫视
+http://110.251.158.78:8008/hls/21/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",四川卫视
+http://110.251.158.78:8008/hls/31/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",天津卫视
+http://110.251.158.78:8008/hls/22/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",安徽卫视
+http://110.251.158.78:8008/hls/29/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",山东卫视
+http://110.251.158.78:8008/hls/24/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",广东卫视
+http://110.251.158.78:8008/hls/25/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",广西卫视
+http://110.251.158.78:8008/hls/35/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",江苏卫视
+http://110.251.158.78:8008/hls/20/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",河北卫视
+http://110.251.158.78:8008/hls/18/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",浙江卫视
+http://110.251.158.78:8008/hls/26/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",深圳卫视
+http://110.251.158.78:8008/hls/23/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",湖北卫视
+http://110.251.158.78:8008/hls/30/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",湖南卫视
+http://110.251.158.78:8008/hls/19/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",辽宁卫视
+http://110.251.158.78:8008/hls/28/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",重庆卫视
+http://110.251.158.78:8008/hls/33/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",黑龙江卫视
+http://110.251.158.78:8008/hls/27/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",第一剧场高清
+http://110.251.158.78:8008/hls/36/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",风云剧场高清
+http://110.251.158.78:8008/hls/37/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",风云音乐高清
+http://110.251.158.78:8008/hls/38/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",风云足球高清
+http://110.251.158.78:8008/hls/39/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",高尔夫网球高清
+http://110.251.158.78:8008/hls/40/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",世界地理高清
+http://110.251.158.78:8008/hls/41/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",生活时尚高清
+http://110.251.158.78:8008/hls/42/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",都市剧场高清
+http://110.251.158.78:8008/hls/43/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",极速汽车高清
+http://110.251.158.78:8008/hls/44/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",足球频道高清
+http://110.251.158.78:8008/hls/45/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",求索纪录高清
+http://110.251.158.78:8008/hls/46/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",女性时尚高清
+http://110.251.158.78:8008/hls/47/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",文化精品高清
+http://110.251.158.78:8008/hls/48/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CBN-每日影院
+http://110.251.158.78:8008/hls/49/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CBN-幸福剧场
+http://110.251.158.78:8008/hls/50/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",CBN-风尚生活
+http://110.251.158.78:8008/hls/51/index.m3u8
+#EXTINF:-1 group-title="Hotel_110.251.158.78:8008",欢笑剧场4K
+http://110.251.158.78:8008/hls/52/index.m3u8

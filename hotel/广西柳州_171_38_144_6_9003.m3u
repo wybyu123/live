@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-1
+http://171.38.144.6:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-1
+http://171.38.144.6:9003/hls/159/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-3
+http://171.38.144.6:9003/hls/3/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-4
+http://171.38.144.6:9003/hls/4/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-5
+http://171.38.144.6:9003/hls/5/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-8
+http://171.38.144.6:9003/hls/8/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-9
+http://171.38.144.6:9003/hls/9/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-10
+http://171.38.144.6:9003/hls/10/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-11
+http://171.38.144.6:9003/hls/11/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-12
+http://171.38.144.6:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-13
+http://171.38.144.6:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-13
+http://171.38.144.6:9003/hls/137/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-15
+http://171.38.144.6:9003/hls/136/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTV-17
+http://171.38.144.6:9003/hls/17/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",CCTVCET4
+http://171.38.144.6:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",上海卫视
+http://171.38.144.6:9003/hls/52/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广东卫视
+http://171.38.144.6:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广东卫视
+http://171.38.144.6:9003/hls/134/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广西卫视
+http://171.38.144.6:9003/hls/31/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广西卫视
+http://171.38.144.6:9003/hls/135/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",浙江卫视
+http://171.38.144.6:9003/hls/132/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广西都市
+http://171.38.144.6:9003/hls/25/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",南宁公共
+http://171.38.144.6:9003/hls/28/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",南宁公共
+http://171.38.144.6:9003/hls/29/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广东经济
+http://171.38.144.6:9003/hls/41/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",广东少儿
+http://171.38.144.6:9003/hls/45/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",炫动卡通
+http://171.38.144.6:9003/hls/49/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",金鹰卡通
+http://171.38.144.6:9003/hls/50/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",风云音乐
+http://171.38.144.6:9003/hls/95/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",经典电影
+http://171.38.144.6:9003/hls/96/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",车迷频道
+http://171.38.144.6:9003/hls/123/index.m3u8
+#EXTINF:-1 group-title="Hotel_171.38.144.6:9003",摄影纵谈
+http://171.38.144.6:9003/hls/124/index.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="125.43.246.19:85",CCTV11
+http://125.43.246.19:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="125.43.246.19:85",重庆卫视
+http://125.43.246.19:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="125.43.246.19:85",金鹰卡通
+http://125.43.246.19:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0

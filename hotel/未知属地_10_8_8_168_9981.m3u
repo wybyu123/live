@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hotel_10.8.8.168:9981",TVB Plus
+http://10.8.8.168:9981/stream/channel/6b69fd9bd6b559be85ae2b7536f501bd?ticket=09e5c89c234e27332fb0372a357349aa2ce389c8&profile=webtv-h264-aac-mpegts

@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV1
+http://113.235.151.48:777/hls/222445664/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV2
+http://113.235.151.48:777/hls/232899539/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV3
+http://113.235.151.48:777/hls/243923676/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV4
+http://113.235.151.48:777/hls/246746218/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV5
+http://113.235.151.48:777/hls/257663393/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV5+
+http://113.235.151.48:777/hls/443969582/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV6
+http://113.235.151.48:777/hls/284143533/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV7
+http://113.235.151.48:777/hls/287281364/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV8
+http://113.235.151.48:777/hls/319736149/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV9
+http://113.235.151.48:777/hls/334366488/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV10
+http://113.235.151.48:777/hls/355242285/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV11
+http://113.235.151.48:777/hls/368455614/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV12
+http://113.235.151.48:777/hls/383356249/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV13
+http://113.235.151.48:777/hls/394414763/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV14
+http://113.235.151.48:777/hls/419338931/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV15
+http://113.235.151.48:777/hls/423159946/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV16
+http://113.235.151.48:777/hls/426837468/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",CCTV17
+http://113.235.151.48:777/hls/443156247/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",东方卫视
+http://113.235.151.48:777/hls/455839734/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",北京卫视
+http://113.235.151.48:777/hls/455272231/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",卡通卫视
+http://113.235.151.48:777/hls/494596185/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",吉林卫视
+http://113.235.151.48:777/hls/479119729/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",天津卫视
+http://113.235.151.48:777/hls/488289735/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",山东卫视
+http://113.235.151.48:777/hls/488852284/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",广东卫视
+http://113.235.151.48:777/hls/492875544/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",江苏卫视
+http://113.235.151.48:777/hls/474995545/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",浙江卫视
+http://113.235.151.48:777/hls/463882882/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",海南卫视
+http://113.235.151.48:777/hls/486344274/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",湖南卫视
+http://113.235.151.48:777/hls/465591451/index.m3u8
+#EXTINF:-1 group-title="113.235.151.48:777",辽宁卫视
+http://113.235.151.48:777/hls/448726876/index.m3u8
