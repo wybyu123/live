@@ -10,7 +10,7 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
 
 # 输入与输出路径适配 GitHub 仓库结构
 INPUT_FILE = "py/zhgxtv.txt"
-BLACKLIST_FILE = "py/black2_ips.txt"
+BLACKLIST_FILE = "py/black_ips.txt"
 OUTPUT_TXT = "zhgxtv_live.txt"
 OUTPUT_M3U = "zhgxtv_live.m3u"
 
@@ -84,8 +84,8 @@ def parse_type1(ip_port):
 
 def parse_type2(ip_port):
     """
-    第二类系统 (ZHGXTV)：解析返回的文本，并强制将内部所有链接的主机头
-    替换为当前的真实公网 ip_port，救回原本带有内网IP但实际可用的源。
+    第二类系统 (ZHGXTV)：解析返回的文本，并智能修复残缺 URL（如 http:///hls/...）
+    或替换带有旧/内网 IP 的链接，确保全部正确指向当前的真实公网 ip_port。
     """
     channels = []
     urls_to_try = [
@@ -148,15 +148,18 @@ def parse_type2(ip_port):
                 if not is_valid_channel(name):
                     continue
                     
-                # 【核心修改】不论原链接是内网IP还是什么，只要是 udp 开头保留，
-                # 其它所有 http/https 链接，强行把它们的 IP:端口 替换为当前正在检测的有效公网 ip_port！
+                # 【核心修复逻辑】
                 if orig_url.startswith("udp://"):
                     new_url = orig_url
                 else:
-                    # 使用正则将 http://任意旧IP:端口/ 或 http://任意旧IP/ 替换为当前的 http://{ip_port}/
-                    new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
+                    # 1. 适配残缺链接：如果形如 http:///hls/... 或 http:///:80/... 缺少主机 IP
+                    if orig_url.startswith("http:///"):
+                        new_url = orig_url.replace("http:///", f"http://{ip_port}/", 1)
+                    # 2. 适配常规链接：强行将原链接的主机头替换为当前的有效公网 ip_port
+                    else:
+                        new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
                 
-                # 校验重写后的 URL 是否包含合法的流媒体特征或路径
+                # 校验重写后的 URL 是否合法
                 if new_url and not any(k in new_url.lower() for k in ["/metrics", "/api/video/", "china.com/api"]):
                     temp_channels.append((name, new_url))
                     
