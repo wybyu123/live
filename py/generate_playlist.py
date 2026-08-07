@@ -9,11 +9,12 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
 ) else None
 
 INPUT_FILE = "py/jsmpeg.txt"
+BLACKLIST_FILE = "py/black_ips.txt"  # 黑名单文件路径
 OUTPUT_TXT = "live.txt"
 OUTPUT_M3U = "live.m3u"
-TIMEOUT = 15000  # 浏览器超时毫秒（已放宽至 15 秒）
+TIMEOUT = 15000  # 浏览器超时毫秒
 
-BLACK_LIST = {
+BLACK_LIST_KEYWORDS = {
     "key",
     "name",
     "source",
@@ -41,6 +42,37 @@ BLACK_LIST = {
 }
 
 
+def load_blacklist():
+    """加载黑名单文件中的 IP"""
+    blacklist = set()
+    try:
+        with open(BLACKLIST_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                item = line.strip()
+                if item and not item.startswith("#"):
+                    blacklist.add(item)
+    except FileNotFoundError:
+        pass
+    return blacklist
+
+
+def update_blacklist(new_failed_ips):
+    """将新失败的 IP 追加保存到黑名单文件中（去重）"""
+    existing_blacklist = load_blacklist()
+    added_count = 0
+    
+    for ip in new_failed_ips:
+        if ip not in existing_blacklist:
+            existing_blacklist.add(ip)
+            added_count += 1
+
+    if added_count > 0:
+        with open(BLACKLIST_FILE, "w", encoding="utf-8") as f:
+            for ip in sorted(existing_blacklist):
+                f.write(ip + "\n")
+        print(f"📝 已更新黑名单，新吸纳 {added_count} 个失效目标至: {BLACKLIST_FILE}")
+
+
 def clean_channel_name(name):
     """清理频道名称：去掉空格，屏蔽并删除“高清”字样"""
     if not name:
@@ -51,7 +83,6 @@ def clean_channel_name(name):
 
 def get_channel_sort_key(ch_name):
     """为频道定义排序权重：
-
     1. 央视 (CCTV) 且 1-17 之间的排最前面，按数字排序
     2. 卫视频道排在中间
     3. 其他频道排在最后
@@ -135,7 +166,7 @@ def fetch_channels_with_browser(p, base_url):
             name_lower = raw_name.lower()
             key_lower = key.lower()
 
-            if name_lower in BLACK_LIST or key_lower in BLACK_LIST:
+            if name_lower in BLACK_LIST_KEYWORDS or key_lower in BLACK_LIST_KEYWORDS:
                 continue
             if any(
                 w in raw_name
@@ -169,12 +200,17 @@ def fetch_channels_with_browser(p, base_url):
 
 def main():
     print("=" * 50)
-    print(" 🚀 启动 IPTV 自动化抓取（已优化 5秒预检与 15秒超时）...")
+    print(" 🚀 启动 IPTV 自动化抓取（已启用黑名单过滤与动态更新）...")
     print("=" * 50)
 
+    # 1. 加载黑名单
+    blacklist = load_blacklist()
+    print(f"🛡️ 从 {BLACKLIST_FILE} 加载了 {len(blacklist)} 个已知失效黑名单 IP。")
+
+    # 2. 读取输入文件
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
-            ips = [
+            raw_ips = [
                 line.strip()
                 for line in f
                 if line.strip() and not line.startswith("#")
@@ -183,23 +219,41 @@ def main():
         print(f"[错误] 找不到输入文件: {INPUT_FILE}")
         return
 
-    print(f"📁 从 {INPUT_FILE} 加载了 {len(ips)} 个待测 IP 目标。")
+    print(f"📁 从 {INPUT_FILE} 总共加载了 {len(raw_ips)} 个原始目标。")
+
+    # 3. 运行前自动过滤黑名单中的 IP
+    filtered_ips = []
+    skipped_by_blacklist = 0
+    for ip_item in raw_ips:
+        # 提取纯主机地址用于比对黑名单
+        clean_ip = ip_item.replace("http://", "").replace("https://", "").rstrip("/")
+        if clean_ip in blacklist:
+            skipped_by_blacklist += 1
+        else:
+            filtered_ips.append(ip_item)
+
+    print(f"🚫 已通过黑名单自动屏蔽 {skipped_by_blacklist} 个死 IP，实际待测: {len(filtered_ips)} 个。")
 
     grouped_channels = {}
     success_ip_count = 0
+    new_failed_ips = []
 
     with sync_playwright() as p:
-        for ip_url in ips:
+        for ip_url in filtered_ips:
             target_url = (
                 ip_url
                 if ip_url.startswith("http://") or ip_url.startswith("https://")
                 else f"http://{ip_url}"
             )
 
+            # 纯主机标识用于写入黑名单
+            base_host_key = target_url.replace("http://", "").replace("https://", "").rstrip("/")
+
             # 步骤 1：HTTP 状态预检（5秒超时）
             print(f"🔍 预检连通性: {target_url} ...", end=" ")
             if not test_ip_status(target_url):
                 print("❌ [连接失败/超时]，跳过抓取")
+                new_failed_ips.append(base_host_key)
                 continue
             print("✅ [连通正常]，开始深度抓取")
 
@@ -215,6 +269,12 @@ def main():
                 grouped_channels[target_url] = channels
             else:
                 print(f"[⚠️ 过滤空壳页面] {target_url} -> 无有效频道，已丢弃")
+                # 页面无法正常渲染频道也视为无效源，加入黑名单
+                new_failed_ips.append(base_host_key)
+
+    # 4. 运行结束后将新失败的 IP 回填至黑名单
+    if new_failed_ips:
+        update_blacklist(new_failed_ips)
 
     print("-" * 50)
     print(f"🎉 任务处理完毕！")
