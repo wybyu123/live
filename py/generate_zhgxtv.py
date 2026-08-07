@@ -121,7 +121,7 @@ def parse_type2(ip_port):
                 if not name:
                     name = "未知频道"
                     
-                # 如果原链接是组播源 (udp://)，直接保留原链接；如果是 http 链接，替换为当前真实 IP:端口
+                # 如果原链接是组播源 (udp://)，直接保留；如果是 http 链接，替换为当前真实 IP:端口
                 if orig_url.startswith("udp://"):
                     new_url = orig_url
                 else:
@@ -147,11 +147,11 @@ def main():
     blacklist = load_blacklist()
     print(f"🛡️ 从 {BLACKLIST_FILE} 加载了 {len(blacklist)} 个已知失效黑名单 IP。")
 
-    # 2. 读取 zhgxtv.txt 中的 IP 列表
+    # 2. 读取 zhgxtv.txt 中的 IP 列表并自动去重
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-        raw_ips = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+        raw_ips = list(set([line.strip() for line in f if line.strip() and not line.startswith("#")]))
 
-    print(f"📁 从 {INPUT_FILE} 总共加载了 {len(raw_ips)} 个原始目标。")
+    print(f"📁 从 {INPUT_FILE} 去重后总共加载了 {len(raw_ips)} 个唯一目标。")
 
     # 3. 运行前自动过滤黑名单中的 IP
     filtered_ips = []
@@ -171,8 +171,8 @@ def main():
 
     print(f"\n🚀 开始批量处理 {len(filtered_ips)} 个有效地址...\n")
 
-    for ip_port in filtered_ips:
-        # 【关键修复】清洗掉可能自带的 http:// 或 https:// 和末尾斜杠，只留纯 IP:端口
+    for ip_item in filtered_ips:
+        # 清洗掉可能带有的 http:// 或 https:// 和末尾斜杠，只留纯 IP:端口
         ip_port = ip_item.replace("http://", "").replace("https://", "").strip().rstrip("/")
         if not ip_port:
             continue
