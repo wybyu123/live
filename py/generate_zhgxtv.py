@@ -46,6 +46,47 @@ def update_blacklist(new_failed_ips):
         print(f"📝 已更新黑名单，新增吸纳 {added_count} 个失效目标至: {BLACKLIST_FILE}")
 
 
+def is_valid_channel_and_url(name, url):
+    """
+    使用严格的正则与规则过滤无效、乱码或内网私有地址的频道项
+    """
+    if not name or not url:
+        return False
+        
+    # 1. 过滤乱码或含有过多非正常字符的频道名称
+    # 如果名称包含明显的乱码特征或过长，直接过滤
+    if len(name) > 35 or re.search(r'[鏂板瀷鍐犵姸]', name):
+        return False
+        
+    # 2. 检查 URL 格式，必须以 http://, https:// 或 udp:// 开头
+    url_lower = url.lower()
+    if not (url_lower.startswith("http://") or url_lower.startswith("https://") or url_lower.startswith("udp://")):
+        return False
+        
+    # 3. 严格屏蔽所有内网、私有及回环网段地址（防止局域网幽灵源污染）
+    private_ip_patterns = [
+        "://127.", 
+        "://192.168.", 
+        "://10.", 
+        "://172.16.", "://172.17.", "://172.18.", "://172.19.",
+        "://172.20.", "://172.21.", "://172.22.", "://172.23.",
+        "://172.24.", "://172.25.", "://172.26.", "://172.27.",
+        "://172.28.", "://172.29.", "://172.30.", "://172.31.",
+        "://128.1."
+    ]
+    for pattern in private_ip_patterns:
+        if pattern in url_lower:
+            return False
+            
+    # 4. 过滤常见的无效垃圾域名/API路径
+    invalid_url_keywords = ["/metrics", "/api/video/", "china.com/api"]
+    for kw in invalid_url_keywords:
+        if kw in url_lower:
+            return False
+            
+    return True
+
+
 def parse_type1(ip_port):
     """
     第一类系统 (jsmpeg-streamer)：通过 /streamer/list 获取 JSON 频道数据
@@ -63,7 +104,8 @@ def parse_type1(ip_port):
                     if key:
                         channel_name = name.strip() if name else str(key)
                         play_url = f"http://{ip_port}/hls/{key}/index.m3u8"
-                        channels.append((channel_name, play_url))
+                        if is_valid_channel_and_url(channel_name, play_url):
+                            channels.append((channel_name, play_url))
     except Exception:
         pass
     return channels
@@ -71,7 +113,8 @@ def parse_type1(ip_port):
 
 def parse_type2(ip_port):
     """
-    第二类系统 (ZHGXTV)：使用 utf-8、gbk、gb18030 三种编码依次测试解析，防止乱码
+    第二类系统 (ZHGXTV)：使用 utf-8、gbk、gb18030 三种编码依次测试解析，
+    并应用严格的正则与内网IP黑名单过滤。
     """
     channels = []
     urls_to_try = [
@@ -100,7 +143,17 @@ def parse_type2(ip_port):
             if not decoded_text:
                 continue
                 
+            # 全局过滤监控、HTML等非直播接口
+            invalid_keywords = [
+                "python_", "process_", "api_request_count", "metrics", 
+                "<!DOCTYPE", "<html", "<head", "error", "404 Not Found"
+            ]
+            if any(keyword in decoded_text for keyword in invalid_keywords):
+                continue
+                
             lines = decoded_text.splitlines()
+            temp_channels = []
+            
             for line in lines:
                 line = line.strip()
                 if not line or line.startswith('#'):
@@ -116,21 +169,24 @@ def parse_type2(ip_port):
                 name = parts[0].strip()
                 orig_url = parts[1].strip()
                 
-                # 清洗频道名称
+                # 清洗频道名称中的特殊空白
                 name = re.sub(r'[\r\n\t]', '', name)
                 if not name:
                     name = "未知频道"
                     
-                # 如果原链接是组播源 (udp://)，直接保留；如果是 http 链接，替换为当前真实 IP:端口
+                # 替换为当前真实 IP:端口
                 if orig_url.startswith("udp://"):
                     new_url = orig_url
                 else:
                     new_url = re.sub(r'https?://[^/]+/', f'http://{ip_port}/', orig_url)
                 
-                if new_url:
-                    channels.append((name, new_url))
+                # 使用统一的严格校验函数过滤垃圾源与内网源
+                if is_valid_channel_and_url(name, new_url):
+                    temp_channels.append((name, new_url))
                     
-            if channels:
+            # 只有当有效过滤后剩余的频道数量达到合理阈值（>=2）才采纳
+            if len(temp_channels) >= 2:
+                channels.extend(temp_channels)
                 break
         except Exception:
             continue
@@ -172,7 +228,6 @@ def main():
     print(f"\n🚀 开始批量处理 {len(filtered_ips)} 个有效地址...\n")
 
     for ip_item in filtered_ips:
-        # 清洗掉可能带有的 http:// 或 https:// 和末尾斜杠，只留纯 IP:端口
         ip_port = ip_item.replace("http://", "").replace("https://", "").strip().rstrip("/")
         if not ip_port:
             continue
@@ -183,7 +238,7 @@ def main():
         # 1. 尝试第二类系统 (ZHGXTV)
         type2_channels = parse_type2(ip_port)
         if type2_channels:
-            print(f"✅ [识别为：ZHGXTV 系统] 提取 {len(type2_channels)} 个频道")
+            print(f"✅ [识别为：ZHGXTV 系统] 有效提取 {len(type2_channels)} 个频道")
             all_channels.extend(type2_channels)
             success_count += 1
             continue
@@ -191,7 +246,7 @@ def main():
         # 2. 尝试第一类系统 (jsmpeg-streamer)
         type1_channels = parse_type1(ip_port)
         if type1_channels:
-            print(f"✅ [识别为：jsmpeg-streamer 系统] 提取 {len(type1_channels)} 个频道")
+            print(f"✅ [识别为：jsmpeg-streamer 系统] 有效提取 {len(type1_channels)} 个频道")
             all_channels.extend(type1_channels)
             success_count += 1
             continue
@@ -221,7 +276,7 @@ def main():
             for name, url in all_channels:
                 f.write(f'#EXTINF:-1,{name}\n')
                 f.write(f'{url}\n')
-        print(f"💾 已成功生成 M3U 文件: {OUTPUT_M3U} (共包含 {len(all_channels)} 个频道)")
+        print(f"💾 已成功生成 M3U 文件: {OUTPUT_M3U} (共包含 {len(all_channels)} 个有效频道)")
     else:
         print("\n⚠️ 未成功提取到任何频道。")
     print("=" * 50)
