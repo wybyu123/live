@@ -11,7 +11,7 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
 INPUT_FILE = "py/jsmpeg.txt"
 OUTPUT_TXT = "live.txt"
 OUTPUT_M3U = "live.m3u"
-TIMEOUT = 10000  # 浏览器超时毫秒
+TIMEOUT = 15000  # 浏览器超时毫秒（已放宽至 15 秒）
 
 BLACK_LIST = {
     "key",
@@ -74,10 +74,9 @@ def get_channel_sort_key(ch_name):
 
 
 def test_ip_status(target_url):
-    """前置预检：快速测试 IP 源是否可以正常访问（回复 200 或成功响应）"""
+    """前置预检：快速测试 IP 源是否可以正常访问（超时设为 5 秒）"""
     try:
-        response = requests.get(target_url, timeout=2.5)
-        # 只要服务器有正常响应且状态码正常，即视为存活
+        response = requests.get(target_url, timeout=5)
         if response.status_code < 400:
             return True
     except Exception:
@@ -170,7 +169,7 @@ def fetch_channels_with_browser(p, base_url):
 
 def main():
     print("=" * 50)
-    print(" 🚀 启动 IPTV 自动化抓取（已启用 HTTP 200 状态前置预检）...")
+    print(" 🚀 启动 IPTV 自动化抓取（已优化 5秒预检与 15秒超时）...")
     print("=" * 50)
 
     try:
@@ -197,14 +196,14 @@ def main():
                 else f"http://{ip_url}"
             )
 
-            # 步骤 1：先进行 HTTP 状态预检
+            # 步骤 1：HTTP 状态预检（5秒超时）
             print(f"🔍 预检连通性: {target_url} ...", end=" ")
             if not test_ip_status(target_url):
                 print("❌ [连接失败/超时]，跳过抓取")
                 continue
             print("✅ [连通正常]，开始深度抓取")
 
-            # 步骤 2：连通正常才启动浏览器抓取
+            # 步骤 2：通过 Playwright 抓取频道
             channels = fetch_channels_with_browser(p, target_url)
 
             if channels and len(channels) >= 2:
