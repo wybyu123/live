@@ -46,44 +46,15 @@ def update_blacklist(new_failed_ips):
         print(f"📝 已更新黑名单，新增吸纳 {added_count} 个失效目标至: {BLACKLIST_FILE}")
 
 
-def is_valid_channel_and_url(name, url):
+def is_valid_channel(name):
     """
-    使用严格的正则与规则过滤无效、乱码或内网私有地址的频道项
+    清洗并校验频道名称是否合法
     """
-    if not name or not url:
+    if not name:
         return False
-        
-    # 1. 过滤乱码或含有过多非正常字符的频道名称
-    # 如果名称包含明显的乱码特征或过长，直接过滤
+    # 过滤明显的乱码特征
     if len(name) > 35 or re.search(r'[鏂板瀷鍐犵姸]', name):
         return False
-        
-    # 2. 检查 URL 格式，必须以 http://, https:// 或 udp:// 开头
-    url_lower = url.lower()
-    if not (url_lower.startswith("http://") or url_lower.startswith("https://") or url_lower.startswith("udp://")):
-        return False
-        
-    # 3. 严格屏蔽所有内网、私有及回环网段地址（防止局域网幽灵源污染）
-    private_ip_patterns = [
-        "://127.", 
-        "://192.168.", 
-        "://10.", 
-        "://172.16.", "://172.17.", "://172.18.", "://172.19.",
-        "://172.20.", "://172.21.", "://172.22.", "://172.23.",
-        "://172.24.", "://172.25.", "://172.26.", "://172.27.",
-        "://172.28.", "://172.29.", "://172.30.", "://172.31.",
-        "://128.1."
-    ]
-    for pattern in private_ip_patterns:
-        if pattern in url_lower:
-            return False
-            
-    # 4. 过滤常见的无效垃圾域名/API路径
-    invalid_url_keywords = ["/metrics", "/api/video/", "china.com/api"]
-    for kw in invalid_url_keywords:
-        if kw in url_lower:
-            return False
-            
     return True
 
 
@@ -104,7 +75,7 @@ def parse_type1(ip_port):
                     if key:
                         channel_name = name.strip() if name else str(key)
                         play_url = f"http://{ip_port}/hls/{key}/index.m3u8"
-                        if is_valid_channel_and_url(channel_name, play_url):
+                        if is_valid_channel(channel_name):
                             channels.append((channel_name, play_url))
     except Exception:
         pass
@@ -113,8 +84,8 @@ def parse_type1(ip_port):
 
 def parse_type2(ip_port):
     """
-    第二类系统 (ZHGXTV)：使用 utf-8、gbk、gb18030 三种编码依次测试解析，
-    并应用严格的正则与内网IP黑名单过滤。
+    第二类系统 (ZHGXTV)：解析返回的文本，并强制将内部所有链接的主机头
+    替换为当前的真实公网 ip_port，救回原本带有内网IP但实际可用的源。
     """
     channels = []
     urls_to_try = [
@@ -174,17 +145,22 @@ def parse_type2(ip_port):
                 if not name:
                     name = "未知频道"
                     
-                # 替换为当前真实 IP:端口
+                if not is_valid_channel(name):
+                    continue
+                    
+                # 【核心修改】不论原链接是内网IP还是什么，只要是 udp 开头保留，
+                # 其它所有 http/https 链接，强行把它们的 IP:端口 替换为当前正在检测的有效公网 ip_port！
                 if orig_url.startswith("udp://"):
                     new_url = orig_url
                 else:
-                    new_url = re.sub(r'https?://[^/]+/', f'http://{ip_port}/', orig_url)
+                    # 使用正则将 http://任意旧IP:端口/ 或 http://任意旧IP/ 替换为当前的 http://{ip_port}/
+                    new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
                 
-                # 使用统一的严格校验函数过滤垃圾源与内网源
-                if is_valid_channel_and_url(name, new_url):
+                # 校验重写后的 URL 是否包含合法的流媒体特征或路径
+                if new_url and not any(k in new_url.lower() for k in ["/metrics", "/api/video/", "china.com/api"]):
                     temp_channels.append((name, new_url))
                     
-            # 只有当有效过滤后剩余的频道数量达到合理阈值（>=2）才采纳
+            # 只要有效解析出的频道数达到合理阈值（>=2），就采纳
             if len(temp_channels) >= 2:
                 channels.extend(temp_channels)
                 break
