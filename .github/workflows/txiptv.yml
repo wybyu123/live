@@ -1,0 +1,61 @@
+name: IPTV 酒店源全自动扫描
+
+on:
+  schedule:
+    # 每天北京时间上午 09:23、下午 17:23 自动运行一次
+    - cron: '23 9,17 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120 # 给予充足的超时时间防止大批量扫描中断
+
+    steps:
+      - name: 1. 检出私有库代码
+        uses: actions/checkout@v4
+        with:
+          repository: 'linyubo211/tvlive'
+          token: ${{ secrets.MY_PRIVATE_REPO_TOKEN }}
+          fetch-depth: 0
+
+      - name: 2. Python 环境准备
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 3. 安装脚本依赖
+        run: pip install requests urllib3
+
+      - name: 4. 执行 C 段 IP 扫描与资产发现
+        run: python -u py/scan.py
+
+      - name: 5. 执行源格式转换
+        run: python -u py/convert.py
+
+      - name: 6. 执行酒店源清洗
+        run: python -u py/clean_hotel.py
+
+      - name: 7. 提交并推送最新可用源文件回私有库
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "✨ 扫描与清洗完成，但内容无变动，跳过回传。"
+          else
+            git commit -m "自动更新酒店源及C段扫描结果: $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            git pull origin main --rebase -X theirs || {
+              echo "⚠️ Rebase 冲突，启用强制覆盖策略..."
+              git rebase --abort
+              git fetch origin main
+              git reset --soft origin/main
+              git add .
+              git commit --amend -m "自动更新酒店源及C段扫描结果 (强制覆盖): $(date +'%Y-%m-%d %H:%M:%S')"
+            }
+            
+            git push origin main
+          fi
