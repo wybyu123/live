@@ -84,8 +84,8 @@ def parse_type1(ip_port):
 
 def parse_type2(ip_port):
     """
-    第二类系统 (ZHGXTV)：严格过滤掉所有 udp:// 和 rtp:// 组播源，
-    仅保留通过 HTTP/HTTPS 能够正常转换或代理的有效播放链接。
+    第二类系统 (ZHGXTV)：严格清洗，只保留形如 /hls/数字/index.m3u8 规范路径的链接，
+    并且强制将域名/IP统一归属到当前的真实 ip_port，彻底剔除混合外链、PLTV、UDP 等杂项。
     """
     channels = []
     urls_to_try = [
@@ -148,22 +148,32 @@ def parse_type2(ip_port):
                 if not is_valid_channel(name):
                     continue
                     
-                # 【核心修改逻辑：直接屏蔽 udp:// 和 rtp:// 组播源】
-                if orig_url.startswith("udp://") or orig_url.startswith("rtp://"):
+                # 1. 严格屏蔽 udp://, rtp://, rtsp:// 以及长 PLTV 路径
+                if any(orig_url.lower().startswith(p) for p in ["udp://", "rtp://", "rtsp://"]):
                     continue
                     
-                # 1. 适配残缺链接：形如 http:///hls/... 补全 IP
+                if "/pltv/" in orig_url.lower() or ".smil" in orig_url.lower():
+                    continue
+
+                # 2. 【核心过滤】：必须严格匹配标准 HLS 格式（包含 /hls/数字/index.m3u8）
+                # 如果里面夹杂了外链域名（如 fzcds.cn 等非当前主机的其他地址且不符合纯粹的hls结构），直接丢弃
+                # 我们通过正则检查原链接中是否包含标准的 /hls/数字/index.m3u8 模式
+                if not re.search(r'/hls/\d+/index\.m3u8', orig_url, re.IGNORECASE):
+                    continue
+                    
+                # 3. 修复残缺链接或将所有合法的内部 HLS 链接统一绑定到当前的公网 ip_port
                 if orig_url.startswith("http:///"):
                     new_url = orig_url.replace("http:///", f"http://{ip_port}/", 1)
-                # 2. 适配常规 http 链接，替换为主机当前的真实 ip_port
                 else:
+                    # 强行重写主机头为当前检测的 IP:端口，彻底杜绝外链混入
                     new_url = re.sub(r'https?://[^/]+', f'http://{ip_port}', orig_url)
                 
-                # 校验重写后的 URL 是否合法
-                if new_url and not any(k in new_url.lower() for k in ["/metrics", "/api/video/", "china.com/api"]):
-                    temp_channels.append((name, new_url))
+                # 最终双重校验，确保生成的 URL 干净且带有合法的 /hls/ 结构
+                if new_url and re.search(r'/hls/\d+/index\.m3u8', new_url, re.IGNORECASE):
+                    if not any(k in new_url.lower() for k in ["/metrics", "/api/video/", "china.com/api"]):
+                        temp_channels.append((name, new_url))
                     
-            # 只要有效解析出的频道数达到合理阈值（>=2），就采纳
+            # 只要有效解析出的符合规范的频道数达到合理阈值（>=2），就采纳
             if len(temp_channels) >= 2:
                 channels.extend(temp_channels)
                 break
