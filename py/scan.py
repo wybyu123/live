@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # --- 配置区 ---
-INPUT_FILE = "py/1000.txt"
+INPUT_FILE = "py/txiptv.txt"
 SUCCESS_FILE = "py/1000_alive.txt"
 TIMEOUT = 5       # 酒店源响应很快，2秒不通基本就死掉，缩短超时可大幅提速
 MAX_WORKERS = 200  # 并发线程数。群晖性能好可以开到 300-500
