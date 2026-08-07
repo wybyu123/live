@@ -7,7 +7,7 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
     sys.stdout, "reconfigure"
 ) else None
 
-INPUT_FILE = "py/valid_9003.txt"
+INPUT_FILE = "py/jsmpeg.txt"
 OUTPUT_TXT = "live.txt"
 OUTPUT_M3U = "live.m3u"
 TIMEOUT = 10000  # 毫秒
