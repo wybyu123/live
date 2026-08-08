@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1" group-title="112.26.18.35:9901",CCTV-1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" group-title="112.26.18.35:9901",CCTV-2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" group-title="112.26.18.35:9901",CCTV-3
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4" group-title="112.26.18.35:9901",CCTV-4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" group-title="112.26.18.35:9901",CCTV-5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" group-title="112.26.18.35:9901",CCTV-6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" group-title="112.26.18.35:9901",CCTV-7
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" group-title="112.26.18.35:9901",CCTV-8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" group-title="112.26.18.35:9901",CCTV-9
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" group-title="112.26.18.35:9901",CCTV-10
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-11" group-title="112.26.18.35:9901",CCTV-11
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" group-title="112.26.18.35:9901",CCTV-12
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" group-title="112.26.18.35:9901",CCTV-13
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-14" group-title="112.26.18.35:9901",CCTV-14
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" group-title="112.26.18.35:9901",CCTV-15
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" group-title="112.26.18.35:9901",CCTV-16
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17" group-title="112.26.18.35:9901",CCTV-17
+http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+高清" group-title="112.26.18.35:9901",CCTV-5+高清
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="112.26.18.35:9901",安徽卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="112.26.18.35:9901",湖南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="112.26.18.35:9901",东方卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="112.26.18.35:9901",北京卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="112.26.18.35:9901",浙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="112.26.18.35:9901",江苏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="112.26.18.35:9901",天津卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="112.26.18.35:9901",山东卫视
+http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="112.26.18.35:9901",辽宁卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="112.26.18.35:9901",深圳卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="112.26.18.35:9901",江西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="112.26.18.35:9901",贵州卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="112.26.18.35:9901",吉林卫视
+http://120.210.193.151:8006/120000001002/XMTjlwshd/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="112.26.18.35:9901",广东卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="112.26.18.35:9901",湖北卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="112.26.18.35:9901",河北卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="112.26.18.35:9901",山西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="112.26.18.35:9901",重庆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="112.26.18.35:9901",四川卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="112.26.18.35:9901",广西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="112.26.18.35:9901",陕西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="112.26.18.35:9901",甘肃卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="112.26.18.35:9901",宁夏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="112.26.18.35:9901",青海卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/qhwssd4m/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="112.26.18.35:9901",海南卫视
+http://120.210.193.151:8006/120000001002/XMThainanwshd/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="112.26.18.35:9901",新疆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="112.26.18.35:9901",云南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="112.26.18.35:9901",东南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="112.26.18.35:9901",河南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="112.26.18.35:9901",厦门卫视
+http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
+#EXTINF:-1 tvg-name="足球频道" group-title="112.26.18.35:9901",足球频道
+http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" group-title="112.26.18.35:9901",动漫秀场
+http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
+#EXTINF:-1 tvg-name="金色频道" group-title="112.26.18.35:9901",金色频道
+http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
+#EXTINF:-1 tvg-name="安徽国际" group-title="112.26.18.35:9901",安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1 tvg-name="合肥新闻" group-title="112.26.18.35:9901",合肥新闻
+http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="112.26.18.35:9901",快乐垂钓
+http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="112.26.18.35:9901",世界地理
+http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="112.26.18.35:9901",怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1 tvg-name="风云剧场" group-title="112.26.18.35:9901",风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1 tvg-name="第一剧场" group-title="112.26.18.35:9901",第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" group-title="112.26.18.35:9901",风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8

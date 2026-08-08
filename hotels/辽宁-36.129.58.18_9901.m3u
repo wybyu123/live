@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV2-HD" group-title="36.129.58.18:9901",CCTV2-HD
+http://36.129.58.18:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9-HD" group-title="36.129.58.18:9901",CCTV9-HD
+http://36.129.58.18:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17-HD" group-title="36.129.58.18:9901",CCTV17-HD
+http://36.129.58.18:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0

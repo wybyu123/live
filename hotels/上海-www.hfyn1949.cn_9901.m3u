@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="www.hfyn1949.cn:9901",CCTV1
+http://120.210.193.151:8006/120000000058/G_CCTV-1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="www.hfyn1949.cn:9901",CCTV2-财经
+http://120.210.193.151:8006/120000000058/G_CCTV-2-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="www.hfyn1949.cn:9901",CCTV3-综艺
+http://120.210.193.151:8006/120000000058/G_CCTV-3-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="www.hfyn1949.cn:9901",CCTV4-国际
+http://120.210.193.151:8006/120000000058/G_CCTV-4-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="www.hfyn1949.cn:9901",CCTV5-体育
+http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="www.hfyn1949.cn:9901",CCTV6-电影
+http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7-军农" group-title="www.hfyn1949.cn:9901",CCTV7-军农
+http://120.210.193.151:8006/120000000058/G_CCTV-7-HQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8-电视剧" group-title="www.hfyn1949.cn:9901",CCTV8-电视剧
+http://120.210.193.151:8006/120000000058/G_CCTV-8-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="www.hfyn1949.cn:9901",CCTV9-纪录
+http://120.210.193.151:8006/120000000058/G_CCTV-9-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10-科教" group-title="www.hfyn1949.cn:9901",CCTV10-科教
+http://120.210.193.151:8006/120000000058/G_CCTV-10-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11-戏曲" group-title="www.hfyn1949.cn:9901",CCTV11-戏曲
+http://120.210.193.151:8006/120000000058/G_CCTV-11-HQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="www.hfyn1949.cn:9901",CCTV12-社会与法
+http://120.210.193.151:8006/120000000058/G_CCTV-12-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="www.hfyn1949.cn:9901",CCTV13-新闻
+http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="www.hfyn1949.cn:9901",CCTV14-少儿
+http://120.210.193.151:8006/120000000058/G_CCTV-14-HQ/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="www.hfyn1949.cn:9901",CCTV15-音乐
+http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="www.hfyn1949.cn:9901",安徽卫视
+http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="www.hfyn1949.cn:9901",天津卫视
+http://120.210.193.151:8006/120000000058/G_TIANJIN-CQ/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="www.hfyn1949.cn:9901",北京卫视
+http://120.210.193.151:8006/120000000058/G_BEIJING-CQ/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="www.hfyn1949.cn:9901",江西卫视
+http://120.210.193.151:8006/120000000058/G_JIANGXI-HQ/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="www.hfyn1949.cn:9901",深圳卫视
+http://120.210.193.151:8006/120000000058/G_SHENZHEN-HQ/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="www.hfyn1949.cn:9901",山东卫视
+http://120.210.193.151:8006/120000000058/G_SHANDONG-CQ/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="www.hfyn1949.cn:9901",重庆卫视
+http://120.210.193.151:8006/120000000058/G_CHONGQING-CQ/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="www.hfyn1949.cn:9901",黑龙江卫视
+http://120.210.193.151:8006/120000000058/G_HEILONGJIANG-HQ/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="www.hfyn1949.cn:9901",广东卫视
+http://120.210.193.151:8006/120000000058/G_GUANGDONG-HQ/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="www.hfyn1949.cn:9901",江苏卫视
+http://120.210.193.151:8006/120000000058/G_JIANGSU-CQ/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="www.hfyn1949.cn:9901",浙江卫视
+http://120.210.193.151:8006/120000000058/G_ZHEJIANG-CQ/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="www.hfyn1949.cn:9901",湖南卫视
+http://120.210.193.151:8006/120000000058/G_HUNAN-CQ/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="www.hfyn1949.cn:9901",湖北卫视
+http://120.210.193.151:8006/120000000058/G_HUBEI-HQ/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="www.hfyn1949.cn:9901",辽宁卫视
+http://120.210.193.151:8006/120000000058/G_LIAONING-CQ/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="www.hfyn1949.cn:9901",青海卫视
+http://120.210.193.151:8006/120000000058/G_QINGHAI/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="www.hfyn1949.cn:9901",新疆卫视
+http://120.210.193.151:8006/120000000058/G_XINJIANG/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="www.hfyn1949.cn:9901",河北卫视
+http://120.210.193.151:8006/120000000058/G_HEBEI-CQ/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="www.hfyn1949.cn:9901",内蒙古卫视
+http://120.210.193.151:8006/120000000058/G_NEIMENGGU/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="www.hfyn1949.cn:9901",云南卫视
+http://120.210.193.151:8006/120000000058/G_YUNNAN/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="www.hfyn1949.cn:9901",陕西卫视
+http://120.210.193.151:8006/120000000058/G_SHANXI/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="www.hfyn1949.cn:9901",宁夏卫视
+http://120.210.193.151:8006/120000000058/G_NINGXIA/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="www.hfyn1949.cn:9901",河南卫视
+http://120.210.193.151:8006/120000000058/G_HENAN-HQ/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="www.hfyn1949.cn:9901",四川卫视
+http://120.210.193.151:8006/120000000058/G_SICHUAN-CQ/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="www.hfyn1949.cn:9901",贵州卫视
+http://120.210.193.151:8006/120000000058/G_GUIZHOU-HQ/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="www.hfyn1949.cn:9901",东南卫视
+http://120.210.193.151:8006/120000000058/G_DONGNAN-HQ/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="www.hfyn1949.cn:9901",甘肃卫视
+http://120.210.193.151:8006/120000000058/G_GANSU-HD/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="www.hfyn1949.cn:9901",广西卫视
+http://120.210.193.151:8006/120000000058/GXWS/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="www.hfyn1949.cn:9901",山西卫视
+http://120.210.193.151:8006/120000000058/SXWS/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="www.hfyn1949.cn:9901",西藏卫视
+http://120.210.193.151:8006/120000000058/G_XIZANG/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="www.hfyn1949.cn:9901",厦门卫视
+http://120.210.193.151:8006/120000000058/G_XIAMEN/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="www.hfyn1949.cn:9901",兵团卫视
+http://120.210.193.151:8006/120000000058/G_BINGTUAN/index.m3u8

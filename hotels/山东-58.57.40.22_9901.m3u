@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="58.57.40.22:9901",CCTV1-综合
+http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-name="中央2高清" group-title="58.57.40.22:9901",中央2高清
+http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="中央3综艺" group-title="58.57.40.22:9901",中央3综艺
+http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-name="中央4中文国际" group-title="58.57.40.22:9901",中央4中文国际
+http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-name="中央5体育" group-title="58.57.40.22:9901",中央5体育
+http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-name="中央5+" group-title="58.57.40.22:9901",中央5+
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="中央6电影" group-title="58.57.40.22:9901",中央6电影
+http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-name="中央7军事农业" group-title="58.57.40.22:9901",中央7军事农业
+http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-name="中央8电视剧" group-title="58.57.40.22:9901",中央8电视剧
+http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-name="中央9记录" group-title="58.57.40.22:9901",中央9记录
+http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-name="中央10科教" group-title="58.57.40.22:9901",中央10科教
+http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-name="中央11戏曲" group-title="58.57.40.22:9901",中央11戏曲
+http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-name="中央12社会与法" group-title="58.57.40.22:9901",中央12社会与法
+http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-name="中央13新闻" group-title="58.57.40.22:9901",中央13新闻
+http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-name="中央14少儿" group-title="58.57.40.22:9901",中央14少儿
+http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-name="中央15音乐" group-title="58.57.40.22:9901",中央15音乐
+http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" group-title="58.57.40.22:9901",山东生活
+http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" group-title="58.57.40.22:9901",山东新闻
+http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-name="山东体育高清" group-title="58.57.40.22:9901",山东体育高清
+http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" group-title="58.57.40.22:9901",山东综艺
+http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" group-title="58.57.40.22:9901",山东农科
+http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" group-title="58.57.40.22:9901",山东文旅
+http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" group-title="58.57.40.22:9901",山东少儿
+http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-name="山东教育卫视" group-title="58.57.40.22:9901",山东教育卫视
+http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="58.57.40.22:9901",湖南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="58.57.40.22:9901",浙江卫视高清
+http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="上海卫视" group-title="58.57.40.22:9901",上海卫视
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="58.57.40.22:9901",江苏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="58.57.40.22:9901",北京卫视高清
+http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视高清" group-title="58.57.40.22:9901",安徽卫视高清
+http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="58.57.40.22:9901",天津卫视
+http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="58.57.40.22:9901",辽宁卫视
+http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="58.57.40.22:9901",深圳卫视
+http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="58.57.40.22:9901",东南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="58.57.40.22:9901",湖北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清" group-title="58.57.40.22:9901",广东卫视高清
+http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清" group-title="58.57.40.22:9901",黑龙江卫视高清
+http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="58.57.40.22:9901",重庆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="58.57.40.22:9901",贵州卫视
+http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="58.57.40.22:9901",江西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="58.57.40.22:9901",河北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="58.57.40.22:9901",四川卫视
+http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="58.57.40.22:9901",云南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="58.57.40.22:9901",河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="58.57.40.22:9901",广西卫视
+http://144.123.220.47:80/wh7f454c46tw111685212_1092286008/2/00/CHANNEL00000038/2540800/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="58.57.40.22:9901",吉林卫视
+http://144.123.220.43:80/wh7f454c46tw3394797750_2100012903/2/00/CHANNEL00000036/2540800/1.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="58.57.40.22:9901",宁夏卫视
+http://144.123.220.43:80/wh7f454c46tw3596018626_1806805609/2/00/CHANNEL00000043/2540800/1.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="58.57.40.22:9901",新疆卫视
+http://144.123.220.43:80/wh7f454c46tw3619216835_-1782766063/2/00/CHANNEL00000044/2540800/1.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="58.57.40.22:9901",甘肃卫视
+http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="58.57.40.22:9901",青海卫视
+http://144.123.220.44:80/wh7f454c46tw3668958560_-1590177523/2/00/CHANNEL00000042/2540800/1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="58.57.40.22:9901",金鹰卡通
+http://144.123.220.42:80/wh7f454c46tw141994439_-123240046/2/00/CHANNEL00000047/2540800/1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="58.57.40.22:9901",卡酷少儿
+http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1 tvg-name="炫动卡通" group-title="58.57.40.22:9901",炫动卡通
+http://144.123.220.38:80/wh7f454c46tw184021769_1366609685/2/00/CHANNEL00000050/2540800/1.m3u8
+#EXTINF:-1 tvg-name="CGTN" group-title="58.57.40.22:9901",CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="58.57.40.22:9901",海南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="58.57.40.22:9901",CCTV17
+http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" group-title="58.57.40.22:9901",纪实人文
+http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="58.57.40.22:9901",金鹰纪实
+http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8

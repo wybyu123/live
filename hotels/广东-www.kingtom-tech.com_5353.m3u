@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="广东卫视" group-title="www.kingtom-tech.com:5353",广东卫视
+http://www.kingtom-tech.com:5353/tsfile/live/125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="珠江台" group-title="www.kingtom-tech.com:5353",珠江台
+http://www.kingtom-tech.com:5353/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东公共" group-title="www.kingtom-tech.com:5353",广东公共
+http://www.kingtom-tech.com:5353/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东体育" group-title="www.kingtom-tech.com:5353",广东体育
+http://www.kingtom-tech.com:5353/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" group-title="www.kingtom-tech.com:5353",广东新闻
+http://www.kingtom-tech.com:5353/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="www.kingtom-tech.com:5353",嘉佳卡通
+http://www.kingtom-tech.com:5353/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="南方经济" group-title="www.kingtom-tech.com:5353",南方经济
+http://www.kingtom-tech.com:5353/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="南方2台" group-title="www.kingtom-tech.com:5353",南方2台
+http://www.kingtom-tech.com:5353/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" group-title="www.kingtom-tech.com:5353",广东影视
+http://www.kingtom-tech.com:5353/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="南方少儿" group-title="www.kingtom-tech.com:5353",南方少儿
+http://www.kingtom-tech.com:5353/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="珠江电影" group-title="www.kingtom-tech.com:5353",珠江电影
+http://www.kingtom-tech.com:5353/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="www.kingtom-tech.com:5353",CCTV1-综合
+http://www.kingtom-tech.com:5353/tsfile/live/1_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="www.kingtom-tech.com:5353",CCTV2-财经
+http://www.kingtom-tech.com:5353/tsfile/live/2_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="www.kingtom-tech.com:5353",CCTV3-综艺
+http://www.kingtom-tech.com:5353/tsfile/live/3_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="www.kingtom-tech.com:5353",CCTV4-国际
+http://www.kingtom-tech.com:5353/tsfile/live/4_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="www.kingtom-tech.com:5353",CCTV5-体育
+http://www.kingtom-tech.com:5353/tsfile/live/5_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" group-title="www.kingtom-tech.com:5353",CCTV5+
+http://www.kingtom-tech.com:5353/tsfile/live/6_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="www.kingtom-tech.com:5353",CCTV6-电影
+http://www.kingtom-tech.com:5353/tsfile/live/7_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7-军农" group-title="www.kingtom-tech.com:5353",CCTV7-军农
+http://www.kingtom-tech.com:5353/tsfile/live/8_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8-电视剧" group-title="www.kingtom-tech.com:5353",CCTV8-电视剧
+http://www.kingtom-tech.com:5353/tsfile/live/9_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="www.kingtom-tech.com:5353",CCTV9-纪录
+http://www.kingtom-tech.com:5353/tsfile/live/10_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10-科教" group-title="www.kingtom-tech.com:5353",CCTV10-科教
+http://www.kingtom-tech.com:5353/tsfile/live/11_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11-戏曲" group-title="www.kingtom-tech.com:5353",CCTV11-戏曲
+http://www.kingtom-tech.com:5353/tsfile/live/12_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="www.kingtom-tech.com:5353",CCTV12-社会与法
+http://www.kingtom-tech.com:5353/tsfile/live/13_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="www.kingtom-tech.com:5353",CCTV13-新闻
+http://www.kingtom-tech.com:5353/tsfile/live/14_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="www.kingtom-tech.com:5353",CCTV14-少儿
+http://www.kingtom-tech.com:5353/tsfile/live/15_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="www.kingtom-tech.com:5353",CCTV15-音乐
+http://www.kingtom-tech.com:5353/tsfile/live/16_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵器科技" group-title="www.kingtom-tech.com:5353",兵器科技
+http://www.kingtom-tech.com:5353/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="中国教育" group-title="www.kingtom-tech.com:5353",中国教育
+http://www.kingtom-tech.com:5353/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="岭南戏曲" group-title="www.kingtom-tech.com:5353",岭南戏曲
+http://www.kingtom-tech.com:5353/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏台" group-title="www.kingtom-tech.com:5353",江苏台
+http://www.kingtom-tech.com:5353/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" group-title="www.kingtom-tech.com:5353",东方卫视
+http://www.kingtom-tech.com:5353/tsfile/live/107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" group-title="www.kingtom-tech.com:5353",湖南卫视
+http://www.kingtom-tech.com:5353/tsfile/live/128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="www.kingtom-tech.com:5353",浙江卫视
+http://www.kingtom-tech.com:5353/tsfile/live/124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" group-title="www.kingtom-tech.com:5353",山东卫视
+http://www.kingtom-tech.com:5353/tsfile/live/131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东教育" group-title="www.kingtom-tech.com:5353",山东教育
+http://www.kingtom-tech.com:5353/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" group-title="www.kingtom-tech.com:5353",天津卫视
+http://www.kingtom-tech.com:5353/tsfile/live/135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" group-title="www.kingtom-tech.com:5353",安徽卫视
+http://www.kingtom-tech.com:5353/tsfile/live/130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" group-title="www.kingtom-tech.com:5353",深圳卫视
+http://www.kingtom-tech.com:5353/tsfile/live/126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="西藏卫视" group-title="www.kingtom-tech.com:5353",西藏卫视
+http://www.kingtom-tech.com:5353/tsfile/live/111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" group-title="www.kingtom-tech.com:5353",新疆卫视
+http://www.kingtom-tech.com:5353/tsfile/live/110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="www.kingtom-tech.com:5353",四川卫视
+http://www.kingtom-tech.com:5353/tsfile/live/123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="www.kingtom-tech.com:5353",湖北卫视
+http://www.kingtom-tech.com:5353/tsfile/live/132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="延边卫视" group-title="www.kingtom-tech.com:5353",延边卫视
+http://www.kingtom-tech.com:5353/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="www.kingtom-tech.com:5353",宁夏卫视
+http://www.kingtom-tech.com:5353/tsfile/live/112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" group-title="www.kingtom-tech.com:5353",贵州卫视
+http://www.kingtom-tech.com:5353/tsfile/live/120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="www.kingtom-tech.com:5353",山西卫视
+http://www.kingtom-tech.com:5353/tsfile/live/118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" group-title="www.kingtom-tech.com:5353",江西卫视
+http://www.kingtom-tech.com:5353/tsfile/live/138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" group-title="www.kingtom-tech.com:5353",重庆卫视
+http://www.kingtom-tech.com:5353/tsfile/live/142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="www.kingtom-tech.com:5353",广西卫视
+http://www.kingtom-tech.com:5353/tsfile/live/113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="旅游卫视" group-title="www.kingtom-tech.com:5353",旅游卫视
+http://www.kingtom-tech.com:5353/tsfile/live/114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" group-title="www.kingtom-tech.com:5353",河南卫视
+http://www.kingtom-tech.com:5353/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="www.kingtom-tech.com:5353",黑龙江卫视
+http://www.kingtom-tech.com:5353/tsfile/live/143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="www.kingtom-tech.com:5353",金鹰卡通
+http://www.kingtom-tech.com:5353/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵团卫视" group-title="www.kingtom-tech.com:5353",兵团卫视
+http://www.kingtom-tech.com:5353/tsfile/live/115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="www.kingtom-tech.com:5353",辽宁卫视
+http://www.kingtom-tech.com:5353/tsfile/live/121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" group-title="www.kingtom-tech.com:5353",云南卫视
+http://www.kingtom-tech.com:5353/tsfile/live/119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" group-title="www.kingtom-tech.com:5353",吉林卫视
+http://www.kingtom-tech.com:5353/tsfile/live/116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="炫动卡通" group-title="www.kingtom-tech.com:5353",炫动卡通
+http://www.kingtom-tech.com:5353/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" group-title="www.kingtom-tech.com:5353",陕西卫视
+http://www.kingtom-tech.com:5353/tsfile/live/136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="www.kingtom-tech.com:5353",甘肃卫视
+http://www.kingtom-tech.com:5353/tsfile/live/141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV3+" group-title="www.kingtom-tech.com:5353",IPTV3+
+http://www.kingtom-tech.com:5353/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV5+" group-title="www.kingtom-tech.com:5353",IPTV5+
+http://www.kingtom-tech.com:5353/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV6+" group-title="www.kingtom-tech.com:5353",IPTV6+
+http://www.kingtom-tech.com:5353/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV8+" group-title="www.kingtom-tech.com:5353",IPTV8+
+http://www.kingtom-tech.com:5353/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="www.kingtom-tech.com:5353",IPTV谍战剧场
+http://www.kingtom-tech.com:5353/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV野外" group-title="www.kingtom-tech.com:5353",IPTV野外
+http://www.kingtom-tech.com:5353/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV法治" group-title="www.kingtom-tech.com:5353",IPTV法治
+http://www.kingtom-tech.com:5353/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV相声小品" group-title="www.kingtom-tech.com:5353",IPTV相声小品
+http://www.kingtom-tech.com:5353/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="www.kingtom-tech.com:5353",河北卫视
+http://www.kingtom-tech.com:5353/tsfile/live/117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" group-title="www.kingtom-tech.com:5353",青海卫视
+http://www.kingtom-tech.com:5353/tsfile/live/140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="www.kingtom-tech.com:5353",内蒙古卫视
+http://www.kingtom-tech.com:5353/tsfile/live/109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷卡通" group-title="www.kingtom-tech.com:5353",卡酷卡通
+http://www.kingtom-tech.com:5353/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="www.kingtom-tech.com:5353",北京卫视
+http://www.kingtom-tech.com:5353/tsfile/live/122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV经典电影" group-title="www.kingtom-tech.com:5353",IPTV经典电影
+http://www.kingtom-tech.com:5353/tsfile/live/123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="www.kingtom-tech.com:5353",IPTV热播剧场
+http://www.kingtom-tech.com:5353/tsfile/live/124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="www.kingtom-tech.com:5353",IPTV少儿动画
+http://www.kingtom-tech.com:5353/tsfile/live/125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="www.kingtom-tech.com:5353",IPTV魅力时尚
+http://www.kingtom-tech.com:5353/tsfile/live/126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="三沙卫视" group-title="www.kingtom-tech.com:5353",三沙卫视
+http://www.kingtom-tech.com:5353/tsfile/live/127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="PP体育" group-title="www.kingtom-tech.com:5353",PP体育
+http://www.kingtom-tech.com:5353/tsfile/live/128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视高" group-title="www.kingtom-tech.com:5353",广东卫视高
+http://www.kingtom-tech.com:5353/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="经济教育高" group-title="www.kingtom-tech.com:5353",经济教育高
+http://www.kingtom-tech.com:5353/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="珠江高" group-title="www.kingtom-tech.com:5353",珠江高
+http://www.kingtom-tech.com:5353/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1高清" group-title="www.kingtom-tech.com:5353",CCTV1高清
+http://www.kingtom-tech.com:5353/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2高清" group-title="www.kingtom-tech.com:5353",CCTV2高清
+http://www.kingtom-tech.com:5353/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3高清" group-title="www.kingtom-tech.com:5353",CCTV3高清
+http://www.kingtom-tech.com:5353/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4高清" group-title="www.kingtom-tech.com:5353",CCTV4高清
+http://www.kingtom-tech.com:5353/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+高清" group-title="www.kingtom-tech.com:5353",CCTV5+高清
+http://www.kingtom-tech.com:5353/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5高清" group-title="www.kingtom-tech.com:5353",CCTV5高清
+http://www.kingtom-tech.com:5353/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6高清" group-title="www.kingtom-tech.com:5353",CCTV6高清
+http://www.kingtom-tech.com:5353/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7高清" group-title="www.kingtom-tech.com:5353",CCTV7高清
+http://www.kingtom-tech.com:5353/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8高清" group-title="www.kingtom-tech.com:5353",CCTV8高清
+http://www.kingtom-tech.com:5353/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9高清" group-title="www.kingtom-tech.com:5353",CCTV9高清
+http://www.kingtom-tech.com:5353/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10高清" group-title="www.kingtom-tech.com:5353",CCTV10高清
+http://www.kingtom-tech.com:5353/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12高清" group-title="www.kingtom-tech.com:5353",CCTV12高清
+http://www.kingtom-tech.com:5353/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14高清" group-title="www.kingtom-tech.com:5353",CCTV14高清
+http://www.kingtom-tech.com:5353/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV5+高清" group-title="www.kingtom-tech.com:5353",IPTV5+高清
+http://www.kingtom-tech.com:5353/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视高清" group-title="www.kingtom-tech.com:5353",湖南卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="www.kingtom-tech.com:5353",浙江卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视高清" group-title="www.kingtom-tech.com:5353",江苏卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="www.kingtom-tech.com:5353",北京卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视高清" group-title="www.kingtom-tech.com:5353",深圳卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视高清" group-title="www.kingtom-tech.com:5353",湖北卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视高清" group-title="www.kingtom-tech.com:5353",山东卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视高清" group-title="www.kingtom-tech.com:5353",东方卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视高清" group-title="www.kingtom-tech.com:5353",辽宁卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视高清" group-title="www.kingtom-tech.com:5353",四川卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视高清" group-title="www.kingtom-tech.com:5353",重庆卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视高清" group-title="www.kingtom-tech.com:5353",安徽卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视高清" group-title="www.kingtom-tech.com:5353",广西卫视高清
+http://www.kingtom-tech.com:5353/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东体育高" group-title="www.kingtom-tech.com:5353",广东体育高
+http://www.kingtom-tech.com:5353/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0

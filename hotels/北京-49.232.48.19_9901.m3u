@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="49.232.48.19:9901",CCTV1
+http://1.1.1.1:1234.m3u8
+#EXTINF:-1 tvg-name="CCTV-6高清" group-title="49.232.48.19:9901",CCTV-6高清
+http://192.168.0.254:7700/rtp/225.1.4.160:1196

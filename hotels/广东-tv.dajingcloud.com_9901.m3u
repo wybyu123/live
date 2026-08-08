@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="东方卫视高清SXYD" group-title="tv.dajingcloud.com:9901",东方卫视高清SXYD
+http://111.20.33.72/PLTV/88888888/224/3221225581/index.m3u8
+#EXTINF:-1 tvg-name="党建新闻" group-title="tv.dajingcloud.com:9901",党建新闻
+http://flv4mp4.people.com.cn/videofile7/pvmsvideo/2021/3/10/ShiXinPei_71ec1680d031363446f16a2366abccb9_android_c.mp4
+#EXTINF:-1 tvg-name="CCTV1 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV1 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225768/10000100000000060000000000337107_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7818,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlhOLuRCiHgtW469LYGcBty:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="广东珠江 高清GDL" group-title="tv.dajingcloud.com:9901",广东珠江 高清GDL
+http://120.87.4.6:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,15614,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkrk0oGNvEfdCtJuc3+1JIh:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="广东体育 高清GDL" group-title="tv.dajingcloud.com:9901",广东体育 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="广东经济科教 高清GDL" group-title="tv.dajingcloud.com:9901",广东经济科教 高清GDL
+http://112.89.121.21:80/PLTV/88888973/224/3221225752/10000100000000060000000000334591_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7807,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmoxHIkVT2YRc54nGjGZOvg:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV2 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV2 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225767/10000100000000060000000000337109_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7808,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlG9GiJF+eXKeOHX9LOxR9k:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV5+ 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV5+ 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV7 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV7 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225749/10000100000000060000000000334584_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowljL/8+efgIoZxjCG31rI2E:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV9 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV9 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225747/10000100000000060000000000334581_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkpTXVpkkAilPfDJaVJmwBK:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV10 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV10 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225745/10000100000000060000000000334569_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownO6/jvFpALITOLK1MIALYD:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV12 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV12 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225742/10000100000000060000000000334548_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownxWkAW6Edi7D6VntGIcvvN:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV14 高清GDL" group-title="tv.dajingcloud.com:9901",CCTV14 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="湖南卫视 高清GDL" group-title="tv.dajingcloud.com:9901",湖南卫视 高清GDL
+http://112.89.121.21:80/PLTV/88888973/224/3221225716/10000100000000060000000000334645_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7859,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmYFxT4GHZGgEnkV4czc5R/:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="浙江卫视 高清GDL" group-title="tv.dajingcloud.com:9901",浙江卫视 高清GDL
+http://112.89.121.21:80/PLTV/88888973/224/3221225713/10000100000000060000000000334649_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkN8TjPTKRAZyLEJcForH/D:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="江苏卫视 高清GDL" group-title="tv.dajingcloud.com:9901",江苏卫视 高清GDL
+http://112.89.121.21:80/PLTV/88888973/224/3221225710/10000100000000060000000000334652_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7859,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownJ6J/Ye1LAzaoieL+BqFym:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="北京卫视 高清GDL" group-title="tv.dajingcloud.com:9901",北京卫视 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225706/10000100000000060000000000334665_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7956,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownNYKZoZO6v4p4y2xIBed7k:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="深圳卫视 高清GDL" group-title="tv.dajingcloud.com:9901",深圳卫视 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225708/10000100000000060000000000334657_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7856,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmQnlYPqLd2pxEJA0K89iEq:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="黑龙江卫视 高清GDL" group-title="tv.dajingcloud.com:9901",黑龙江卫视 高清GDL
+http://120.87.4.12:80/PLTV/88888973/224/3221225711/10000100000000060000000000334653_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,7860,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlqBAsoSRjwG879CgX7v/rR:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="湖北卫视 高清GDL" group-title="tv.dajingcloud.com:9901",湖北卫视 高清GDL
+http://120.87.4.13:80/PLTV/88888973/224/3221225714/10000100000000060000000000334648_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownQ8cES+qO55D6NUJeL49Rp:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="天津卫视 高清GDL" group-title="tv.dajingcloud.com:9901",天津卫视 高清GDL
+http://120.87.4.17:80/PLTV/88888973/224/3221225715/10000100000000060000000000334647_0.smil/01.m3u8?fmt=ts2hls,163,01.m3u8,0,7955,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkLCM2it2Mbqn+DrKmH1SHV:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="山东卫视 高清GDL" group-title="tv.dajingcloud.com:9901",山东卫视 高清GDL
+http://120.87.4.13:80/PLTV/88888973/224/3221225758/10000100000000060000000000334623_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowms+7aPWUSgz4oe8YSjyjPq:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="东方卫视 高清GDL" group-title="tv.dajingcloud.com:9901",东方卫视 高清GDL
+http://112.89.121.23:80/PLTV/88888973/224/3221225707/10000100000000060000000000334659_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7956,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmhHVtq6Cb/lStC/0k4vNUC:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-name="广东珠江sw" group-title="tv.dajingcloud.com:9901",广东珠江sw
+http://10.10.10.1:8866/udp/239.12.21.3:10001
+#EXTINF:-1 tvg-name="广东卫视高清sw" group-title="tv.dajingcloud.com:9901",广东卫视高清sw
+http://10.10.10.1:8866/udp/239.12.22.1:10001
+#EXTINF:-1 tvg-name="广东科教高清sw" group-title="tv.dajingcloud.com:9901",广东科教高清sw
+http://10.10.10.1:8866/udp/239.12.22.2:10001
+#EXTINF:-1 tvg-name="CCTV1高清sw" group-title="tv.dajingcloud.com:9901",CCTV1高清sw
+http://10.10.10.1:8866/udp/239.12.22.3:10001
+#EXTINF:-1 tvg-name="CCTV5+高清sw" group-title="tv.dajingcloud.com:9901",CCTV5+高清sw
+http://10.10.10.1:8866/udp/239.12.22.4:10001
+#EXTINF:-1 tvg-name="CCTV3高清sw" group-title="tv.dajingcloud.com:9901",CCTV3高清sw
+http://10.10.10.1:8866/udp/239.12.22.5:10001
+#EXTINF:-1 tvg-name="CCTV5高清sw" group-title="tv.dajingcloud.com:9901",CCTV5高清sw
+http://10.10.10.1:8866/udp/239.12.22.6:10001
+#EXTINF:-1 tvg-name="CCTV6高清sw" group-title="tv.dajingcloud.com:9901",CCTV6高清sw
+http://10.10.10.1:8866/udp/239.12.22.7:10001
+#EXTINF:-1 tvg-name="CCTV8高清sw" group-title="tv.dajingcloud.com:9901",CCTV8高清sw
+http://10.10.10.1:8866/udp/239.12.22.8:10001
+#EXTINF:-1 tvg-name="华海会议" group-title="tv.dajingcloud.com:9901",华海会议
+http://192.168.200.15:8080/live/dajingcloud.m3u8
+#EXTINF:-1 tvg-name="主持人电脑" group-title="tv.dajingcloud.com:9901",主持人电脑
+http://tv.dajingcloud.com:9901/rtmp://192.168.200.15:1935/live/dajingcloud
+#EXTINF:-1 tvg-name="CCTV5+体育赛事gl" group-title="tv.dajingcloud.com:9901",CCTV5+体育赛事gl
+http://112.89.125.22:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,64,01.m3u8,0,7822,0,0&accountinfo=TTj3ZFwLFyHYdPlmGgSK0vO28xfAx8404lSy/jh+IsXT0JN7h+sX8Vfjf9kfUEXvLoutIGlxeOfq8Hj/02mwwkdrzx813iAlnmrjKnOOI+rZiAWXB3ChbgmJ6Zgz9HlE:20190626151713,END
+**http://112.89.125.21:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,64,01.m3u8,0,7820,0,0&accountinfo=1vN6sMAmuxaohKD4/DN1SNg3Vn3LM0PLe+k9qBSRdejT0JN7h+sX8Vfjf9kfUEXvusZbZprFIARIA6hNc71TRHxGg4QnKETtqFR6foz1b58ii1GaEM1IIJ81M/SbOURi:20190701201315,END&GuardEncType=2**
+#EXTINF:-1 tvg-name="珠江台测试GDL" group-title="tv.dajingcloud.com:9901",珠江台测试GDL
+http://120.87.4.6:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,15614,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkrk0oGNvEfdCtJuc3+1JIh:20181110091937,END&GuardEncType=1
+#EXTINF:-1 tvg-name="CCTV2SQDS" group-title="tv.dajingcloud.com:9901",CCTV2SQDS
+http://tv.dajingcloud.com:9901/rtsp://113.136.42.45:554/PLTV/88888888/224/3221226134/10000100000000060000000001794850_0.smil
+#EXTINF:-1 tvg-name="CCTV13SQDS" group-title="tv.dajingcloud.com:9901",CCTV13SQDS
+http://tv.dajingcloud.com:9901/rtsp://113.136.42.45:554/PLTV/88888888/224/3221226082/10000100000000060000000001759089_0.smil

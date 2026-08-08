@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="4CCTV3-综艺" group-title="112.30.73.119:9901",4CCTV3-综艺
+http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="4CCTV5-体育" group-title="112.30.73.119:9901",4CCTV5-体育
+http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="4CCTV6-电影" group-title="112.30.73.119:9901",4CCTV6-电影
+http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="4CCTV8-电视剧" group-title="112.30.73.119:9901",4CCTV8-电视剧
+http://112.30.73.119:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="sCCTV1-综合" group-title="112.30.73.119:9901",sCCTV1-综合
+http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV2-财经" group-title="112.30.73.119:9901",sCCTV2-财经
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV3-综艺" group-title="112.30.73.119:9901",sCCTV3-综艺
+http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV4-国际" group-title="112.30.73.119:9901",sCCTV4-国际
+http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV5-体育" group-title="112.30.73.119:9901",sCCTV5-体育
+http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV6-电影" group-title="112.30.73.119:9901",sCCTV6-电影
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV8-电视剧" group-title="112.30.73.119:9901",sCCTV8-电视剧
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV9-纪录" group-title="112.30.73.119:9901",sCCTV9-纪录
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV10-科教" group-title="112.30.73.119:9901",sCCTV10-科教
+http://112.30.73.119:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV11-戏曲" group-title="112.30.73.119:9901",sCCTV11-戏曲
+http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV12-社会与法" group-title="112.30.73.119:9901",sCCTV12-社会与法
+http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV13-新闻" group-title="112.30.73.119:9901",sCCTV13-新闻
+http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV14-少儿" group-title="112.30.73.119:9901",sCCTV14-少儿
+http://112.30.73.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sCCTV15-音乐" group-title="112.30.73.119:9901",sCCTV15-音乐
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0

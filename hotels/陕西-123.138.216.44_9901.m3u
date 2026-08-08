@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="安徽卫视" group-title="123.138.216.44:9901",安徽卫视
+http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0

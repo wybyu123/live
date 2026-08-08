@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="211.142.224.62:2023",CCTV1-综合
+http://192.168.10.200:8008/paiptv/CCTV1.m3u8
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="211.142.224.62:2023",CCTV2-财经
+http://192.168.10.200:8008/paiptv/CCTV2.m3u8
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="211.142.224.62:2023",CCTV3-综艺
+http://192.168.10.200:8008/paiptv/CCTV3.m3u8
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="211.142.224.62:2023",CCTV4-国际
+http://192.168.10.200:8008/paiptv/CCTV4.m3u8
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="211.142.224.62:2023",CCTV5-体育
+http://192.168.10.200:8008/paiptv/CCTV5.m3u8
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="211.142.224.62:2023",CCTV6-电影
+http://192.168.10.200:8008/paiptv/CCTV6.m3u8
+#EXTINF:-1 tvg-name="CCTV7-军农" group-title="211.142.224.62:2023",CCTV7-军农
+http://192.168.10.200:8008/paiptv/CCTV7.m3u8
+#EXTINF:-1 tvg-name="CCTV8-电视剧" group-title="211.142.224.62:2023",CCTV8-电视剧
+http://192.168.10.200:8008/paiptv/CCTV8.m3u8
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="211.142.224.62:2023",CCTV9-纪录
+http://192.168.10.200:8008/paiptv/CCTV9.m3u8
+#EXTINF:-1 tvg-name="CCTV10-科教" group-title="211.142.224.62:2023",CCTV10-科教
+http://192.168.10.200:8008/paiptv/CCTV10.m3u8
+#EXTINF:-1 tvg-name="CCTV11-戏曲" group-title="211.142.224.62:2023",CCTV11-戏曲
+http://192.168.10.200:8008/paiptv/CCTV11.m3u8
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="211.142.224.62:2023",CCTV12-社会与法
+http://192.168.10.200:8008/paiptv/CCTV12.m3u8
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="211.142.224.62:2023",CCTV13-新闻
+http://192.168.10.200:8008/paiptv/CCTV13.m3u8
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="211.142.224.62:2023",CCTV14-少儿
+http://192.168.10.200:8008/paiptv/CCTV14.m3u8
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="211.142.224.62:2023",CCTV15-音乐
+http://192.168.10.200:8008/paiptv/CCTV15.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="211.142.224.62:2023",CCTV17
+http://192.168.10.200:8008/paiptv/CCTV17.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="211.142.224.62:2023",湖南卫视
+http://192.168.10.200:8008/paiptv/HNTV.m3u8
+#EXTINF:-1 tvg-name="湖南经视" group-title="211.142.224.62:2023",湖南经视
+http://192.168.10.200:8008/paiptv/HNJS.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧" group-title="211.142.224.62:2023",湖南电视剧
+http://192.168.10.200:8008/paiptv/HNDSJ.m3u8
+#EXTINF:-1 tvg-name="湖南都视" group-title="211.142.224.62:2023",湖南都视
+http://192.168.10.200:8008/paiptv/HNDS.m3u8
+#EXTINF:-1 tvg-name="湖南娱乐" group-title="211.142.224.62:2023",湖南娱乐
+http://192.168.10.200:8008/paiptv/hnyl.m3u8
+#EXTINF:-1 tvg-name="湖南电影" group-title="211.142.224.62:2023",湖南电影
+http://192.168.10.200:8008/paiptv/HNDY.m3u8
+#EXTINF:-1 tvg-name="湖南爱晚" group-title="211.142.224.62:2023",湖南爱晚
+http://192.168.10.200:8008/paiptv/HNAW.m3u8
+#EXTINF:-1 tvg-name="湖南卡通" group-title="211.142.224.62:2023",湖南卡通
+http://192.168.10.200:8008/paiptv/jykt.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="211.142.224.62:2023",江苏卫视
+http://192.168.10.200:8008/paiptv/jsws.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="211.142.224.62:2023",东方卫视
+http://192.168.10.200:8008/paiptv/dfws.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="211.142.224.62:2023",浙江卫视
+http://192.168.10.200:8008/paiptv/zjws.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="211.142.224.62:2023",安徽卫视
+http://192.168.10.200:8008/paiptv/ahws.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="211.142.224.62:2023",北京卫视
+http://192.168.10.200:8008/paiptv/bjws.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="211.142.224.62:2023",江西卫视
+http://192.168.10.200:8008/paiptv/jxws.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="211.142.224.62:2023",深圳卫视
+http://192.168.10.200:8008/paiptv/szws.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="211.142.224.62:2023",辽宁卫视
+http://192.168.10.200:8008/paiptv/lnws.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="211.142.224.62:2023",东南卫视
+http://192.168.10.200:8008/paiptv/dnws.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="211.142.224.62:2023",广东卫视
+http://192.168.10.200:8008/paiptv/gdws.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="211.142.224.62:2023",湖北卫视
+http://192.168.10.200:8008/paiptv/hbws.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="211.142.224.62:2023",山东卫视
+http://192.168.10.200:8008/paiptv/sdws.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="211.142.224.62:2023",河北卫视
+http://192.168.10.200:8008/paiptv/hbws1.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="211.142.224.62:2023",天津卫视
+http://192.168.10.200:8008/paiptv/tjws.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="211.142.224.62:2023",黑龙江卫视
+http://192.168.10.200:8008/paiptv/hljws.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="211.142.224.62:2023",贵州卫视
+http://192.168.10.200:8008/paiptv/gzws.m3u8

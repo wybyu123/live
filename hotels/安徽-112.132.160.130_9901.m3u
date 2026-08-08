@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="兵团卫视" group-title="112.132.160.130:9901",兵团卫视
+http://112.132.160.130:9901/tsfile/live/115_1.m3u8?key=txiptv&playlive=1&authid=0

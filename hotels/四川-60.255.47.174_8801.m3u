@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="cctv1" group-title="60.255.47.174:8801",cctv1
+http://60.255.47.174:8801/rtp://@239.93.0.184:5140
+#EXTINF:-1 tvg-name="cctv2" group-title="60.255.47.174:8801",cctv2
+http://60.255.47.174:8801/rtp://@239.93.1.23:6000
+#EXTINF:-1 tvg-name="cctv3" group-title="60.255.47.174:8801",cctv3
+http://60.255.47.174:8801/rtp://@239.93.1.11:2223
+#EXTINF:-1 tvg-name="cctv4" group-title="60.255.47.174:8801",cctv4
+http://60.255.47.174:8801/rtp://@239.93.1.105:5140
+#EXTINF:-1 tvg-name="cctv5" group-title="60.255.47.174:8801",cctv5
+http://60.255.47.174:8801/rtp://@239.93.1.12:2224
+#EXTINF:-1 tvg-name="cctv6" group-title="60.255.47.174:8801",cctv6
+http://60.255.47.174:8801/rtp://@239.93.1.13:2226
+#EXTINF:-1 tvg-name="cctv7" group-title="60.255.47.174:8801",cctv7
+http://60.255.47.174:8801/rtp://@239.93.1.67:5140
+#EXTINF:-1 tvg-name="cctv8" group-title="60.255.47.174:8801",cctv8
+http://60.255.47.174:8801/rtp://@239.93.1.14:2225
+#EXTINF:-1 tvg-name="cctv9" group-title="60.255.47.174:8801",cctv9
+http://60.255.47.174:8801/rtp://@239.93.1.24:5140
+#EXTINF:-1 tvg-name="cctv10" group-title="60.255.47.174:8801",cctv10
+http://60.255.47.174:8801/rtp://@239.93.1.28:5140
+#EXTINF:-1 tvg-name="cctv11" group-title="60.255.47.174:8801",cctv11
+http://60.255.47.174:8801/rtp://@239.93.0.102:5140
+#EXTINF:-1 tvg-name="cctv12" group-title="60.255.47.174:8801",cctv12
+http://60.255.47.174:8801/rtp://@239.93.1.30:8124
+#EXTINF:-1 tvg-name="cctv13" group-title="60.255.47.174:8801",cctv13
+http://60.255.47.174:8801/rtp://@239.93.0.99:5140
+#EXTINF:-1 tvg-name="cctv14" group-title="60.255.47.174:8801",cctv14
+http://60.255.47.174:8801/rtp://@239.93.1.29:6000
+#EXTINF:-1 tvg-name="cctv15" group-title="60.255.47.174:8801",cctv15
+http://60.255.47.174:8801/rtp://@239.93.0.103:5140
+#EXTINF:-1 tvg-name="cctv17" group-title="60.255.47.174:8801",cctv17
+http://60.255.47.174:8801/rtp://@239.93.0.92:5140
