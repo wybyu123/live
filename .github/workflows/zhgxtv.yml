@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # 设置定时任务（例如每天 UTC 时间 0点和12点运行一次，可根据需要调整 cron表达式）
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '5 0,12 * * *'
 
 jobs:
   build:
