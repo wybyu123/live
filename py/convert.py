@@ -11,13 +11,33 @@ warnings.filterwarnings("ignore")
 BASE_PATH = os.getcwd()
 INPUT_FILE = os.path.join(BASE_PATH, "py", "1000_alive.txt")
 M3U_FILE = os.path.join(BASE_PATH, "py", "all_channels.m3u")
-TIMEOUT = 8        # 超时时间
-MAX_RETRIES = 2    # 失败后自动重试次数
+HOTELS_DIR = os.path.join(BASE_PATH, "hotels")  # 单独分类存放的文件夹
+TIMEOUT = 8         # 超时时间
+MAX_RETRIES = 2     # 失败后自动重试次数
 
 def get_base_url(url):
     """提取基础前缀，如 http://1.192.12.116:9901"""
     parsed = urlparse(url)
     return f"{parsed.scheme}://{parsed.netloc}"
+
+def get_ip_location(ip):
+    """通过免费接口查询 IP 属地（省份），失败时返回未知"""
+    try:
+        # 使用 ip-api.com 的中文查询接口
+        url = f"http://ip-api.com/json/{ip}?lang=zh-CN"
+        response = requests.get(url, timeout=4)
+        if response.status_code == 200:
+            data = response.json()
+            if data.get('status') == 'success':
+                # 返回省份，如 "上海"、"江苏"、"广东"
+                region = data.get('regionName', '').strip()
+                if region:
+                    # 去掉常见的“省”、“市”、“自治区”等后缀，让文件名更精简（可选）
+                    region = region.replace('省', '').replace('市', '').replace('自治区', '').replace('壮族', '').replace('回族', '').replace('维吾尔', '')
+                    return region
+    except Exception:
+        pass
+    return "未知属地"
 
 def parse_hotel_json(url):
     """解析 JSON 并智能转换组播或标准 HTTP 播放地址"""
@@ -57,11 +77,9 @@ def parse_hotel_json(url):
                         
                         # --- 核心转换逻辑 ---
                         if raw_path.startswith('udp://'):
-                            # 如果是组播链接，按照指定规则利用 chid 动态套用格式
                             if chid is not None:
                                 full_url = f"{base_prefix}/tsfile/live/{chid}_1.m3u8?key=txiptv&playlive=1&authid=0"
                             else:
-                                # 如果没有 chid，退化尝试直接用 raw_path 或跳过
                                 continue
                         elif raw_path.startswith('/'):
                             full_url = base_prefix + raw_path
@@ -84,6 +102,9 @@ def main():
         print(f"❌ 错误：找不到存活源文件 {INPUT_FILE}")
         return
 
+    # 创建 hotels 目录
+    os.makedirs(HOTELS_DIR, exist_ok=True)
+
     all_m3u_lines = ["#EXTM3U"]
     
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
@@ -93,25 +114,51 @@ def main():
 
     success_count = 0
     for url in urls:
-        netloc_identifier = urlparse(url).netloc
-        channels = parse_hotel_json(url)
+        parsed_url = urlparse(url)
+        ip = parsed_url.hostname          # 仅提取 IP
+        netloc_identifier = parsed_url.netloc  # 例如 42.237.164.228:9901
         
+        channels = parse_hotel_json(url)
         if not channels: 
             continue
 
+        # 查询 IP 属地
+        location = get_ip_location(ip)
+
+        # 为当前 IP 源生成独立的 M3U 内容
+        single_m3u_lines = ["#EXTM3U"]
         for ch in channels:
+            # 总表条目
             all_m3u_lines.append(f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{ch["group"]}",{ch["name"]}')
             all_m3u_lines.append(ch['url'])
+            
+            # 单独表条目
+            single_m3u_lines.append(f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{ch["group"]}",{ch["name"]}')
+            single_m3u_lines.append(ch['url'])
+
+        # 保存为独立的单个 M3U 文件，格式：属地-IP_端口.m3u (例如 上海-42.237.164.228_9901.m3u)
+        safe_netloc = netloc_identifier.replace(":", "_")
+        filename = f"{location}-{safe_netloc}.m3u"
+        single_file_path = os.path.join(HOTELS_DIR, filename)
         
+        with open(single_file_path, 'w', encoding='utf-8') as f_single:
+            f_single.write("\n".join(single_m3u_lines))
+
         success_count += 1
-        print(f"✅ [{success_count}] 已完成解析并并入 M3U: {netloc_identifier} (包含频道数: {len(channels)})")
+        print(f"✅ [{success_count}] [{location}] 已生成文件: {filename} (频道数: {len(channels)})")
+        
+        # 稍微停顿一下，防止频繁请求 IP 查询接口触发限制
+        time.sleep(0.5)
 
     # 保存总 M3U 文件
     os.makedirs(os.path.dirname(M3U_FILE), exist_ok=True)
     with open(M3U_FILE, 'w', encoding='utf-8') as f_m3u:
         f_m3u.write("\n".join(all_m3u_lines))
 
-    print(f"\n🎉 全部完成！总 M3U 文件已更新至: {M3U_FILE}，成功解析源数量: {success_count}/{len(urls)}")
+    print(f"\n🎉 全部完成！")
+    print(f"📂 总 M3U 文件: {M3U_FILE}")
+    print(f"📂 单独源文件目录: {HOTELS_DIR}")
+    print(f"📈 成功解析源数量: {success_count}/{len(urls)}")
 
 if __name__ == "__main__":
     main()
