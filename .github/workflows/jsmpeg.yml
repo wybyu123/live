@@ -1,4 +1,4 @@
-name: jsmpeg Sources
+name:  Update jsmpeg Data
 
 on:
   schedule:
