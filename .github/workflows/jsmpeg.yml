@@ -1,4 +1,4 @@
-name: Auto Update IPTV Live Sources
+name: jsmpeg Sources
 
 on:
   schedule:
