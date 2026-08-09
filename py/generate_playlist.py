@@ -9,7 +9,7 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
 ) else None
 
 INPUT_FILE = "py/jsmpeg.txt"
-BLACKLIST_FILE = "py/black_ips.txt"  # 黑名单文件路径
+BLACKLIST_FILE = "py/black_ips2.txt"  # 黑名单文件路径
 OUTPUT_TXT = "live.txt"
 OUTPUT_M3U = "live.m3u"
 TIMEOUT = 15000  # 浏览器超时毫秒
