@@ -8,7 +8,6 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
     sys.stdout, "reconfigure"
 ) else None
 
-# 【修改处】将输入源改为多个文件的列表
 INPUT_FILES = ["py/jsmpeg.txt", "py/jsmpeg2.txt"]
 BLACKLIST_FILE = "py/black_ips2.txt"  # 黑名单文件路径
 WHITELIST_FILE = "py/whitelist_ips.txt"  # 白名单文件路径
@@ -242,12 +241,11 @@ def main():
     print(f"🛡️ 从 {BLACKLIST_FILE} 加载了 {len(blacklist)} 个已知失效黑名单 IP。")
     print(f"🌟 从 {WHITELIST_FILE} 加载了 {len(whitelist)} 个免检/受保护白名单 IP。")
 
-    # 2. 【修改处】循环读取多个输入文件并合并去重
+    # 2. 循环读取多个输入文件并合并去重
     raw_ips_set = set()
     for file_path in INPUT_FILES:
         try:
             with open(file_path, "r", encoding="utf-8") as f:
-                count_before = len(raw_ips_set)
                 for line in f:
                     item = line.strip()
                     if item and not item.startswith("#"):
@@ -259,10 +257,28 @@ def main():
     raw_ips = list(raw_ips_set)
     print(f"📦 多源合并去重后，总共加载了 {len(raw_ips)} 个独特原始目标。")
 
-    # 3. 运行前自动过滤黑名单中的 IP
+    # 3. 【新增规则】自动识别并拦截所有带 ":5000" 端口的 IP，直接加入黑名单
+    port_5000_ips = []
+    cleaned_ips = []
+    for ip_item in raw_ips:
+        # 提取纯主机+端口用于比对和黑名单写入
+        clean_ip = ip_item.replace("http://", "").replace("https://", "").rstrip("/")
+        if ":5000" in clean_ip:
+            port_5000_ips.append(clean_ip)
+        else:
+            cleaned_ips.append(ip_item)
+
+    if port_5000_ips:
+        print(f"🚫 发现 {len(port_5000_ips)} 个 5000 端口目标，已直接拦截并准备加入黑名单。")
+        update_blacklist(port_5000_ips, whitelist)
+
+    # 4. 运行前自动过滤黑名单中的 IP
+    # 重新加载一次黑名单（因为上面刚追加了 5000 端口的 IP）
+    blacklist = load_blacklist()
+    
     filtered_ips = []
     skipped_by_blacklist = 0
-    for ip_item in raw_ips:
+    for ip_item in cleaned_ips:
         clean_ip = ip_item.replace("http://", "").replace("https://", "").rstrip("/")
         if clean_ip in blacklist:
             skipped_by_blacklist += 1
@@ -309,11 +325,11 @@ def main():
                 print(f"[⚠️ 过滤空壳页面] {target_url} -> 无有效频道，已丢弃")
                 new_failed_ips.append(base_host_key)
 
-    # 4. 运行结束后：将新失败的 IP 回填至黑名单（自动避开白名单）
+    # 5. 运行结束后：将新失败的 IP 回填至黑名单（自动避开白名单）
     if new_failed_ips:
         update_blacklist(new_failed_ips, whitelist)
 
-    # 5. 运行结束后：将本次成功采集的高质量 IP 自动追加保存至白名单
+    # 6. 运行结束后：将本次成功采集的高质量 IP 自动追加保存至白名单
     if successful_ips:
         update_whitelist(successful_ips)
 
