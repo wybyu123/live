@@ -280,7 +280,7 @@ def main():
         # 生成 TXT 文件 (格式: 节点_IP,#genre#)
         with open(OUTPUT_TXT, 'w', encoding='utf-8') as f:
             for ip_port, channels in grouped_channels.items():
-                group_name = f"节点_{ip_port}"
+                group_name = f"iptv_{ip_port}"
                 f.write(f"{group_name},#genre#\n")
                 for name, url in channels:
                     f.write(f'{name},{url}\n')
@@ -290,7 +290,7 @@ def main():
         with open(OUTPUT_M3U, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for ip_port, channels in grouped_channels.items():
-                group_name = f"节点_{ip_port}"
+                group_name = f"iptv_{ip_port}"
                 for name, url in channels:
                     f.write(f'#EXTINF:-1 tvg-group="{group_name}",{name}\n')
                     f.write(f'{url}\n')
