@@ -29,7 +29,7 @@ jobs:
 
       - name: Generate Playlist TXT and M3U
         run: |
-          python py/generate_playlist.py
+          python py/generate_jsmpeg.py
 
       - name: Commit and Push Changes
         run: |
