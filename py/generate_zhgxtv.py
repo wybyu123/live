@@ -8,8 +8,8 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
     sys.stdout, "reconfigure"
 ) else None
 
-# 输入与输出路径适配 GitHub 仓库结构
-INPUT_FILE = "py/zhgxtv.txt"
+# 【修改处】将输入源改为多个文件的列表，增加 py/zhgxtv2.txt
+INPUT_FILES = ["py/zhgxtv.txt", "py/zhgxtv2.txt"]
 BLACKLIST_FILE = "py/black_ips.txt"
 WHITELIST_FILE = "py/white_ips.txt"
 OUTPUT_TXT = "zhgxtv_live.txt"
@@ -199,28 +199,49 @@ def parse_type2(ip_port):
 
 
 def main():
-    if not os.path.exists(INPUT_FILE):
-        print(f"[错误] 找不到输入文件: {INPUT_FILE}")
-        return
-
     # 1. 加载黑名单和白名单
     blacklist = load_blacklist()
     whitelist = load_whitelist()
     print(f"🛡️ 从 {BLACKLIST_FILE} 加载了 {len(blacklist)} 个已知失效黑名单 IP。")
     print(f"⭐ 从 {WHITELIST_FILE} 加载了 {len(whitelist)} 个优质白名单 IP。")
 
-    # 2. 读取 zhgxtv.txt 中的 IP 列表
-    with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-        file_ips = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+    # 2. 【修改处】循环读取多个输入文件并合并去重
+    file_ips_set = set()
+    for file_path in INPUT_FILES:
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    item = line.strip()
+                    if item and not item.startswith("#"):
+                        file_ips_set.add(item)
+            print(f"📁 已从 {file_path} 加载目标。")
+        else:
+            print(f"[提示] 输入文件不存在，已跳过: {file_path}")
 
     # 综合输入文件与白名单去重
-    combined_raw_ips = list(set(file_ips).union(whitelist))
-    print(f"📁 综合输入文件与白名单后，总共整合了 {len(combined_raw_ips)} 个唯一待测目标。")
+    combined_raw_ips = list(file_ips_set.union(whitelist))
+    print(f"📦 多源合并去重后，总共整合了 {len(combined_raw_ips)} 个唯一待测目标。")
 
-    # 3. 运行前自动过滤黑名单中的 IP
+    # 3. 【新增规则】在输入整合阶段直接拦截所有带 ":5000" 端口的 IP 并加入黑名单
+    port_5000_ips = []
+    cleaned_raw_ips = []
+    for ip_item in combined_raw_ips:
+        clean_ip = ip_item.replace("http://", "").replace("https://", "").rstrip("/")
+        if ":5000" in clean_ip:
+            port_5000_ips.append(clean_ip)
+        else:
+            cleaned_raw_ips.append(ip_item)
+
+    if port_5000_ips:
+        print(f"🚫 发现 {len(port_5000_ips)} 个 5000 端口目标，已在输入阶段直接拦截并加入黑名单。")
+        update_blacklist(port_5000_ips)
+        # 重新加载黑名单，使刚才拉黑的生效
+        blacklist = load_blacklist()
+
+    # 4. 运行前自动过滤黑名单中的 IP
     filtered_ips = []
     skipped_by_blacklist = 0
-    for ip_item in combined_raw_ips:
+    for ip_item in cleaned_raw_ips:
         clean_ip = ip_item.replace("http://", "").replace("https://", "").rstrip("/")
         if clean_ip in blacklist and clean_ip not in whitelist:
             skipped_by_blacklist += 1
@@ -266,7 +287,7 @@ def main():
             print("❌ [未识别或无有效频道]，加入黑名单")
             new_failed_ips.append(base_host_key)
 
-    # 4. 回填黑白名单
+    # 5. 回填黑白名单
     if new_failed_ips:
         update_blacklist(new_failed_ips)
     if new_success_ips:
@@ -275,7 +296,7 @@ def main():
     print("-" * 50)
     print(f"🎉 任务处理完毕！成功响应的 IP 数: {success_count} 个")
 
-    # 5. 按 IP 源分组生成 TXT 和 M3U 文件
+    # 6. 按 IP 源分组生成 TXT 和 M3U 文件
     if grouped_channels:
         # 生成 TXT 文件 (格式: 节点_IP,#genre#)
         with open(OUTPUT_TXT, 'w', encoding='utf-8') as f:
