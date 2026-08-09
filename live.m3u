@@ -113,84 +113,6 @@ http://61.161.61.119:9004/hls/75/index.m3u8
 http://61.161.61.119:9004/hls/85/index.m3u8
 #EXTINF:-1 tvg-name="长影频道" group-title="http://61.161.61.119:9004" tvg-logo="",长影频道
 http://61.161.61.119:9004/hls/74/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-1综合" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-1综合
-http://218.1.138.153:9003/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-2财经" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-2财经
-http://218.1.138.153:9003/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-3综艺" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-3综艺
-http://218.1.138.153:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4中文国" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-4中文国
-http://218.1.138.153:9003/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5体育" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-5体育
-http://218.1.138.153:9003/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6电影" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-6电影
-http://218.1.138.153:9003/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-7国防军" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-7国防军
-http://218.1.138.153:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-8电视剧" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-8电视剧
-http://218.1.138.153:9003/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-9纪录" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-9纪录
-http://218.1.138.153:9003/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-10科教" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-10科教
-http://218.1.138.153:9003/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-11戏曲" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-11戏曲
-http://218.1.138.153:9003/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-12社会法" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-12社会法
-http://218.1.138.153:9003/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-13新闻" group-title="http://218.1.138.153:9003" tvg-logo="",CCTV-13新闻
-http://218.1.138.153:9003/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="http://218.1.138.153:9003" tvg-logo="",东南卫视
-http://218.1.138.153:9003/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="http://218.1.138.153:9003" tvg-logo="",东方卫视
-http://218.1.138.153:9003/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="http://218.1.138.153:9003" tvg-logo="",北京卫视
-http://218.1.138.153:9003/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="http://218.1.138.153:9003" tvg-logo="",四川卫视
-http://218.1.138.153:9003/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="http://218.1.138.153:9003" tvg-logo="",天津卫视
-http://218.1.138.153:9003/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="http://218.1.138.153:9003" tvg-logo="",安徽卫视
-http://218.1.138.153:9003/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="http://218.1.138.153:9003" tvg-logo="",山东卫视
-http://218.1.138.153:9003/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="http://218.1.138.153:9003" tvg-logo="",山西卫视
-http://218.1.138.153:9003/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="http://218.1.138.153:9003" tvg-logo="",广东卫视
-http://218.1.138.153:9003/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="http://218.1.138.153:9003" tvg-logo="",广西卫视
-http://218.1.138.153:9003/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="http://218.1.138.153:9003" tvg-logo="",江苏卫视
-http://218.1.138.153:9003/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="http://218.1.138.153:9003" tvg-logo="",江西卫视
-http://218.1.138.153:9003/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="http://218.1.138.153:9003" tvg-logo="",河北卫视
-http://218.1.138.153:9003/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="http://218.1.138.153:9003" tvg-logo="",河南卫视
-http://218.1.138.153:9003/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="http://218.1.138.153:9003" tvg-logo="",浙江卫视
-http://218.1.138.153:9003/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="http://218.1.138.153:9003" tvg-logo="",深圳卫视
-http://218.1.138.153:9003/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="http://218.1.138.153:9003" tvg-logo="",湖北卫视
-http://218.1.138.153:9003/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="http://218.1.138.153:9003" tvg-logo="",湖南卫视
-http://218.1.138.153:9003/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="http://218.1.138.153:9003" tvg-logo="",贵州卫视
-http://218.1.138.153:9003/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="http://218.1.138.153:9003" tvg-logo="",辽宁卫视
-http://218.1.138.153:9003/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="http://218.1.138.153:9003" tvg-logo="",黑龙江卫视
-http://218.1.138.153:9003/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻" group-title="http://218.1.138.153:9003" tvg-logo="",上海新闻
-http://218.1.138.153:9003/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" group-title="http://218.1.138.153:9003" tvg-logo="",东方财经
-http://218.1.138.153:9003/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="五星体育" group-title="http://218.1.138.153:9003" tvg-logo="",五星体育
-http://218.1.138.153:9003/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" group-title="http://218.1.138.153:9003" tvg-logo="",法治天地
-http://218.1.138.153:9003/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="第一财经" group-title="http://218.1.138.153:9003" tvg-logo="",第一财经
-http://218.1.138.153:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="3" group-title="http://speedtest.cn.39039330.xyz:9003" tvg-logo="",3
 http://speedtest.cn.39039330.xyz:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="4" group-title="http://speedtest.cn.39039330.xyz:9003" tvg-logo="",4
@@ -360,25 +282,25 @@ http://bxzhgx.667789.cn:9003/hls/3060/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",东南卫视
 http://bxzhgx.667789.cn:9003/hls/2060/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",云南卫视
-http://bxzhgx.667789.cn:9003/hls/3062/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",云南卫视
 http://bxzhgx.667789.cn:9003/hls/2062/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",云南卫视
+http://bxzhgx.667789.cn:9003/hls/3062/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",兵团卫视
 http://bxzhgx.667789.cn:9003/hls/3068/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",兵团卫视
 http://bxzhgx.667789.cn:9003/hls/2068/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",内蒙古卫视
-http://bxzhgx.667789.cn:9003/hls/3069/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",内蒙古卫视
 http://bxzhgx.667789.cn:9003/hls/2069/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",内蒙古卫视
+http://bxzhgx.667789.cn:9003/hls/3069/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",北京卫视
 http://bxzhgx.667789.cn:9003/hls/2044/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",北京卫视
 http://bxzhgx.667789.cn:9003/hls/3044/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",吉林卫视
-http://bxzhgx.667789.cn:9003/hls/3038/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",吉林卫视
 http://bxzhgx.667789.cn:9003/hls/2038/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",吉林卫视
+http://bxzhgx.667789.cn:9003/hls/3038/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",四川卫视
 http://bxzhgx.667789.cn:9003/hls/3061/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",四川卫视
@@ -398,9 +320,9 @@ http://bxzhgx.667789.cn:9003/hls/2054/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",安徽卫视
 http://bxzhgx.667789.cn:9003/hls/3054/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",山东卫视
-http://bxzhgx.667789.cn:9003/hls/2041/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",山东卫视
 http://bxzhgx.667789.cn:9003/hls/3041/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",山东卫视
+http://bxzhgx.667789.cn:9003/hls/2041/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",山东教育卫视
 http://bxzhgx.667789.cn:9003/hls/2042/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",山东教育卫视
@@ -428,9 +350,9 @@ http://bxzhgx.667789.cn:9003/hls/2071/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",新疆卫视
 http://bxzhgx.667789.cn:9003/hls/3071/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",江苏卫视
-http://bxzhgx.667789.cn:9003/hls/3052/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",江苏卫视
 http://bxzhgx.667789.cn:9003/hls/2052/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",江苏卫视
+http://bxzhgx.667789.cn:9003/hls/3052/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",江西卫视
 http://bxzhgx.667789.cn:9003/hls/3053/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",江西卫视
@@ -440,39 +362,39 @@ http://bxzhgx.667789.cn:9003/hls/2045/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",河北卫视
 http://bxzhgx.667789.cn:9003/hls/3045/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",河南卫视
-http://bxzhgx.667789.cn:9003/hls/3050/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",河南卫视
 http://bxzhgx.667789.cn:9003/hls/2050/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",浙江卫视
-http://bxzhgx.667789.cn:9003/hls/2059/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",河南卫视
+http://bxzhgx.667789.cn:9003/hls/3050/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",浙江卫视
 http://bxzhgx.667789.cn:9003/hls/3059/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",浙江卫视
+http://bxzhgx.667789.cn:9003/hls/2059/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",海南卫视
+http://bxzhgx.667789.cn:9003/hls/3072/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",海南卫视
 http://bxzhgx.667789.cn:9003/hls/3066/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",海南卫视
 http://bxzhgx.667789.cn:9003/hls/2066/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",海南卫视
-http://bxzhgx.667789.cn:9003/hls/3072/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",深圳卫视
-http://bxzhgx.667789.cn:9003/hls/2056/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",深圳卫视
 http://bxzhgx.667789.cn:9003/hls/3056/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖北卫视
-http://bxzhgx.667789.cn:9003/hls/3049/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",深圳卫视
+http://bxzhgx.667789.cn:9003/hls/2056/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖北卫视
 http://bxzhgx.667789.cn:9003/hls/2049/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖南卫视
-http://bxzhgx.667789.cn:9003/hls/2048/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖北卫视
+http://bxzhgx.667789.cn:9003/hls/3049/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖南卫视
 http://bxzhgx.667789.cn:9003/hls/3048/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",湖南卫视
+http://bxzhgx.667789.cn:9003/hls/2048/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",甘肃卫视
 http://bxzhgx.667789.cn:9003/hls/3064/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",甘肃卫视
 http://bxzhgx.667789.cn:9003/hls/2064/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",西藏卫视
-http://bxzhgx.667789.cn:9003/hls/3070/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",西藏卫视
 http://bxzhgx.667789.cn:9003/hls/2070/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",西藏卫视
+http://bxzhgx.667789.cn:9003/hls/3070/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",贵州卫视
 http://bxzhgx.667789.cn:9003/hls/2051/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",贵州卫视
@@ -482,17 +404,17 @@ http://bxzhgx.667789.cn:9003/hls/2040/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",辽宁卫视
 http://bxzhgx.667789.cn:9003/hls/3040/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",重庆卫视
-http://bxzhgx.667789.cn:9003/hls/3063/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",重庆卫视
 http://bxzhgx.667789.cn:9003/hls/2063/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",重庆卫视
+http://bxzhgx.667789.cn:9003/hls/3063/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",陕西卫视
 http://bxzhgx.667789.cn:9003/hls/3047/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",陕西卫视
 http://bxzhgx.667789.cn:9003/hls/2047/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",青海卫视
-http://bxzhgx.667789.cn:9003/hls/3067/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",青海卫视
 http://bxzhgx.667789.cn:9003/hls/2067/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",青海卫视
+http://bxzhgx.667789.cn:9003/hls/3067/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江卫视
 http://bxzhgx.667789.cn:9003/hls/2022/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江卫视
@@ -510,9 +432,9 @@ http://bxzhgx.667789.cn:9003/hls/2021/index.m3u8
 #EXTINF:-1 tvg-name="上海东方" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",上海东方
 http://bxzhgx.667789.cn:9003/hls/2058/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",世界地理
-http://bxzhgx.667789.cn:9003/hls/1092/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",世界地理
 http://bxzhgx.667789.cn:9003/hls/1070/index.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",世界地理
+http://bxzhgx.667789.cn:9003/hls/1092/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",东方财经
 http://bxzhgx.667789.cn:9003/hls/1081/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",中国天气
@@ -530,9 +452,9 @@ http://bxzhgx.667789.cn:9003/hls/1079/index.m3u8
 #EXTINF:-1 tvg-name="伊春新闻综合" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",伊春新闻综合
 http://bxzhgx.667789.cn:9003/hls/2037/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",优漫卡通
-http://bxzhgx.667789.cn:9003/hls/2073/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",优漫卡通
 http://bxzhgx.667789.cn:9003/hls/1073/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",优漫卡通
+http://bxzhgx.667789.cn:9003/hls/2073/index.m3u8
 #EXTINF:-1 tvg-name="全纪实" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",全纪实
 http://bxzhgx.667789.cn:9003/hls/1107/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",动漫秀场
@@ -648,9 +570,9 @@ http://bxzhgx.667789.cn:9003/hls/2035/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑莓动画
 http://bxzhgx.667789.cn:9003/hls/2072/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江农业科教
-http://bxzhgx.667789.cn:9003/hls/3024/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江农业科教
 http://bxzhgx.667789.cn:9003/hls/2027/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江农业科教
+http://bxzhgx.667789.cn:9003/hls/3024/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江少儿
 http://bxzhgx.667789.cn:9003/hls/3026/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江少儿
@@ -662,13 +584,13 @@ http://bxzhgx.667789.cn:9003/hls/2024/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文艺" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江文艺
 http://bxzhgx.667789.cn:9003/hls/3027/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法制" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江新闻法制
-http://bxzhgx.667789.cn:9003/hls/3025/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法制" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江新闻法制
 http://bxzhgx.667789.cn:9003/hls/2026/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江都市" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江都市
-http://bxzhgx.667789.cn:9003/hls/3023/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻法制" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江新闻法制
+http://bxzhgx.667789.cn:9003/hls/3025/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江都市
 http://bxzhgx.667789.cn:9003/hls/2025/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" group-title="http://bxzhgx.667789.cn:9003" tvg-logo="",黑龙江都市
+http://bxzhgx.667789.cn:9003/hls/3023/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" group-title="http://vz11016623ur.vicp.fun:9004" tvg-logo="",CCTV-1
 http://vz11016623ur.vicp.fun:9004/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" group-title="http://vz11016623ur.vicp.fun:9004" tvg-logo="",CCTV-2
