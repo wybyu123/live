@@ -8,9 +8,10 @@ sys.stdout.reconfigure(line_buffering=True) if hasattr(
     sys.stdout, "reconfigure"
 ) else None
 
-INPUT_FILE = "py/jsmpeg.txt"
+# 【修改处】将输入源改为多个文件的列表
+INPUT_FILES = ["py/jsmpeg.txt", "py/jsmpeg2.txt"]
 BLACKLIST_FILE = "py/black_ips2.txt"  # 黑名单文件路径
-WHITELIST_FILE = "py/whitelist_ips.txt"  # 【新增】白名单文件路径
+WHITELIST_FILE = "py/whitelist_ips.txt"  # 白名单文件路径
 OUTPUT_TXT = "live.txt"
 OUTPUT_M3U = "live.m3u"
 TIMEOUT = 15000  # 浏览器超时毫秒
@@ -63,7 +64,7 @@ def load_blacklist():
 
 
 def load_whitelist():
-    """【新增】加载白名单文件中的 IP"""
+    """加载白名单文件中的 IP"""
     return load_file_set(WHITELIST_FILE)
 
 
@@ -73,7 +74,6 @@ def update_blacklist(new_failed_ips, whitelist):
     added_count = 0
     
     for ip in new_failed_ips:
-        # 【白名单保护】如果 IP 在白名单中，绝不加入黑名单
         if ip in whitelist:
             print(f"🛡️ [白名单保护] {ip} 预检/抓取失败，但因其在白名单中，已免于拉黑。")
             continue
@@ -90,7 +90,7 @@ def update_blacklist(new_failed_ips, whitelist):
 
 
 def update_whitelist(successful_ips):
-    """【新增】将本次成功采集的优质 IP 自动追加保存到白名单文件中（去重）"""
+    """将本次成功采集的优质 IP 自动追加保存到白名单文件中（去重）"""
     existing_whitelist = load_whitelist()
     added_count = 0
 
@@ -233,7 +233,7 @@ def fetch_channels_with_browser(p, base_url):
 
 def main():
     print("=" * 50)
-    print(" 🚀 启动 IPTV 自动化抓取（已启用黑/白名单双向联动机制）...")
+    print(" 🚀 启动 IPTV 自动化抓取（支持多输入源与双向黑白名单）...")
     print("=" * 50)
 
     # 1. 加载黑名单与白名单
@@ -242,19 +242,22 @@ def main():
     print(f"🛡️ 从 {BLACKLIST_FILE} 加载了 {len(blacklist)} 个已知失效黑名单 IP。")
     print(f"🌟 从 {WHITELIST_FILE} 加载了 {len(whitelist)} 个免检/受保护白名单 IP。")
 
-    # 2. 读取输入文件
-    try:
-        with open(INPUT_FILE, "r", encoding="utf-8") as f:
-            raw_ips = [
-                line.strip()
-                for line in f
-                if line.strip() and not line.startswith("#")
-            ]
-    except FileNotFoundError:
-        print(f"[错误] 找不到输入文件: {INPUT_FILE}")
-        return
+    # 2. 【修改处】循环读取多个输入文件并合并去重
+    raw_ips_set = set()
+    for file_path in INPUT_FILES:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                count_before = len(raw_ips_set)
+                for line in f:
+                    item = line.strip()
+                    if item and not item.startswith("#"):
+                        raw_ips_set.add(item)
+                print(f"📁 已从 {file_path} 加载目标。")
+        except FileNotFoundError:
+            print(f"[提示] 输入文件不存在，已跳过: {file_path}")
 
-    print(f"📁 从 {INPUT_FILE} 总共加载了 {len(raw_ips)} 个原始目标。")
+    raw_ips = list(raw_ips_set)
+    print(f"📦 多源合并去重后，总共加载了 {len(raw_ips)} 个独特原始目标。")
 
     # 3. 运行前自动过滤黑名单中的 IP
     filtered_ips = []
@@ -271,7 +274,7 @@ def main():
     grouped_channels = {}
     success_ip_count = 0
     new_failed_ips = []
-    successful_ips = []  # 【新增】用于记录本次成功采集的 IP 列表
+    successful_ips = []
 
     with sync_playwright() as p:
         for ip_url in filtered_ips:
@@ -301,7 +304,7 @@ def main():
                     " 个真实频道"
                 )
                 grouped_channels[target_url] = channels
-                successful_ips.append(base_host_key)  # 【新增】记录成功采集的 IP
+                successful_ips.append(base_host_key)
             else:
                 print(f"[⚠️ 过滤空壳页面] {target_url} -> 无有效频道，已丢弃")
                 new_failed_ips.append(base_host_key)
@@ -310,7 +313,7 @@ def main():
     if new_failed_ips:
         update_blacklist(new_failed_ips, whitelist)
 
-    # 5. 【新增】运行结束后：将本次成功采集的高质量 IP 自动追加保存至白名单
+    # 5. 运行结束后：将本次成功采集的高质量 IP 自动追加保存至白名单
     if successful_ips:
         update_whitelist(successful_ips)
 
