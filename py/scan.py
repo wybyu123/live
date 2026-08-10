@@ -1,4 +1,5 @@
 import os
+import csv
 import requests
 import concurrent.futures
 from urllib.parse import urlparse, urlunparse
@@ -11,6 +12,9 @@ warnings.filterwarnings("ignore")
 BASE_PATH = os.getcwd()
 INPUT_FILE = os.path.join(BASE_PATH, "py", "txiptv.txt")
 SUCCESS_FILE = os.path.join(BASE_PATH, "py", "1000_alive.txt")
+
+# 新增：远程输入源地址
+REMOTE_INPUT_URL = "https://nek.de5.net/py/1000_alive.txt"
 
 TIMEOUT = 5        # 单次连接超时
 MAX_WORKERS = 200  # 并发线程数
@@ -36,12 +40,10 @@ def normalize_and_complete_url(url):
     
     # 如果输入的路径里没有包含核心接口，则强制拼上标准的酒店源路径和参数
     if TARGET_PATH not in parsed.path:
-        # 重构 netloc 和 path
         netloc = parsed.netloc
         new_path = TARGET_PATH
         new_query = TARGET_PARAMS
         
-        # 重新组合成完整的目标测试 URL
         reconstructed = urlunparse((
             parsed.scheme,
             netloc,
@@ -60,7 +62,6 @@ def check_url(url):
         headers = {'User-Agent': 'Mozilla/5.0 (Viera; rv:34.0) Gecko/20100101 Firefox/34.0'}
         response = requests.get(url, timeout=TIMEOUT, verify=False, headers=headers)
         if response.status_code == 200:
-            # 酒店源通常返回 JSON 数组或对象，校验内容特征
             if "key" in response.text or "1000" in response.text or "[" in response.text or "{" in response.text:
                 return url
     except:
@@ -83,7 +84,6 @@ def get_c_segment_urls(url):
             base_ip = ".".join(ip_parts[:3])
             for i in range(1, 255):
                 new_ip = f"{base_ip}.{i}:{port}"
-                # 使用相同的路径和参数模板生成 C 段其他 IP 的 URL
                 new_url = urlunparse((
                     parsed.scheme,
                     new_ip,
@@ -100,22 +100,40 @@ def get_c_segment_urls(url):
 def main():
     alive_urls = set()
     all_scan_tasks = []
+    raw_lines = []
 
-    # 1. 读取原始数据
-    if not os.path.exists(INPUT_FILE):
-        print(f"❌ 错误：找不到文件 {INPUT_FILE}")
-        return
-
+    # 1. 优先尝试从远程链接获取输入源
+    print(f"🌐 正在尝试从远程获取输入源: {REMOTE_INPUT_URL}")
     try:
-        with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-            raw_lines = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+        resp = requests.get(REMOTE_INPUT_URL, timeout=10, verify=False)
+        if resp.status_code == 200:
+            remote_lines = [line.strip() for line in resp.text.splitlines() if line.strip() and not line.strip().startswith("#")]
+            raw_lines.extend(remote_lines)
+            print(f"✅ 成功从远程源加载了 {len(remote_lines)} 条记录")
+        else:
+            print(f"⚠️ 远程源响应异常 (状态码: {resp.status_code})，将回退检查本地文件...")
     except Exception as e:
-        print(f"❌ 读取文件失败: {e}")
+        print(f"⚠️ 无法连接到远程源 ({e})，将回退检查本地文件...")
+
+    # 2. 同时读取本地文件（如果存在则进行合并）
+    if os.path.exists(INPUT_FILE):
+        try:
+            with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+                local_lines = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+                raw_lines.extend(local_lines)
+            print(f"📂 成功从本地文件 {INPUT_FILE} 加载了 {len(local_lines)} 条记录")
+        except Exception as e:
+            print(f"❌ 读取本地文件失败: {e}")
+    else:
+        print(f"ℹ️ 本地文件 {INPUT_FILE} 不存在，仅使用远程源数据。")
+
+    if not raw_lines:
+        print("❌ 错误：没有获取到任何有效的初始记录（远程和本地均为空或不可用）！")
         return
 
-    print(f"【初始化】原始记录: {len(raw_lines)} 条")
+    print(f"【初始化】合并后原始记录总计: {len(raw_lines)} 条")
 
-    # 2. 规范化并构造所有待扫描的任务池（包含主任务及 C 段扩展）
+    # 3. 规范化并构造所有待扫描的任务池（包含主任务及 C 段扩展）
     for line in raw_lines:
         formatted_url = normalize_and_complete_url(line)
         if formatted_url:
@@ -129,7 +147,7 @@ def main():
     print(f"【任务池】去重后总计待测试任务: {total_count} 个")
     print(f"【执行】并发线程数: {MAX_WORKERS}，请稍后...")
 
-    # 3. 使用 ThreadPoolExecutor 全速扫描
+    # 4. 使用 ThreadPoolExecutor 全速扫描
     count = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_url = {executor.submit(check_url, url): url for url in all_scan_tasks}
@@ -144,7 +162,7 @@ def main():
             if count % 500 == 0:
                 print(f"进度: {count}/{total_count} (已发现 {len(alive_urls)} 个)")
 
-    # 4. 保存结果
+    # 5. 保存结果
     os.makedirs(os.path.dirname(SUCCESS_FILE), exist_ok=True)
     with open(SUCCESS_FILE, 'w', encoding='utf-8') as f:
         for url in sorted(alive_urls):
