@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="handz.sohu.blog:9901",CCTV1
+http://handz.sohu.blog:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" group-title="handz.sohu.blog:9901",CCTV2
+http://handz.sohu.blog:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" group-title="handz.sohu.blog:9901",CCTV3
+http://handz.sohu.blog:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" group-title="handz.sohu.blog:9901",CCTV4
+http://handz.sohu.blog:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" group-title="handz.sohu.blog:9901",CCTV5
+http://handz.sohu.blog:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" group-title="handz.sohu.blog:9901",CCTV6
+http://handz.sohu.blog:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" group-title="handz.sohu.blog:9901",CCTV7
+http://handz.sohu.blog:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" group-title="handz.sohu.blog:9901",CCTV8
+http://handz.sohu.blog:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="handz.sohu.blog:9901",CCTV9
+http://handz.sohu.blog:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="handz.sohu.blog:9901",CCTV10
+http://handz.sohu.blog:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" group-title="handz.sohu.blog:9901",CCTV11
+http://handz.sohu.blog:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" group-title="handz.sohu.blog:9901",CCTV12
+http://handz.sohu.blog:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" group-title="handz.sohu.blog:9901",CCTV13
+http://handz.sohu.blog:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" group-title="handz.sohu.blog:9901",CCTV14
+http://handz.sohu.blog:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" group-title="handz.sohu.blog:9901",CCTV15
+http://handz.sohu.blog:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" group-title="handz.sohu.blog:9901",CCTV17
+http://handz.sohu.blog:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="中国天气" group-title="handz.sohu.blog:9901",中国天气
+http://handz.sohu.blog:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="儋州台" group-title="handz.sohu.blog:9901",儋州台
+http://handz.sohu.blog:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="洋浦" group-title="handz.sohu.blog:9901",洋浦
+http://handz.sohu.blog:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV 4" group-title="handz.sohu.blog:9901",CETV 4
+http://handz.sohu.blog:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南卫视 高清" group-title="handz.sohu.blog:9901",海南卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南自贸 高清" group-title="handz.sohu.blog:9901",海南自贸 高清
+http://handz.sohu.blog:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="社会与法 高清" group-title="handz.sohu.blog:9901",社会与法 高清
+http://handz.sohu.blog:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南新闻 高清" group-title="handz.sohu.blog:9901",海南新闻 高清
+http://handz.sohu.blog:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南文旅 高清" group-title="handz.sohu.blog:9901",海南文旅 高清
+http://handz.sohu.blog:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="三沙卫视 高清" group-title="handz.sohu.blog:9901",三沙卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海口1台" group-title="handz.sohu.blog:9901",海口1台
+http://handz.sohu.blog:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" group-title="handz.sohu.blog:9901",湖南卫视
+http://handz.sohu.blog:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" group-title="handz.sohu.blog:9901",东方卫视
+http://handz.sohu.blog:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="handz.sohu.blog:9901",江苏卫视
+http://handz.sohu.blog:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="handz.sohu.blog:9901",浙江卫视
+http://handz.sohu.blog:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="handz.sohu.blog:9901",湖北卫视
+http://handz.sohu.blog:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="handz.sohu.blog:9901",北京卫视
+http://handz.sohu.blog:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" group-title="handz.sohu.blog:9901",天津卫视
+http://handz.sohu.blog:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="handz.sohu.blog:9901",河北卫视
+http://handz.sohu.blog:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" group-title="handz.sohu.blog:9901",安徽卫视
+http://handz.sohu.blog:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" group-title="handz.sohu.blog:9901",山东卫视
+http://handz.sohu.blog:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="handz.sohu.blog:9901",山西卫视
+http://handz.sohu.blog:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="handz.sohu.blog:9901",甘肃卫视
+http://handz.sohu.blog:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" group-title="handz.sohu.blog:9901",江西卫视
+http://handz.sohu.blog:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="handz.sohu.blog:9901",宁夏卫视
+http://handz.sohu.blog:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" group-title="handz.sohu.blog:9901",吉林卫视
+http://handz.sohu.blog:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" group-title="handz.sohu.blog:9901",陕西卫视
+http://handz.sohu.blog:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="handz.sohu.blog:9901",广西卫视
+http://handz.sohu.blog:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="厦门卫视" group-title="handz.sohu.blog:9901",厦门卫视
+http://handz.sohu.blog:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" group-title="handz.sohu.blog:9901",青海卫视
+http://handz.sohu.blog:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="西藏卫视" group-title="handz.sohu.blog:9901",西藏卫视
+http://handz.sohu.blog:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" group-title="handz.sohu.blog:9901",云南卫视
+http://handz.sohu.blog:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东教育卫视" group-title="handz.sohu.blog:9901",山东教育卫视
+http://handz.sohu.blog:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" group-title="handz.sohu.blog:9901",河南卫视
+http://handz.sohu.blog:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵团卫视" group-title="handz.sohu.blog:9901",兵团卫视
+http://handz.sohu.blog:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="handz.sohu.blog:9901",内蒙古卫视
+http://handz.sohu.blog:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" group-title="handz.sohu.blog:9901",新疆卫视
+http://handz.sohu.blog:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="handz.sohu.blog:9901",四川卫视
+http://handz.sohu.blog:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV1" group-title="handz.sohu.blog:9901",CETV1
+http://handz.sohu.blog:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷动漫" group-title="handz.sohu.blog:9901",卡酷动漫
+http://handz.sohu.blog:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="handz.sohu.blog:9901",金鹰卡通
+http://handz.sohu.blog:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="handz.sohu.blog:9901",嘉佳卡通
+http://handz.sohu.blog:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN" group-title="handz.sohu.blog:9901",CGTN
+http://handz.sohu.blog:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="财富天下" group-title="handz.sohu.blog:9901",财富天下
+http://handz.sohu.blog:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV2" group-title="handz.sohu.blog:9901",CETV2
+http://handz.sohu.blog:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV4" group-title="handz.sohu.blog:9901",CETV4
+http://handz.sohu.blog:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试一" group-title="handz.sohu.blog:9901",测试一
+http://handz.sohu.blog:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试二" group-title="handz.sohu.blog:9901",测试二
+http://handz.sohu.blog:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="三亚" group-title="handz.sohu.blog:9901",三亚
+http://handz.sohu.blog:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南少儿 高清" group-title="handz.sohu.blog:9901",海南少儿 高清
+http://handz.sohu.blog:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1 高清" group-title="handz.sohu.blog:9901",CCTV1 高清
+http://handz.sohu.blog:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2 高清" group-title="handz.sohu.blog:9901",CCTV2 高清
+http://handz.sohu.blog:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3 高清" group-title="handz.sohu.blog:9901",CCTV3 高清
+http://handz.sohu.blog:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4 高清" group-title="handz.sohu.blog:9901",CCTV4 高清
+http://handz.sohu.blog:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5 高清" group-title="handz.sohu.blog:9901",CCTV5 高清
+http://handz.sohu.blog:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6 高清" group-title="handz.sohu.blog:9901",CCTV6 高清
+http://handz.sohu.blog:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7 高清" group-title="handz.sohu.blog:9901",CCTV7 高清
+http://handz.sohu.blog:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8 高清" group-title="handz.sohu.blog:9901",CCTV8 高清
+http://handz.sohu.blog:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9 高清" group-title="handz.sohu.blog:9901",CCTV9 高清
+http://handz.sohu.blog:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10 高清" group-title="handz.sohu.blog:9901",CCTV10 高清
+http://handz.sohu.blog:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11 高清" group-title="handz.sohu.blog:9901",CCTV11 高清
+http://handz.sohu.blog:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12 高清" group-title="handz.sohu.blog:9901",CCTV12 高清
+http://handz.sohu.blog:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13 高清" group-title="handz.sohu.blog:9901",CCTV13 高清
+http://handz.sohu.blog:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14 高清" group-title="handz.sohu.blog:9901",CCTV14 高清
+http://handz.sohu.blog:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15 高清" group-title="handz.sohu.blog:9901",CCTV15 高清
+http://handz.sohu.blog:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV16 高清" group-title="handz.sohu.blog:9901",CCTV16 高清
+http://handz.sohu.blog:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17 高清" group-title="handz.sohu.blog:9901",CCTV17 高清
+http://handz.sohu.blog:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+ 高清" group-title="handz.sohu.blog:9901",CCTV5+ 高清
+http://handz.sohu.blog:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视 高清" group-title="handz.sohu.blog:9901",湖南卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视 高清" group-title="handz.sohu.blog:9901",东方卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视 高清" group-title="handz.sohu.blog:9901",江苏卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视 高清" group-title="handz.sohu.blog:9901",浙江卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视 高清" group-title="handz.sohu.blog:9901",湖北卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视 高清" group-title="handz.sohu.blog:9901",北京卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视 高清" group-title="handz.sohu.blog:9901",天津卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视 高清" group-title="handz.sohu.blog:9901",河北卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视 高清" group-title="handz.sohu.blog:9901",安徽卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视 高清" group-title="handz.sohu.blog:9901",重庆卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视 高清" group-title="handz.sohu.blog:9901",黑龙江卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视 高清" group-title="handz.sohu.blog:9901",深圳卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视 高清" group-title="handz.sohu.blog:9901",广东卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视 高清" group-title="handz.sohu.blog:9901",辽宁卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视 高清" group-title="handz.sohu.blog:9901",山东卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视 高清" group-title="handz.sohu.blog:9901",东南卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视 高清" group-title="handz.sohu.blog:9901",贵州卫视 高清
+http://handz.sohu.blog:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV1 高清" group-title="handz.sohu.blog:9901",CETV1 高清
+http://handz.sohu.blog:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作影院" group-title="handz.sohu.blog:9901",动作影院
+http://handz.sohu.blog:9901/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰纪实 高清" group-title="handz.sohu.blog:9901",金鹰纪实 高清
+http://handz.sohu.blog:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
