@@ -53,8 +53,6 @@ http://121.19.134.22:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://121.19.134.22:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="保定新闻综合" group-title="121.19.134.22:808",保定新闻综合
 http://121.19.134.22:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="保定经济生活" group-title="121.19.134.22:808",保定经济生活
-http://121.19.134.22:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="保定文化娱乐" group-title="121.19.134.22:808",保定文化娱乐
 http://121.19.134.22:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="涿州新闻" group-title="121.19.134.22:808",涿州新闻

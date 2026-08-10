@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="103.121.188.31:9901",CCTV1
+http://103.121.188.31:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 2" group-title="103.121.188.31:9901",CCTV 2
+http://103.121.188.31:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" group-title="103.121.188.31:9901",CCTV3
+http://103.121.188.31:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 4A" group-title="103.121.188.31:9901",CCTV 4A
+http://103.121.188.31:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" group-title="103.121.188.31:9901",CCTV5
+http://103.121.188.31:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" group-title="103.121.188.31:9901",CCTV6
+http://103.121.188.31:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" group-title="103.121.188.31:9901",CCTV7
+http://103.121.188.31:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" group-title="103.121.188.31:9901",CCTV8
+http://103.121.188.31:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN" group-title="103.121.188.31:9901",CGTN
+http://103.121.188.31:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 10" group-title="103.121.188.31:9901",CCTV 10
+http://103.121.188.31:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 11" group-title="103.121.188.31:9901",CCTV 11
+http://103.121.188.31:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 12" group-title="103.121.188.31:9901",CCTV 12
+http://103.121.188.31:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 12" group-title="103.121.188.31:9901",CCTV 12
+http://103.121.188.31:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 13" group-title="103.121.188.31:9901",CCTV 13
+http://103.121.188.31:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 14" group-title="103.121.188.31:9901",CCTV 14
+http://103.121.188.31:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 15" group-title="103.121.188.31:9901",CCTV 15
+http://103.121.188.31:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV 17" group-title="103.121.188.31:9901",CCTV 17
+http://103.121.188.31:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Phx Infonews Channel" group-title="103.121.188.31:9901",Phx Infonews Channel
+http://103.121.188.31:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Phx Chinese Channel" group-title="103.121.188.31:9901",Phx Chinese Channel
+http://103.121.188.31:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="FJTV" group-title="103.121.188.31:9901",FJTV
+http://103.121.188.31:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="JSWS" group-title="103.121.188.31:9901",JSWS
+http://103.121.188.31:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="GZTV" group-title="103.121.188.31:9901",GZTV
+http://103.121.188.31:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="JSYMKT" group-title="103.121.188.31:9901",JSYMKT
+http://103.121.188.31:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name=":HubeiTV" group-title="103.121.188.31:9901",:HubeiTV
+http://103.121.188.31:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏" group-title="103.121.188.31:9901",宁夏
+http://103.121.188.31:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="SHANXI-TV" group-title="103.121.188.31:9901",SHANXI-TV
+http://103.121.188.31:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="蒙古" group-title="103.121.188.31:9901",蒙古
+http://103.121.188.31:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV" group-title="103.121.188.31:9901",CETV
+http://103.121.188.31:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北" group-title="103.121.188.31:9901",河北
+http://103.121.188.31:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CQTV" group-title="103.121.188.31:9901",CQTV
+http://103.121.188.31:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="ZJTV" group-title="103.121.188.31:9901",ZJTV
+http://103.121.188.31:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV_1" group-title="103.121.188.31:9901",BTV_1
+http://103.121.188.31:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV_KAKU" group-title="103.121.188.31:9901",BTV_KAKU
+http://103.121.188.31:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽 卫视" group-title="103.121.188.31:9901",安徽 卫视
+http://103.121.188.31:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽 卫视" group-title="103.121.188.31:9901",安徽 卫视
+http://103.121.188.31:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="sichuan" group-title="103.121.188.31:9901",sichuan
+http://103.121.188.31:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="康巴" group-title="103.121.188.31:9901",康巴
+http://103.121.188.31:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="NMTV-M" group-title="103.121.188.31:9901",NMTV-M
+http://103.121.188.31:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Program1020" group-title="103.121.188.31:9901",Program1020
+http://103.121.188.31:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Program1010" group-title="103.121.188.31:9901",Program1010
+http://103.121.188.31:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN A" group-title="103.121.188.31:9901",CGTN A
+http://103.121.188.31:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN R" group-title="103.121.188.31:9901",CGTN R
+http://103.121.188.31:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN E" group-title="103.121.188.31:9901",CGTN E
+http://103.121.188.31:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN F" group-title="103.121.188.31:9901",CGTN F
+http://103.121.188.31:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV" group-title="103.121.188.31:9901",BTV
+http://103.121.188.31:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="柬埔寨" group-title="103.121.188.31:9901",柬埔寨
+http://103.121.188.31:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
