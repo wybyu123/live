@@ -33,11 +33,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
+          # 先拉取远程最新代码，防止冲突或被拒
+          git pull origin main --rebase || echo "拉取远程失败或无冲突"
+          
           git add .
           
           if git diff --staged --quiet; then
             echo "✨ 扫描完成，结果无变动，跳过推送。"
           else
             git commit -m "自动更新 C段扫描存活结果: $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
+            git push origin main
           fi
