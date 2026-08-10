@@ -31,14 +31,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 先拉取远程最新代码，避免冲突拒绝
-          git pull origin main --rebase
-          
+          # 1. 先把当前新生成的更改加入暂存区
           git add .
           
+          # 2. 拉取远程最新代码并使用储藏/变基整合（允许在暂存状态下安全拉取）
+          git pull origin main --rebase --autostash
+          
+          # 3. 检查是否有实质性变动并提交推送
           if git diff --staged --quiet; then
             echo "✨ 扫描完成，结果无变动，跳过推送。"
           else
             git commit -m "自动更新 C段扫描存活结果及独立hotels文件: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
-          fi          
+          fi
