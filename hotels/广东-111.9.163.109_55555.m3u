@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="111.9.163.109:55555",CCTV1-综合
+http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="111.9.163.109:55555",CCTV2-财经
+http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="111.9.163.109:55555",CCTV3-综艺
+http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="111.9.163.109:55555",CCTV4-国际
+http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="111.9.163.109:55555",CCTV5-体育
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="111.9.163.109:55555",江苏卫视
+http://111.9.163.109:55555/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="院景慢直播" group-title="111.9.163.109:55555",院景慢直播
+http://111.9.163.109:9800/hls/pengan.m3u8
+#EXTINF:-1 tvg-name="健康科教" group-title="111.9.163.109:55555",健康科教
+http://111.9.163.109:9800/hls/kejiao.m3u8
