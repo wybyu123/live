@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" group-title="zm.sihanlin.top:9901",CCTV1
+http://10.8.8.8:8008/paiptv/A1.m3u8
+#EXTINF:-1 tvg-name="CCTV1-综" group-title="zm.sihanlin.top:9901",CCTV1-综
+http://zm.sihanlin.top:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV2" group-title="zm.sihanlin.top:9901",CCTV2
+http://10.8.8.8:8008/paiptv/A2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="zm.sihanlin.top:9901",CCTV3
+http://10.8.8.8:8008/paiptv/A3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="zm.sihanlin.top:9901",CCTV4
+http://10.8.8.8:8008/paiptv/A4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="zm.sihanlin.top:9901",CCTV5
+http://10.8.8.8:8008/paiptv/A5.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="zm.sihanlin.top:9901",CCTV6
+http://10.8.8.8:8008/paiptv/A6.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="zm.sihanlin.top:9901",CCTV7
+http://10.8.8.8:8008/paiptv/A7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="zm.sihanlin.top:9901",CCTV8
+http://10.8.8.8:8008/paiptv/A8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="zm.sihanlin.top:9901",CCTV9
+http://10.8.8.8:8008/paiptv/A9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="zm.sihanlin.top:9901",CCTV10
+http://10.8.8.8:8008/paiptv/A10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="zm.sihanlin.top:9901",CCTV11
+http://10.8.8.8:8008/paiptv/A11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="zm.sihanlin.top:9901",CCTV12
+http://10.8.8.8:8008/paiptv/A12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="zm.sihanlin.top:9901",CCTV13
+http://10.8.8.8:8008/paiptv/A13.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="zm.sihanlin.top:9901",CCTV5+
+http://10.8.8.8:8008/paiptv/A14.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="zm.sihanlin.top:9901",河南卫视
+http://10.8.8.8:8008/paiptv/A15.m3u8
+#EXTINF:-1 tvg-name="河南都市频道" group-title="zm.sihanlin.top:9901",河南都市频道
+http://10.8.8.8:8008/paiptv/A16.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="zm.sihanlin.top:9901",北京卫视
+http://10.8.8.8:8008/paiptv/A17.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="zm.sihanlin.top:9901",天津卫视
+http://10.8.8.8:8008/paiptv/A18.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="zm.sihanlin.top:9901",东方卫视
+http://10.8.8.8:8008/paiptv/A19.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="zm.sihanlin.top:9901",重庆卫视
+http://10.8.8.8:8008/paiptv/A20.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="zm.sihanlin.top:9901",黑龙江卫视
+http://10.8.8.8:8008/paiptv/A21.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="zm.sihanlin.top:9901",辽宁卫视
+http://10.8.8.8:8008/paiptv/A22.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="zm.sihanlin.top:9901",河北卫视
+http://10.8.8.8:8008/paiptv/A23.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="zm.sihanlin.top:9901",山西卫视
+http://10.8.8.8:8008/paiptv/A24.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="zm.sihanlin.top:9901",江苏卫视
+http://10.8.8.8:8008/paiptv/A25.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="zm.sihanlin.top:9901",浙江卫视
+http://10.8.8.8:8008/paiptv/A26.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="zm.sihanlin.top:9901",安徽卫视
+http://10.8.8.8:8008/paiptv/A27.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="zm.sihanlin.top:9901",东南卫视
+http://10.8.8.8:8008/paiptv/A28.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="zm.sihanlin.top:9901",江西卫视
+http://10.8.8.8:8008/paiptv/A29.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="zm.sihanlin.top:9901",山东卫视
+http://10.8.8.8:8008/paiptv/A30.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="zm.sihanlin.top:9901",湖北卫视
+http://10.8.8.8:8008/paiptv/A31.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="zm.sihanlin.top:9901",湖南卫视
+http://10.8.8.8:8008/paiptv/A32.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="zm.sihanlin.top:9901",广东卫视
+http://10.8.8.8:8008/paiptv/A33.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="zm.sihanlin.top:9901",深圳卫视
+http://10.8.8.8:8008/paiptv/A34.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="zm.sihanlin.top:9901",四川卫视
+http://10.8.8.8:8008/paiptv/A35.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="zm.sihanlin.top:9901",云南卫视
+http://10.8.8.8:8008/paiptv/A37.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="zm.sihanlin.top:9901",贵州卫视
+http://10.8.8.8:8008/paiptv/A38.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="zm.sihanlin.top:9901",陕西卫视
+http://10.8.8.8:8008/paiptv/A39.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="zm.sihanlin.top:9901",金鹰卡通
+http://10.8.8.8:8008/paiptv/A40.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="zm.sihanlin.top:9901",金鹰纪实
+http://10.8.8.8:8008/paiptv/A41.m3u8
