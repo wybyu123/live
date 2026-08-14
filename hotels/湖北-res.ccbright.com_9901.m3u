@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1HD" group-title="res.ccbright.com:9901",CCTV-1HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
+#EXTINF:-1 tvg-name="CCTV-2HD" group-title="res.ccbright.com:9901",CCTV-2HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
+#EXTINF:-1 tvg-name="CCTV-3" group-title="res.ccbright.com:9901",CCTV-3
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000211
+#EXTINF:-1 tvg-name="CCTV-4HD" group-title="res.ccbright.com:9901",CCTV-4HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
+#EXTINF:-1 tvg-name="CCTV-5" group-title="res.ccbright.com:9901",CCTV-5
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000212
+#EXTINF:-1 tvg-name="CCTV-6" group-title="res.ccbright.com:9901",CCTV-6
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000213
+#EXTINF:-1 tvg-name="CCTV-7HD" group-title="res.ccbright.com:9901",CCTV-7HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000358
+#EXTINF:-1 tvg-name="CCTV-8" group-title="res.ccbright.com:9901",CCTV-8
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000214
+#EXTINF:-1 tvg-name="CCTV-9HD" group-title="res.ccbright.com:9901",CCTV-9HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000359
+#EXTINF:-1 tvg-name="CCTV-10HD" group-title="res.ccbright.com:9901",CCTV-10HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000360
+#EXTINF:-1 tvg-name="CCTV-11HD" group-title="res.ccbright.com:9901",CCTV-11HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000583
+#EXTINF:-1 tvg-name="CCTV-12HD" group-title="res.ccbright.com:9901",CCTV-12HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000361
+#EXTINF:-1 tvg-name="CCTV-13" group-title="res.ccbright.com:9901",CCTV-13
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000041
+#EXTINF:-1 tvg-name="CCTV-14HD" group-title="res.ccbright.com:9901",CCTV-14HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362
+#EXTINF:-1 tvg-name="CCTV-15HD" group-title="res.ccbright.com:9901",CCTV-15HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
+#EXTINF:-1 tvg-name="CCTVNEWS" group-title="res.ccbright.com:9901",CCTVNEWS
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000127
+#EXTINF:-1 tvg-name="CCTV-17HD" group-title="res.ccbright.com:9901",CCTV-17HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
+#EXTINF:-1 tvg-name="CCTV-5＋HD" group-title="res.ccbright.com:9901",CCTV-5＋HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000132
+#EXTINF:-1 tvg-name="湖北卫视HD" group-title="res.ccbright.com:9901",湖北卫视HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
+#EXTINF:-1 tvg-name="湖北经视HD" group-title="res.ccbright.com:9901",湖北经视HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
+#EXTINF:-1 tvg-name="湖北综合HD" group-title="res.ccbright.com:9901",湖北综合HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
+#EXTINF:-1 tvg-name="湖北垄上HD" group-title="res.ccbright.com:9901",湖北垄上HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600
+#EXTINF:-1 tvg-name="湖北公共HD" group-title="res.ccbright.com:9901",湖北公共HD
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
+#EXTINF:-1 tvg-name="湖北影视" group-title="res.ccbright.com:9901",湖北影视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000168
+#EXTINF:-1 tvg-name="湖北教育" group-title="res.ccbright.com:9901",湖北教育
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000170
+#EXTINF:-1 tvg-name="湖北生活" group-title="res.ccbright.com:9901",湖北生活
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000169
+#EXTINF:-1 tvg-name="美嘉购物" group-title="res.ccbright.com:9901",美嘉购物
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000166
+#EXTINF:-1 tvg-name="湖北经视" group-title="res.ccbright.com:9901",湖北经视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000165
+#EXTINF:-1 tvg-name="湖北综合" group-title="res.ccbright.com:9901",湖北综合
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000164
+#EXTINF:-1 tvg-name="湖北垄上" group-title="res.ccbright.com:9901",湖北垄上
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000191
+#EXTINF:-1 tvg-name="湖北公共" group-title="res.ccbright.com:9901",湖北公共
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000172
+#EXTINF:-1 tvg-name="浙江卫视" group-title="res.ccbright.com:9901",浙江卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000048
+#EXTINF:-1 tvg-name="东方卫视" group-title="res.ccbright.com:9901",东方卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000054
+#EXTINF:-1 tvg-name="天津卫视" group-title="res.ccbright.com:9901",天津卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000071
+#EXTINF:-1 tvg-name="山东卫视" group-title="res.ccbright.com:9901",山东卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000073
+#EXTINF:-1 tvg-name="安徽卫视" group-title="res.ccbright.com:9901",安徽卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000035
+#EXTINF:-1 tvg-name="东南卫视" group-title="res.ccbright.com:9901",东南卫视
+http://res.ccbright.com:9901/rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000053

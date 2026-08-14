@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1高清" group-title="123.131.232.48:9901",CCTV1高清
+http://123.131.232.48:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2高清" group-title="123.131.232.48:9901",CCTV2高清
+http://123.131.232.48:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3高清" group-title="123.131.232.48:9901",CCTV3高清
+http://123.131.232.48:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4高清" group-title="123.131.232.48:9901",CCTV4高清
+http://123.131.232.48:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5高清" group-title="123.131.232.48:9901",CCTV5高清
+http://123.131.232.48:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+高清" group-title="123.131.232.48:9901",CCTV5+高清
+http://123.131.232.48:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6高清" group-title="123.131.232.48:9901",CCTV6高清
+http://123.131.232.48:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7高清" group-title="123.131.232.48:9901",CCTV7高清
+http://123.131.232.48:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15高清" group-title="123.131.232.48:9901",CCTV15高清
+http://123.131.232.48:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17高清" group-title="123.131.232.48:9901",CCTV17高清
+http://123.131.232.48:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视高清" group-title="123.131.232.48:9901",山东卫视高清
+http://123.131.232.48:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="齐鲁频道高清" group-title="123.131.232.48:9901",齐鲁频道高清
+http://123.131.232.48:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东影视高清" group-title="123.131.232.48:9901",山东影视高清
+http://123.131.232.48:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东生活高清" group-title="123.131.232.48:9901",山东生活高清
+http://123.131.232.48:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东综艺高清" group-title="123.131.232.48:9901",山东综艺高清
+http://123.131.232.48:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东农科高清" group-title="123.131.232.48:9901",山东农科高清
+http://123.131.232.48:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视高清" group-title="123.131.232.48:9901",湖南卫视高清
+http://123.131.232.48:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="123.131.232.48:9901",浙江卫视高清
+http://123.131.232.48:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视高清" group-title="123.131.232.48:9901",东方卫视高清
+http://123.131.232.48:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视高清" group-title="123.131.232.48:9901",江苏卫视高清
+http://123.131.232.48:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="123.131.232.48:9901",北京卫视高清
+http://123.131.232.48:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视高清" group-title="123.131.232.48:9901",安徽卫视高清
+http://123.131.232.48:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视高清" group-title="123.131.232.48:9901",辽宁卫视高清
+http://123.131.232.48:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
