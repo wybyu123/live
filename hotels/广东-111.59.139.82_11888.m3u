@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="广西综艺高清" group-title="111.59.139.82:11888",广西综艺高清
+http://111.59.139.82:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道16" group-title="111.59.139.82:11888",测试频道16
+http://111.59.139.82:11888/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="南方卫视" group-title="111.59.139.82:11888",南方卫视
+http://192.168.100.1/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="测试频道09" group-title="111.59.139.82:11888",测试频道09
+http://111.59.139.82:11888/tsfile/live/1209_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="热播精选 高清" group-title="111.59.139.82:11888",热播精选 高清
+http://192.168.100.1/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="测试频道01" group-title="111.59.139.82:11888",测试频道01
+http://111.59.139.82:11888/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道02" group-title="111.59.139.82:11888",测试频道02
+http://111.59.139.82:11888/tsfile/live/1202_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道03" group-title="111.59.139.82:11888",测试频道03
+http://111.59.139.82:11888/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道04" group-title="111.59.139.82:11888",测试频道04
+http://111.59.139.82:11888/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道05" group-title="111.59.139.82:11888",测试频道05
+http://111.59.139.82:11888/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道06" group-title="111.59.139.82:11888",测试频道06
+http://111.59.139.82:11888/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道07" group-title="111.59.139.82:11888",测试频道07
+http://111.59.139.82:11888/tsfile/live/1207_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道08" group-title="111.59.139.82:11888",测试频道08
+http://111.59.139.82:11888/tsfile/live/1208_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道10" group-title="111.59.139.82:11888",测试频道10
+http://111.59.139.82:11888/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道11" group-title="111.59.139.82:11888",测试频道11
+http://111.59.139.82:11888/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道12" group-title="111.59.139.82:11888",测试频道12
+http://111.59.139.82:11888/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道13" group-title="111.59.139.82:11888",测试频道13
+http://111.59.139.82:11888/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道14" group-title="111.59.139.82:11888",测试频道14
+http://111.59.139.82:11888/tsfile/live/1214_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道15" group-title="111.59.139.82:11888",测试频道15
+http://111.59.139.82:11888/tsfile/live/1215_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="珠江频道" group-title="111.59.139.82:11888",珠江频道
+http://192.168.100.1/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="测试频道17" group-title="111.59.139.82:11888",测试频道17
+http://111.59.139.82:11888/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道18" group-title="111.59.139.82:11888",测试频道18
+http://111.59.139.82:11888/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道19" group-title="111.59.139.82:11888",测试频道19
+http://111.59.139.82:11888/tsfile/live/1219_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道20" group-title="111.59.139.82:11888",测试频道20
+http://111.59.139.82:11888/tsfile/live/1220_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道21" group-title="111.59.139.82:11888",测试频道21
+http://111.59.139.82:11888/tsfile/live/1221_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道22" group-title="111.59.139.82:11888",测试频道22
+http://111.59.139.82:11888/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道23" group-title="111.59.139.82:11888",测试频道23
+http://111.59.139.82:11888/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="测试频道24" group-title="111.59.139.82:11888",测试频道24
+http://111.59.139.82:11888/tsfile/live/1224_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑莓电影" group-title="111.59.139.82:11888",黑莓电影
+http://192.168.100.1/hls/73/index.m3u8
+#EXTINF:-1 tvg-name="高清电影" group-title="111.59.139.82:11888",高清电影
+http://111.59.139.82:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="家庭影院 高清" group-title="111.59.139.82:11888",家庭影院 高清
+http://111.59.139.82:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影 高清" group-title="111.59.139.82:11888",动作电影 高清
+http://111.59.139.82:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="4K电影 高清" group-title="111.59.139.82:11888",4K电影 高清
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="古装剧场 高清" group-title="111.59.139.82:11888",古装剧场 高清
+http://192.168.100.1/hls/82/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧 高清" group-title="111.59.139.82:11888",爱情喜剧 高清
+http://192.168.100.1/hls/77/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1-综合高清+" group-title="111.59.139.82:11888",CCTV1-综合高清+
+http://192.168.100.1/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2-财经高清" group-title="111.59.139.82:11888",CCTV2-财经高清
+http://192.168.100.1/hls/81/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3-综艺高清" group-title="111.59.139.82:11888",CCTV3-综艺高清
+http://192.168.100.1/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4-国际高清" group-title="111.59.139.82:11888",CCTV4-国际高清
+http://192.168.100.1/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5-体育高清" group-title="111.59.139.82:11888",CCTV5-体育高清
+http://192.168.100.1/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="111.59.139.82:11888",CCTV6-电影
+http://192.168.100.1/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7-国防军事高清" group-title="111.59.139.82:11888",CCTV7-国防军事高清
+http://192.168.100.1/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8-电视剧高清" group-title="111.59.139.82:11888",CCTV8-电视剧高清
+http://192.168.100.1/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9-纪录高清" group-title="111.59.139.82:11888",CCTV9-纪录高清
+http://192.168.100.1/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10-科教高清" group-title="111.59.139.82:11888",CCTV10-科教高清
+http://192.168.100.1/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-12社会与法 高清" group-title="111.59.139.82:11888",CCTV-12社会与法 高清
+http://192.168.100.1/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="111.59.139.82:11888",CCTV13-新闻
+http://192.168.100.1/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14-少儿 高清" group-title="111.59.139.82:11888",CCTV14-少儿 高清
+http://192.168.100.1/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15-音乐高清" group-title="111.59.139.82:11888",CCTV15-音乐高清
+http://192.168.100.1/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-16-奥运匹克 高清" group-title="111.59.139.82:11888",CCTV-16-奥运匹克 高清
+http://192.168.100.1/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17农业农村 高清" group-title="111.59.139.82:11888",CCTV-17农业农村 高清
+http://192.168.100.1/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事高清" group-title="111.59.139.82:11888",CCTV5+体育赛事高清
+http://192.168.100.1/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="111.59.139.82:11888",厦门卫视
+http://192.168.100.1/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="玉林新闻 高清" group-title="111.59.139.82:11888",玉林新闻 高清
+http://111.59.139.82:11888/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影 高清" group-title="111.59.139.82:11888",动作电影 高清
+http://192.168.100.1/hls/83/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧 高清" group-title="111.59.139.82:11888",精品大剧 高清
+http://192.168.100.1/hls/78/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺 高清" group-title="111.59.139.82:11888",金牌综艺 高清
+http://192.168.100.1/hls/80/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视 高清" group-title="111.59.139.82:11888",广西卫视 高清
+http://192.168.100.1/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="111.59.139.82:11888",浙江卫视高清
+http://192.168.100.1/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视高清" group-title="111.59.139.82:11888",湖南卫视高清
+http://192.168.100.1/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清" group-title="111.59.139.82:11888",广东卫视高清
+http://192.168.100.1/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视高清" group-title="111.59.139.82:11888",深圳卫视高清
+http://192.168.100.1/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视高清" group-title="111.59.139.82:11888",江苏卫视高清
+http://192.168.100.1/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视高清" group-title="111.59.139.82:11888",山东卫视高清
+http://192.168.100.1/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="111.59.139.82:11888",北京卫视高清
+http://192.168.100.1/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视高清" group-title="111.59.139.82:11888",东方卫视高清
+http://192.168.100.1/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视 高清" group-title="111.59.139.82:11888",辽宁卫视 高清
+http://192.168.100.1/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视 高清" group-title="111.59.139.82:11888",甘肃卫视 高清
+http://192.168.100.1/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视 高清" group-title="111.59.139.82:11888",江西卫视 高清
+http://192.168.100.1/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视 高清" group-title="111.59.139.82:11888",四川卫视 高清
+http://192.168.100.1/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视 高清" group-title="111.59.139.82:11888",安徽卫视 高清
+http://192.168.100.1/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视 高清" group-title="111.59.139.82:11888",贵州卫视 高清
+http://192.168.100.1/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清" group-title="111.59.139.82:11888",黑龙江卫视高清
+http://192.168.100.1/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场 高清" group-title="111.59.139.82:11888",军旅剧场 高清
+http://192.168.100.1/hls/84/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视 高清" group-title="111.59.139.82:11888",东南卫视 高清
+http://192.168.100.1/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实高清" group-title="111.59.139.82:11888",金鹰纪实高清
+http://192.168.100.1/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画高清" group-title="111.59.139.82:11888",黑莓动画高清
+http://192.168.100.1/hls/74/index.m3u8
+#EXTINF:-1 tvg-name="军事评论 高清" group-title="111.59.139.82:11888",军事评论 高清
+http://192.168.100.1/hls/85/index.m3u8
+#EXTINF:-1 tvg-name="农业致富 高清" group-title="111.59.139.82:11888",农业致富 高清
+http://192.168.100.1/hls/86/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录 高清" group-title="111.59.139.82:11888",精品纪录 高清
+http://192.168.100.1/hls/87/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康 高清" group-title="111.59.139.82:11888",怡伴健康 高清
+http://192.168.100.1/hls/89/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" group-title="111.59.139.82:11888",康巴卫视
+http://192.168.100.1/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" group-title="111.59.139.82:11888",延边卫视
+http://192.168.100.1/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿 高清" group-title="111.59.139.82:11888",卡酷少儿 高清
+http://192.168.100.1/hls/65/index.m3u8
+#EXTINF:-1 tvg-name="安多卫视" group-title="111.59.139.82:11888",安多卫视
+http://192.168.100.1/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="111.59.139.82:11888",优漫卡通
+http://192.168.100.1/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视 高清" group-title="111.59.139.82:11888",海南卫视 高清
+http://192.168.100.1/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实高清" group-title="111.59.139.82:11888",北京纪实高清
+http://192.168.100.1/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="中国教育1高清" group-title="111.59.139.82:11888",中国教育1高清
+http://192.168.100.1/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2" group-title="111.59.139.82:11888",中国教育2
+http://192.168.100.1/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4 高清" group-title="111.59.139.82:11888",中国教育4 高清
+http://192.168.100.1/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" group-title="111.59.139.82:11888",新动漫
+http://111.59.139.82:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="精品体育 高清" group-title="111.59.139.82:11888",精品体育 高清
+http://192.168.100.1/hls/90/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="111.59.139.82:11888",卡酷少儿
+http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通 高清" group-title="111.59.139.82:11888",金鹰卡通 高清
+http://192.168.100.1/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通 高清" group-title="111.59.139.82:11888",嘉佳卡通 高清
+http://192.168.100.1/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视高清" group-title="111.59.139.82:11888",云南卫视高清
+http://192.168.100.1/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视 高清" group-title="111.59.139.82:11888",重庆卫视 高清
+http://192.168.100.1/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="山东教育高清" group-title="111.59.139.82:11888",山东教育高清
+http://192.168.100.1/hls/70/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视 高清" group-title="111.59.139.82:11888",河北卫视 高清
+http://192.168.100.1/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="111.59.139.82:11888",兵团卫视
+http://192.168.100.1/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视高清" group-title="111.59.139.82:11888",宁夏卫视高清
+http://192.168.100.1/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视高清" group-title="111.59.139.82:11888",山西卫视高清
+http://192.168.100.1/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视高清" group-title="111.59.139.82:11888",陕西卫视高清
+http://192.168.100.1/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="111.59.139.82:11888",河南卫视
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="111.59.139.82:11888",湖北卫视
+http://192.168.100.1/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视 高清" group-title="111.59.139.82:11888",天津卫视 高清
+http://192.168.100.1/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视高清" group-title="111.59.139.82:11888",新疆卫视高清
+http://192.168.100.1/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="111.59.139.82:11888",西藏卫视
+http://192.168.100.1/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视高清" group-title="111.59.139.82:11888",吉林卫视高清
+http://192.168.100.1/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视高清" group-title="111.59.139.82:11888",青海卫视高清
+http://192.168.100.1/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视高清" group-title="111.59.139.82:11888",内蒙古卫视高清
+http://192.168.100.1/hls/53/index.m3u8
