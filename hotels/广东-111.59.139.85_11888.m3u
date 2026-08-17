@@ -37,7 +37,7 @@ http://111.59.139.85:11888/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.59.139.85:11888/tsfile/live/1214_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="测试频道15" group-title="111.59.139.85:11888",测试频道15
 http://111.59.139.85:11888/tsfile/live/1215_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="珠江频道" group-title="111.59.139.85:11888",珠江频道
+#EXTINF:-1 tvg-name="珠江频道.." group-title="111.59.139.85:11888",珠江频道..
 http://192.168.102.1/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="测试频道17" group-title="111.59.139.85:11888",测试频道17
 http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0

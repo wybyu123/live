@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="湖南卫视" group-title="42.242.10.56:9901",湖南卫视
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" group-title="42.242.10.56:9901",CCTV-13
+http://media.hndyjyfw.gov.cn/live/cctv-13/live.m3u8
