@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="221.193.60.14:9901",CCTV1-综合
+http://221.193.60.14:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="221.193.60.14:9901",CCTV2-财经
+http://221.193.60.14:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="221.193.60.14:9901",CCTV3-综艺
+http://221.193.60.14:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="221.193.60.14:9901",CCTV4-国际
+http://221.193.60.14:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="221.193.60.14:9901",CCTV5-体育
+http://221.193.60.14:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="221.193.60.14:9901",CCTV6-电影
+http://221.193.60.14:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7-军农" group-title="221.193.60.14:9901",CCTV7-军农
+http://221.193.60.14:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="221.193.60.14:9901",CCTV9-纪录
+http://221.193.60.14:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10-科教" group-title="221.193.60.14:9901",CCTV10-科教
+http://221.193.60.14:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11-戏曲" group-title="221.193.60.14:9901",CCTV11-戏曲
+http://221.193.60.14:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="221.193.60.14:9901",CCTV12-社会与法
+http://221.193.60.14:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="221.193.60.14:9901",CCTV13-新闻
+http://221.193.60.14:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="221.193.60.14:9901",CCTV14-少儿
+http://221.193.60.14:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="221.193.60.14:9901",CCTV15-音乐
+http://221.193.60.14:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" group-title="221.193.60.14:9901",CCTV5+体育赛事
+http://221.193.60.14:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" group-title="221.193.60.14:9901",CCTV17
+http://221.193.60.14:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" group-title="221.193.60.14:9901",东方卫视
+http://221.193.60.14:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="221.193.60.14:9901",内蒙古卫视
+http://221.193.60.14:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="221.193.60.14:9901",宁夏卫视
+http://221.193.60.14:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="221.193.60.14:9901",广西卫视
+http://221.193.60.14:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="221.193.60.14:9901",河北卫视
+http://221.193.60.14:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="221.193.60.14:9901",山西卫视
+http://221.193.60.14:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="221.193.60.14:9901",辽宁卫视
+http://221.193.60.14:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="221.193.60.14:9901",北京卫视
+http://221.193.60.14:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="221.193.60.14:9901",四川卫视
+http://221.193.60.14:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="221.193.60.14:9901",浙江卫视
+http://221.193.60.14:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" group-title="221.193.60.14:9901",广东卫视
+http://221.193.60.14:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="221.193.60.14:9901",江苏卫视
+http://221.193.60.14:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
