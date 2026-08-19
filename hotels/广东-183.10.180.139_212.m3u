@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="广东卫视" group-title="183.10.180.139:212",广东卫视
+http://183.10.180.139:212/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="汕头综合" group-title="183.10.180.139:212",汕头综合
+http://183.10.180.139:212/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="汕头经济" group-title="183.10.180.139:212",汕头经济
+http://183.10.180.139:212/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="揭阳综合" group-title="183.10.180.139:212",揭阳综合
+http://183.10.180.139:212/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="揭阳公共" group-title="183.10.180.139:212",揭阳公共
+http://183.10.180.139:212/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-1综合" group-title="183.10.180.139:212",CCTV-1综合
+http://183.10.180.139:212/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-2财经" group-title="183.10.180.139:212",CCTV-2财经
+http://183.10.180.139:212/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-3综艺" group-title="183.10.180.139:212",CCTV-3综艺
+http://183.10.180.139:212/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-4中文国际" group-title="183.10.180.139:212",CCTV-4中文国际
+http://183.10.180.139:212/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-5体育" group-title="183.10.180.139:212",CCTV-5体育
+http://183.10.180.139:212/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-6电影" group-title="183.10.180.139:212",CCTV-6电影
+http://183.10.180.139:212/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-7国防军事" group-title="183.10.180.139:212",CCTV-7国防军事
+http://183.10.180.139:212/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-8电视剧" group-title="183.10.180.139:212",CCTV-8电视剧
+http://183.10.180.139:212/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-9纪录" group-title="183.10.180.139:212",CCTV-9纪录
+http://183.10.180.139:212/tsfile/live/1124_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-10科教" group-title="183.10.180.139:212",CCTV-10科教
+http://183.10.180.139:212/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-11戏曲" group-title="183.10.180.139:212",CCTV-11戏曲
+http://183.10.180.139:212/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-12社会与法" group-title="183.10.180.139:212",CCTV-12社会与法
+http://183.10.180.139:212/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-13新闻" group-title="183.10.180.139:212",CCTV-13新闻
+http://183.10.180.139:212/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-14少儿" group-title="183.10.180.139:212",CCTV-14少儿
+http://183.10.180.139:212/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-15音乐" group-title="183.10.180.139:212",CCTV-15音乐
+http://183.10.180.139:212/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-16奥林匹克" group-title="183.10.180.139:212",CCTV-16奥林匹克
+http://183.10.180.139:212/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-17农业农村" group-title="183.10.180.139:212",CCTV-17农业农村
+http://183.10.180.139:212/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="183.10.180.139:212",黑龙江卫视
+http://183.10.180.139:212/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="山东卫视高清" group-title="183.10.180.139:212",山东卫视高清
+http://183.10.180.139:212/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="河北卫视" group-title="183.10.180.139:212",河北卫视
+http://183.10.180.139:212/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="河南卫视" group-title="183.10.180.139:212",河南卫视
+http://183.10.180.139:212/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="山东教育" group-title="183.10.180.139:212",山东教育
+http://183.10.180.139:212/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="湖北卫视" group-title="183.10.180.139:212",湖北卫视
+http://183.10.180.139:212/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="吉林卫视" group-title="183.10.180.139:212",吉林卫视
+http://183.10.180.139:212/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="山西卫视" group-title="183.10.180.139:212",山西卫视
+http://183.10.180.139:212/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="江西卫视" group-title="183.10.180.139:212",江西卫视
+http://183.10.180.139:212/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="贵州卫视" group-title="183.10.180.139:212",贵州卫视
+http://183.10.180.139:212/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="183.10.180.139:212",宁夏卫视
+http://183.10.180.139:212/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="内蒙古" group-title="183.10.180.139:212",内蒙古
+http://183.10.180.139:212/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="海南卫视" group-title="183.10.180.139:212",海南卫视
+http://183.10.180.139:212/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广西卫视" group-title="183.10.180.139:212",广西卫视
+http://183.10.180.139:212/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="四川卫视" group-title="183.10.180.139:212",四川卫视
+http://183.10.180.139:212/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="东南卫视" group-title="183.10.180.139:212",东南卫视
+http://183.10.180.139:212/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东珠江" group-title="183.10.180.139:212",广东珠江
+http://183.10.180.139:212/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东新闻" group-title="183.10.180.139:212",广东新闻
+http://183.10.180.139:212/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广州影视" group-title="183.10.180.139:212",广州影视
+http://183.10.180.139:212/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广州综合" group-title="183.10.180.139:212",广州综合
+http://183.10.180.139:212/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" group-title="183.10.180.139:212",佛山影视
+http://183.10.180.139:212/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" group-title="183.10.180.139:212",佛山顺德
+http://183.10.180.139:212/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="河源综合" group-title="183.10.180.139:212",河源综合
+http://183.10.180.139:212/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="梅州综合" group-title="183.10.180.139:212",梅州综合
+http://183.10.180.139:212/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="深圳卫视" group-title="183.10.180.139:212",深圳卫视
+http://183.10.180.139:212/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="深圳都市" group-title="183.10.180.139:212",深圳都市
+http://183.10.180.139:212/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="深圳龙岗频道" group-title="183.10.180.139:212",深圳龙岗频道
+http://183.10.180.139:212/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="深圳电视剧" group-title="183.10.180.139:212",深圳电视剧
+http://183.10.180.139:212/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="183.10.180.139:212",CCTV世界地理
+http://183.10.180.139:212/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="第一剧场" group-title="183.10.180.139:212",第一剧场
+http://183.10.180.139:212/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="183.10.180.139:212",怀旧剧场
+http://183.10.180.139:212/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="风云剧场" group-title="183.10.180.139:212",风云剧场
+http://183.10.180.139:212/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="天气预报" group-title="183.10.180.139:212",天气预报
+http://183.10.180.139:212/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1

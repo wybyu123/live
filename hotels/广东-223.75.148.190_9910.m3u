@@ -3,18 +3,10 @@
 http://223.75.148.190:9910/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2-财经" group-title="223.75.148.190:9910",CCTV2-财经
 http://223.75.148.190:9910/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="223.75.148.190:9910",CCTV3-综艺
-http://223.75.148.190:9910/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV4-国际" group-title="223.75.148.190:9910",CCTV4-国际
-http://223.75.148.190:9910/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV5-体育" group-title="223.75.148.190:9910",CCTV5-体育
 http://223.75.148.190:9910/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6-电影" group-title="223.75.148.190:9910",CCTV6-电影
 http://223.75.148.190:9910/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV7-军农" group-title="223.75.148.190:9910",CCTV7-军农
-http://223.75.148.190:9910/tsfile/live/0007_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV8-电视剧" group-title="223.75.148.190:9910",CCTV8-电视剧
-http://223.75.148.190:9910/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV9-纪录" group-title="223.75.148.190:9910",CCTV9-纪录
 http://223.75.148.190:9910/tsfile/live/0009_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV10-科教" group-title="223.75.148.190:9910",CCTV10-科教
