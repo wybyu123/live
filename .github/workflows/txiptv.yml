@@ -3,7 +3,7 @@ name: 运行 C段IP扫描
 on:
   schedule:
     # 每天北京时间中午 12:00 自动运行一次 (UTC 04:00)
-    - cron: '0 */12 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch: # 允许在 GitHub 页面手动点击运行
 
 jobs:
