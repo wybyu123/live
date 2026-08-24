@@ -43,5 +43,3 @@ http://120.70.60.179:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.70.60.179:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="120.70.60.179:9901",CGTN俄语
 http://120.70.60.179:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广告测试" group-title="120.70.60.179:9901",广告测试
-http://120.70.60.179:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
