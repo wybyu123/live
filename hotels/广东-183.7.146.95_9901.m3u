@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1综合" group-title="183.7.146.95:9901",CCTV-1综合
+http://183.7.146.95:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-2财经" group-title="183.7.146.95:9901",CCTV-2财经
+http://183.7.146.95:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-3综艺" group-title="183.7.146.95:9901",CCTV-3综艺
+http://183.7.146.95:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-4中文国际" group-title="183.7.146.95:9901",CCTV-4中文国际
+http://183.7.146.95:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-5体育" group-title="183.7.146.95:9901",CCTV-5体育
+http://183.7.146.95:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-6电影" group-title="183.7.146.95:9901",CCTV-6电影
+http://183.7.146.95:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7国防军事" group-title="183.7.146.95:9901",CCTV-7国防军事
+http://183.7.146.95:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-8电视剧" group-title="183.7.146.95:9901",CCTV-8电视剧
+http://183.7.146.95:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
