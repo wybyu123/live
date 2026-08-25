@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1" group-title="110.248.147.108:9901",CCTV-1
+http://dxisp.yszy914.cn:50317/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" group-title="110.248.147.108:9901",CCTV-2
+http://dxisp.yszy914.cn:50317/tsfile/live/faacts/1001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" group-title="110.248.147.108:9901",CCTV-3
+http://dxisp.yszy914.cn:50317/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-4" group-title="110.248.147.108:9901",CCTV-4
+http://dxisp.yszy914.cn:50317/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" group-title="110.248.147.108:9901",CCTV-5
+http://dxisp.yszy914.cn:50317/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" group-title="110.248.147.108:9901",CCTV-6
+http://dxisp.yszy914.cn:50317/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" group-title="110.248.147.108:9901",CCTV-7
+http://dxisp.yszy914.cn:50317/tsfile/live/1085_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" group-title="110.248.147.108:9901",CCTV-8
+http://dxisp.yszy914.cn:50317/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" group-title="110.248.147.108:9901",CCTV-9
+http://dxisp.yszy914.cn:50317/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" group-title="110.248.147.108:9901",CCTV-10
+http://dxisp.yszy914.cn:50317/tsfile/live/faacts/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-11" group-title="110.248.147.108:9901",CCTV-11
+http://dxisp.yszy914.cn:50317/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" group-title="110.248.147.108:9901",CCTV-12
+http://dxisp.yszy914.cn:50317/tsfile/live/faacts/0012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" group-title="110.248.147.108:9901",CCTV-13
+http://dxisp.yszy914.cn:50317/tsfile/live/1086_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-14" group-title="110.248.147.108:9901",CCTV-14
+http://dxisp.yszy914.cn:50317/tsfile/live/faacts/1087_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" group-title="110.248.147.108:9901",CCTV-15
+http://dxisp.yszy914.cn:50317/tsfile/live/faacts/0015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-17高清" group-title="110.248.147.108:9901",CCTV-17高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="CCTN" group-title="110.248.147.108:9901",CCTN
+http://dxisp.yszy914.cn:50317/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="CETV-4" group-title="110.248.147.108:9901",CETV-4
+http://dxisp.yszy914.cn:50317/tsfile/live/1082_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="110.248.147.108:9901",CCTV-5+
+http://dxisp.yszy914.cn:50317/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="河北卫视高清" group-title="110.248.147.108:9901",河北卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="河北经济" group-title="110.248.147.108:9901",河北经济
+http://dxisp.yszy914.cn:50317/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="河北都市" group-title="110.248.147.108:9901",河北都市
+http://dxisp.yszy914.cn:50317/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="河北影视" group-title="110.248.147.108:9901",河北影视
+http://dxisp.yszy914.cn:50317/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="河北少儿" group-title="110.248.147.108:9901",河北少儿
+http://dxisp.yszy914.cn:50317/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="河北公共" group-title="110.248.147.108:9901",河北公共
+http://dxisp.yszy914.cn:50317/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="河北农民" group-title="110.248.147.108:9901",河北农民
+http://dxisp.yszy914.cn:50317/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="邯郸新闻" group-title="110.248.147.108:9901",邯郸新闻
+http://dxisp.yszy914.cn:50317/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="邯郸公共" group-title="110.248.147.108:9901",邯郸公共
+http://dxisp.yszy914.cn:50317/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="邯郸科教" group-title="110.248.147.108:9901",邯郸科教
+http://dxisp.yszy914.cn:50317/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视高清" group-title="110.248.147.108:9901",湖南卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清" group-title="110.248.147.108:9901",浙江卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视高清" group-title="110.248.147.108:9901",江苏卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="安徽卫视高清" group-title="110.248.147.108:9901",安徽卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清" group-title="110.248.147.108:9901",北京卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-name="天津卫视高清" group-title="110.248.147.108:9901",天津卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视高清" group-title="110.248.147.108:9901",辽宁卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1035_1.m3u8
+#EXTINF:-1 tvg-name="山东卫视高清" group-title="110.248.147.108:9901",山东卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1036_1.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="110.248.147.108:9901",云南卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-name="河南卫视高清" group-title="110.248.147.108:9901",河南卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="河南梨园频道" group-title="110.248.147.108:9901",河南梨园频道
+http://dxisp.yszy914.cn:50317/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清" group-title="110.248.147.108:9901",黑龙江卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1039_1.m3u8
+#EXTINF:-1 tvg-name="四川卫视高清" group-title="110.248.147.108:9901",四川卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-name="江西卫视高清" group-title="110.248.147.108:9901",江西卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1041_1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视高清" group-title="110.248.147.108:9901",贵州卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视高清" group-title="110.248.147.108:9901",深圳卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视高清" group-title="110.248.147.108:9901",湖北卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-name="东方卫视高清" group-title="110.248.147.108:9901",东方卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1045_1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视高清" group-title="110.248.147.108:9901",重庆卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1046_1.m3u8
+#EXTINF:-1 tvg-name="东南卫视高清" group-title="110.248.147.108:9901",东南卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1047_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清" group-title="110.248.147.108:9901",广东卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1048_1.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="110.248.147.108:9901",广西卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视高清" group-title="110.248.147.108:9901",吉林卫视高清
+http://dxisp.yszy914.cn:50317/tsfile/live/1049_1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="110.248.147.108:9901",陕西卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/1088_1.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="110.248.147.108:9901",山西卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/1089_1.m3u8
+#EXTINF:-1 tvg-name="内蒙卫视" group-title="110.248.147.108:9901",内蒙卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/1050_1.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="110.248.147.108:9901",青海卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0140_1.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="110.248.147.108:9901",宁夏卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-name="晴彩河北" group-title="110.248.147.108:9901",晴彩河北
+http://dxisp.yszy914.cn:50317/tsfile/live/0114_1.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="110.248.147.108:9901",西藏卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="110.248.147.108:9901",新疆卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0110_1.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="110.248.147.108:9901",甘肃卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-name="BTV卡通少儿" group-title="110.248.147.108:9901",BTV卡通少儿
+http://dxisp.yszy914.cn:50317/tsfile/live/1051_1.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="110.248.147.108:9901",湖南金鹰卡通
+http://dxisp.yszy914.cn:50317/tsfile/live/1052_1.m3u8
+#EXTINF:-1 tvg-name="电视指南" group-title="110.248.147.108:9901",电视指南
+http://dxisp.yszy914.cn:50317/tsfile/live/1060_1.m3u8
+#EXTINF:-1 tvg-name="第一剧场" group-title="110.248.147.108:9901",第一剧场
+http://dxisp.yszy914.cn:50317/tsfile/live/1061_1.m3u8
+#EXTINF:-1 tvg-name="CETV-2" group-title="110.248.147.108:9901",CETV-2
+http://dxisp.yszy914.cn:50317/tsfile/live/1062_1.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="110.248.147.108:9901",怀旧剧场
+http://dxisp.yszy914.cn:50317/tsfile/live/1063_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" group-title="110.248.147.108:9901",风云音乐
+http://dxisp.yszy914.cn:50317/tsfile/live/1064_1.m3u8
+#EXTINF:-1 tvg-name="风云足球" group-title="110.248.147.108:9901",风云足球
+http://dxisp.yszy914.cn:50317/tsfile/live/1065_1.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" group-title="110.248.147.108:9901",高尔夫网球
+http://dxisp.yszy914.cn:50317/tsfile/live/1066_1.m3u8
+#EXTINF:-1 tvg-name="武术世界" group-title="110.248.147.108:9901",武术世界
+http://dxisp.yszy914.cn:50317/tsfile/live/1067_1.m3u8
+#EXTINF:-1 tvg-name="国防军事" group-title="110.248.147.108:9901",国防军事
+http://dxisp.yszy914.cn:50317/tsfile/live/1068_1.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="110.248.147.108:9901",世界地理
+http://dxisp.yszy914.cn:50317/tsfile/live/1069_1.m3u8
+#EXTINF:-1 tvg-name="CCTV老故事" group-title="110.248.147.108:9901",CCTV老故事
+http://dxisp.yszy914.cn:50317/tsfile/live/1070_1.m3u8
+#EXTINF:-1 tvg-name="环球奇观" group-title="110.248.147.108:9901",环球奇观
+http://dxisp.yszy914.cn:50317/tsfile/live/1071_1.m3u8
+#EXTINF:-1 tvg-name="文物宝库" group-title="110.248.147.108:9901",文物宝库
+http://dxisp.yszy914.cn:50317/tsfile/live/1072_1.m3u8
+#EXTINF:-1 tvg-name="国学频道" group-title="110.248.147.108:9901",国学频道
+http://dxisp.yszy914.cn:50317/tsfile/live/1073_1.m3u8
+#EXTINF:-1 tvg-name="山东教育" group-title="110.248.147.108:9901",山东教育
+http://dxisp.yszy914.cn:50317/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="110.248.147.108:9901",优漫卡通
+http://dxisp.yszy914.cn:50317/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="河北杂技" group-title="110.248.147.108:9901",河北杂技
+http://dxisp.yszy914.cn:50317/tsfile/live/1076_1.m3u8
+#EXTINF:-1 tvg-name="中国交通" group-title="110.248.147.108:9901",中国交通
+http://dxisp.yszy914.cn:50317/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="110.248.147.108:9901",海南卫视
+http://dxisp.yszy914.cn:50317/tsfile/live/1080_1.m3u8
+#EXTINF:-1 tvg-name="早期教育" group-title="110.248.147.108:9901",早期教育
+http://dxisp.yszy914.cn:50317/tsfile/live/1081_1.m3u8
