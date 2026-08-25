@@ -121,32 +121,6 @@ http://39.150.102.131:19901/tsfile/live/121_1.m3u8?key=txiptv&playlive=1&authid=
 http://39.150.102.131:19901/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南新农村频道" group-title="39.150.102.131:19901",河南新农村频道
 http://39.150.102.131:19901/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南武术世界" group-title="39.150.102.131:19901",河南武术世界
-http://39.150.102.131:19901/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="地理" group-title="39.150.102.131:19901",地理
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷动画" group-title="39.150.102.131:19901",卡酷动画
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="39.150.102.131:19901",金鹰卡通
-http://39.150.102.131:19901/tsfile/live/18_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="热播剧场" group-title="39.150.102.131:19901",热播剧场
-http://39.150.102.131:19901/tsfile/live/18_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="经典电影" group-title="39.150.102.131:19901",经典电影
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="兵团卫视" group-title="39.150.102.131:19901",兵团卫视
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中国教育-1" group-title="39.150.102.131:19901",中国教育-1
-http://39.150.102.131:19901/tsfile/live/18_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中国教育-2" group-title="39.150.102.131:19901",中国教育-2
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中国教育-4" group-title="39.150.102.131:19901",中国教育-4
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东教育" group-title="39.150.102.131:19901",山东教育
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="IPTV3+" group-title="39.150.102.131:19901",IPTV3+
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="IPTV5+" group-title="39.150.102.131:19901",IPTV5+
-http://39.150.102.131:19901/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="IPTV6+" group-title="39.150.102.131:19901",IPTV6+
 http://39.150.102.131:19901/tsfile/live/2_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="收视指南" group-title="39.150.102.131:19901",收视指南
