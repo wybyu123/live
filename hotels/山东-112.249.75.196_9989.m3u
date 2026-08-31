@@ -27,6 +27,8 @@ http://112.249.75.196:9989/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=
 http://112.249.75.196:9989/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14-少儿" group-title="112.249.75.196:9989",CCTV14-少儿
 http://112.249.75.196:9989/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="112.249.75.196:9989",CCTV15-音乐
+http://112.249.75.196:9989/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" group-title="112.249.75.196:9989",CCTV5+体育赛事
 http://112.249.75.196:9989/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北卫视" group-title="112.249.75.196:9989",湖北卫视
@@ -71,8 +73,6 @@ http://112.249.75.196:9989/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 http://112.249.75.196:9989/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="经典电影" group-title="112.249.75.196:9989",经典电影
 http://112.249.75.196:9989/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="海看剧场" group-title="112.249.75.196:9989",海看剧场
-http://112.249.75.196:9989/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="齐鲁频道" group-title="112.249.75.196:9989",齐鲁频道
 http://112.249.75.196:9989/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="戏曲频道" group-title="112.249.75.196:9989",戏曲频道
