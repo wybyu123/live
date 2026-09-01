@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1" group-title="116.117.122.114:18889",CCTV-1
+http://116.117.122.114:18889/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-1" group-title="116.117.122.114:18889",CCTV-1
+http://116.117.122.114:18889/tsfile/live/1_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-2" group-title="116.117.122.114:18889",CCTV-2
+http://116.117.122.114:18889/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-2" group-title="116.117.122.114:18889",CCTV-2
+http://116.117.122.114:18889/tsfile/live/2_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-3" group-title="116.117.122.114:18889",CCTV-3
+http://116.117.122.114:18889/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-3" group-title="116.117.122.114:18889",CCTV-3
+http://116.117.122.114:18889/tsfile/live/3_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-4" group-title="116.117.122.114:18889",CCTV-4
+http://116.117.122.114:18889/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-4" group-title="116.117.122.114:18889",CCTV-4
+http://116.117.122.114:18889/tsfile/live/4_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-5" group-title="116.117.122.114:18889",CCTV-5
+http://116.117.122.114:18889/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-5" group-title="116.117.122.114:18889",CCTV-5
+http://116.117.122.114:18889/tsfile/live/5_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-6" group-title="116.117.122.114:18889",CCTV-6
+http://116.117.122.114:18889/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" group-title="116.117.122.114:18889",CCTV-7
+http://116.117.122.114:18889/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" group-title="116.117.122.114:18889",CCTV-7
+http://116.117.122.114:18889/tsfile/live/7_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-8" group-title="116.117.122.114:18889",CCTV-8
+http://116.117.122.114:18889/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-8" group-title="116.117.122.114:18889",CCTV-8
+http://116.117.122.114:18889/tsfile/live/8_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" group-title="116.117.122.114:18889",CCTV-9
+http://116.117.122.114:18889/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" group-title="116.117.122.114:18889",CCTV-9
+http://116.117.122.114:18889/tsfile/live/8_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-10" group-title="116.117.122.114:18889",CCTV-10
+http://116.117.122.114:18889/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-10" group-title="116.117.122.114:18889",CCTV-10
+http://116.117.122.114:18889/tsfile/live/10_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-11" group-title="116.117.122.114:18889",CCTV-11
+http://116.117.122.114:18889/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-11" group-title="116.117.122.114:18889",CCTV-11
+http://116.117.122.114:18889/tsfile/live/11_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-12" group-title="116.117.122.114:18889",CCTV-12
+http://116.117.122.114:18889/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-12" group-title="116.117.122.114:18889",CCTV-12
+http://116.117.122.114:18889/tsfile/live/12_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-13" group-title="116.117.122.114:18889",CCTV-13
+http://116.117.122.114:18889/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-13" group-title="116.117.122.114:18889",CCTV-13
+http://116.117.122.114:18889/tsfile/live/13_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-14" group-title="116.117.122.114:18889",CCTV-14
+http://116.117.122.114:18889/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-14" group-title="116.117.122.114:18889",CCTV-14
+http://116.117.122.114:18889/tsfile/live/14_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="116.117.122.114:18889",CCTV15-音乐
+http://116.117.122.114:18889/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="116.117.122.114:18889",CCTV15-音乐
+http://116.117.122.114:18889/tsfile/live/14_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古" group-title="116.117.122.114:18889",内蒙古
+http://116.117.122.114:18889/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古" group-title="116.117.122.114:18889",内蒙古
+http://116.117.122.114:18889/tsfile/live/18_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古经济" group-title="116.117.122.114:18889",内蒙古经济
+http://116.117.122.114:18889/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古新闻" group-title="116.117.122.114:18889",内蒙古新闻
+http://116.117.122.114:18889/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="116.117.122.114:18889",浙江卫视
+http://116.117.122.114:18889/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" group-title="116.117.122.114:18889",浙江卫视
+http://116.117.122.114:18889/tsfile/live/124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="116.117.122.114:18889",江苏卫视
+http://116.117.122.114:18889/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="116.117.122.114:18889",江苏卫视
+http://116.117.122.114:18889/tsfile/live/127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="116.117.122.114:18889",湖北卫视
+http://116.117.122.114:18889/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="116.117.122.114:18889",湖北卫视
+http://116.117.122.114:18889/tsfile/live/132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" group-title="116.117.122.114:18889",广东卫视
+http://116.117.122.114:18889/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" group-title="116.117.122.114:18889",广东卫视
+http://116.117.122.114:18889/tsfile/live/125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="116.117.122.114:18889",山西卫视
+http://116.117.122.114:18889/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="116.117.122.114:18889",山西卫视
+http://116.117.122.114:18889/tsfile/live/118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" group-title="116.117.122.114:18889",贵州卫视
+http://116.117.122.114:18889/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" group-title="116.117.122.114:18889",贵州卫视
+http://116.117.122.114:18889/tsfile/live/120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海卫视" group-title="116.117.122.114:18889",上海卫视
+http://116.117.122.114:18889/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海卫视" group-title="116.117.122.114:18889",上海卫视
+http://116.117.122.114:18889/tsfile/live/107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="116.117.122.114:18889",辽宁卫视
+http://116.117.122.114:18889/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="116.117.122.114:18889",辽宁卫视
+http://116.117.122.114:18889/tsfile/live/121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" group-title="116.117.122.114:18889",山东卫视
+http://116.117.122.114:18889/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" group-title="116.117.122.114:18889",山东卫视
+http://116.117.122.114:18889/tsfile/live/131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" group-title="116.117.122.114:18889",吉林卫视
+http://116.117.122.114:18889/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" group-title="116.117.122.114:18889",吉林卫视
+http://116.117.122.114:18889/tsfile/live/116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="116.117.122.114:18889",黑龙江卫视
+http://116.117.122.114:18889/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="116.117.122.114:18889",黑龙江卫视
+http://116.117.122.114:18889/tsfile/live/143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="116.117.122.114:18889",广西卫视
+http://116.117.122.114:18889/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" group-title="116.117.122.114:18889",广西卫视
+http://116.117.122.114:18889/tsfile/live/113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵团卫视" group-title="116.117.122.114:18889",兵团卫视
+http://116.117.122.114:18889/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵团卫视" group-title="116.117.122.114:18889",兵团卫视
+http://116.117.122.114:18889/tsfile/live/115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" group-title="116.117.122.114:18889",安徽卫视
+http://116.117.122.114:18889/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" group-title="116.117.122.114:18889",安徽卫视
+http://116.117.122.114:18889/tsfile/live/130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="116.117.122.114:18889",北京卫视
+http://116.117.122.114:18889/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" group-title="116.117.122.114:18889",北京卫视
+http://116.117.122.114:18889/tsfile/live/122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" group-title="116.117.122.114:18889",东南卫视
+http://116.117.122.114:18889/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" group-title="116.117.122.114:18889",东南卫视
+http://116.117.122.114:18889/tsfile/live/137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="116.117.122.114:18889",河北卫视
+http://116.117.122.114:18889/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="116.117.122.114:18889",河北卫视
+http://116.117.122.114:18889/tsfile/live/117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" group-title="116.117.122.114:18889",天津卫视
+http://116.117.122.114:18889/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" group-title="116.117.122.114:18889",天津卫视
+http://116.117.122.114:18889/tsfile/live/135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" group-title="116.117.122.114:18889",湖南卫视
+http://116.117.122.114:18889/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" group-title="116.117.122.114:18889",湖南卫视
+http://116.117.122.114:18889/tsfile/live/128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="116.117.122.114:18889",四川卫视
+http://116.117.122.114:18889/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="116.117.122.114:18889",四川卫视
+http://116.117.122.114:18889/tsfile/live/123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="KAKU少儿" group-title="116.117.122.114:18889",KAKU少儿
+http://116.117.122.114:18889/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" group-title="116.117.122.114:18889",深圳卫视
+http://116.117.122.114:18889/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" group-title="116.117.122.114:18889",深圳卫视
+http://116.117.122.114:18889/tsfile/live/126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="116.117.122.114:18889",宁夏卫视
+http://116.117.122.114:18889/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="116.117.122.114:18889",宁夏卫视
+http://116.117.122.114:18889/tsfile/live/112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" group-title="116.117.122.114:18889",云南卫视
+http://116.117.122.114:18889/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" group-title="116.117.122.114:18889",云南卫视
+http://116.117.122.114:18889/tsfile/live/119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" group-title="116.117.122.114:18889",重庆卫视
+http://116.117.122.114:18889/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" group-title="116.117.122.114:18889",重庆卫视
+http://116.117.122.114:18889/tsfile/live/142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" group-title="116.117.122.114:18889",河南卫视
+http://116.117.122.114:18889/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" group-title="116.117.122.114:18889",河南卫视
+http://116.117.122.114:18889/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" group-title="116.117.122.114:18889",江西卫视
+http://116.117.122.114:18889/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" group-title="116.117.122.114:18889",江西卫视
+http://116.117.122.114:18889/tsfile/live/138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" group-title="116.117.122.114:18889",陕西卫视
+http://116.117.122.114:18889/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="陕西卫视" group-title="116.117.122.114:18889",陕西卫视
+http://116.117.122.114:18889/tsfile/live/136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="古装剧场" group-title="116.117.122.114:18889",古装剧场
+http://116.117.122.114:18889/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="武侠剧场" group-title="116.117.122.114:18889",武侠剧场
+http://116.117.122.114:18889/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" group-title="116.117.122.114:18889",新疆卫视
+http://116.117.122.114:18889/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" group-title="116.117.122.114:18889",新疆卫视
+http://116.117.122.114:18889/tsfile/live/110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="116.117.122.114:18889",金鹰卡通
+http://116.117.122.114:18889/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="赤峰新闻" group-title="116.117.122.114:18889",赤峰新闻
+http://116.117.122.114:18889/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏高清" group-title="116.117.122.114:18889",江苏高清
+http://116.117.122.114:18889/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏高清" group-title="116.117.122.114:18889",江苏高清
+http://116.117.122.114:18889/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
