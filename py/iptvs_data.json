@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 1384
+        "totalStoredCount": 1378
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-09-11 08-01-20",
+            "resultCount": 769,
+            "savedCount": 769
+        },
         {
             "updateTime": "2026-09-10 20-01-38",
             "resultCount": 770,
@@ -70,11 +75,6 @@
             "updateTime": "2026-09-04 08-01-09",
             "resultCount": 1086,
             "savedCount": 1086
-        },
-        {
-            "updateTime": "2026-09-03 20-01-15",
-            "resultCount": 767,
-            "savedCount": 767
         }
     ],
     "results": [
@@ -179,6 +179,18 @@
             "matchType": "txiptv"
         },
         {
+            "host": "47.104.102.192:80",
+            "ip": [
+                "47.104.102.192"
+            ],
+            "port": 80,
+            "link": "http://47.104.102.192:80",
+            "source": "1",
+            "org": "Alibaba Cloud",
+            "updateTime": "2026-09-11 06-44-00",
+            "matchType": "zhgxtv"
+        },
+        {
             "host": "119.251.162.146:8880",
             "ip": "119.251.162.146",
             "port": 8880,
@@ -250,28 +262,6 @@
             "source": "1",
             "org": "Alibaba Cloud",
             "updateTime": "2026-09-07 18-52-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "47.104.102.192:80",
-            "ip": [
-                "47.104.102.192"
-            ],
-            "port": 80,
-            "link": "http://47.104.102.192:80",
-            "source": "1",
-            "org": "Alibaba Cloud",
-            "updateTime": "2026-09-07 14-54-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "106.46.113.233:8888",
-            "ip": "106.46.113.233",
-            "port": 8888,
-            "link": "http://106.46.113.233:8888",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-07 13-48-00",
             "matchType": "zhgxtv"
         },
         {
@@ -7785,6 +7775,16 @@
             "matchType": "hsmdtv"
         },
         {
+            "host": "106.46.113.233:8888",
+            "ip": "106.46.113.233",
+            "port": 8888,
+            "link": "http://106.46.113.233:8888",
+            "source": "1",
+            "org": "China Telecom",
+            "updateTime": "2026-09-07 13-48-00",
+            "matchType": "zhgxtv"
+        },
+        {
             "host": "113.64.147.74:8081",
             "ip": "113.64.147.74",
             "port": 8081,
@@ -11273,66 +11273,6 @@
             "org": "Chinanet",
             "updateTime": "",
             "matchType": "txiptv"
-        },
-        {
-            "host": "123.183.174.110:8808",
-            "ip": "123.183.174.110",
-            "port": 8808,
-            "link": "http://123.183.174.110:8808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-31 19-11-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.183.174.113:8808",
-            "ip": "123.183.174.113",
-            "port": 8808,
-            "link": "http://123.183.174.113:8808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-31 19-11-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.183.174.114:8808",
-            "ip": "123.183.174.114",
-            "port": 8808,
-            "link": "http://123.183.174.114:8808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-31 19-11-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.183.174.111:8808",
-            "ip": "123.183.174.111",
-            "port": 8808,
-            "link": "http://123.183.174.111:8808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-31 19-11-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.183.174.115:8808",
-            "ip": "123.183.174.115",
-            "port": 8808,
-            "link": "http://123.183.174.115:8808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-31 19-11-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "110.241.188.169:808",
-            "ip": "110.241.188.169",
-            "port": 808,
-            "link": "http://110.241.188.169:808",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-08-30 03-08-00",
-            "matchType": "zhgxtv"
         },
         {
             "host": "218.17.33.178:53290",
