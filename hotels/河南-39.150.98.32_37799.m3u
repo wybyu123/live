@@ -243,10 +243,6 @@ http://39.150.98.32:37799/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.150.98.32:37799/tsfile/live/0139_14.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="优漫卡通" group-title="39.150.98.32:37799",优漫卡通
 http://39.150.98.32:37799/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="炫动卡通" group-title="39.150.98.32:37799",炫动卡通
-http://39.150.98.32:37799/tsfile/live/0139_15.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="炫动卡通" group-title="39.150.98.32:37799",炫动卡通
-http://39.150.98.32:37799/tsfile/live/139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷动画" group-title="39.150.98.32:37799",卡酷动画
 http://39.150.98.32:37799/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷动画" group-title="39.150.98.32:37799",卡酷动画
@@ -255,10 +251,6 @@ http://39.150.98.32:37799/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.150.98.32:37799/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="39.150.98.32:37799",金鹰卡通
 http://39.150.98.32:37799/tsfile/live/18_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="移动戏曲" group-title="39.150.98.32:37799",移动戏曲
-http://39.150.98.32:37799/tsfile/live/0017_6.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="移动戏曲" group-title="39.150.98.32:37799",移动戏曲
-http://39.150.98.32:37799/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="文物频道" group-title="39.150.98.32:37799",文物频道
 http://39.150.98.32:37799/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="文物频道" group-title="39.150.98.32:37799",文物频道
@@ -267,10 +259,6 @@ http://39.150.98.32:37799/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 http://39.150.98.32:37799/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="武术世界" group-title="39.150.98.32:37799",武术世界
 http://39.150.98.32:37799/tsfile/live/17_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="IPTV6+" group-title="39.150.98.32:37799",IPTV6+
-http://39.150.98.32:37799/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="IPTV6+" group-title="39.150.98.32:37799",IPTV6+
-http://39.150.98.32:37799/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="热播剧场" group-title="39.150.98.32:37799",热播剧场
 http://39.150.98.32:37799/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="热播剧场" group-title="39.150.98.32:37799",热播剧场
