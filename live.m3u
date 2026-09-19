@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="3" group-title="http://120.209.208.163:9003" tvg-logo="",3
+http://120.209.208.163:9003/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="4" group-title="http://120.209.208.163:9003" tvg-logo="",4
+http://120.209.208.163:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" group-title="http://218.28.0.62:9003" tvg-logo="",CCTV-1
 http://218.28.0.62:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" group-title="http://218.28.0.62:9003" tvg-logo="",CCTV-2
@@ -95,7 +99,3 @@ http://218.28.0.62:9003/hls/21/index.m3u8
 http://218.28.0.62:9003/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="http://218.28.0.62:9003" tvg-logo="",金鹰卡通
 http://218.28.0.62:9003/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="3" group-title="http://120.209.208.163:9003" tvg-logo="",3
-http://120.209.208.163:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="4" group-title="http://120.209.208.163:9003" tvg-logo="",4
-http://120.209.208.163:9003/hls/4/index.m3u8
