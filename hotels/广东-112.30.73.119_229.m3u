@@ -11,16 +11,10 @@ http://112.30.73.119:229/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
 http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="sCCTV2-财经" group-title="112.30.73.119:229",sCCTV2-财经
 http://112.30.73.119:229/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="sCCTV3-综艺" group-title="112.30.73.119:229",sCCTV3-综艺
-http://112.30.73.119:229/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="sCCTV4-国际" group-title="112.30.73.119:229",sCCTV4-国际
 http://112.30.73.119:229/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="sCCTV5-体育" group-title="112.30.73.119:229",sCCTV5-体育
 http://112.30.73.119:229/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="sCCTV6-电影" group-title="112.30.73.119:229",sCCTV6-电影
-http://112.30.73.119:229/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="sCCTV8-电视剧" group-title="112.30.73.119:229",sCCTV8-电视剧
-http://112.30.73.119:229/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="sCCTV9-纪录" group-title="112.30.73.119:229",sCCTV9-纪录
 http://112.30.73.119:229/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="sCCTV10-科教" group-title="112.30.73.119:229",sCCTV10-科教
