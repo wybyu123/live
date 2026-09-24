@@ -131,9 +131,9 @@ http://111.33.88.123:9901/rtp://224.2.5.110:8110
 http://111.33.88.123:9901/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="动漫秀场-高清" group-title="111.33.88.123:9901",动漫秀场-高清
 http://111.33.88.123:9901/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新动漫" group-title="111.33.88.123:9901",新动漫
+#EXTINF:-1 tvg-name="CETV-早期教育" group-title="111.33.88.123:9901",CETV-早期教育
 http://111.33.88.123:9901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="111.33.88.123:9901",欢笑剧场
+#EXTINF:-1 tvg-name="多彩文体-4K" group-title="111.33.88.123:9901",多彩文体-4K
 http://111.33.88.123:9901/tsfile/live/1124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云足球-高清" group-title="111.33.88.123:9901",风云足球-高清
 http://111.33.88.123:9901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -141,6 +141,8 @@ http://111.33.88.123:9901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.33.88.123:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="111.33.88.123:9901",CHC家庭影院
 http://111.33.88.123:9901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="都市剧场-高清" group-title="111.33.88.123:9901",都市剧场-高清
+http://111.33.88.123:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="怀旧剧场-高清" group-title="111.33.88.123:9901",怀旧剧场-高清
 http://111.33.88.123:9901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="快乐垂钓-高清" group-title="111.33.88.123:9901",快乐垂钓-高清
@@ -149,8 +151,6 @@ http://111.33.88.123:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.33.88.123:9901/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云剧场-高清" group-title="111.33.88.123:9901",风云剧场-高清
 http://111.33.88.123:9901/tsfile/live/1168_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="都市剧场-高清" group-title="111.33.88.123:9901",都市剧场-高清
-http://111.33.88.123:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="世界地理-高清" group-title="111.33.88.123:9901",世界地理-高清
 http://111.33.88.123:9901/tsfile/live/1169_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="央视文化精品-高清" group-title="111.33.88.123:9901",央视文化精品-高清
