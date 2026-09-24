@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 1024
+        "totalStoredCount": 1023
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-09-24 08-00-37",
+            "resultCount": 744,
+            "savedCount": 744
+        },
         {
             "updateTime": "2026-09-23 20-00-41",
             "resultCount": 744,
@@ -70,11 +75,6 @@
             "updateTime": "2026-09-17 20-00-39",
             "resultCount": 772,
             "savedCount": 772
-        },
-        {
-            "updateTime": "2026-09-17 08-00-40",
-            "resultCount": 773,
-            "savedCount": 773
         }
     ],
     "results": [
@@ -8033,16 +8033,6 @@
             "org": "China Unicom",
             "updateTime": "2026-09-14 21-50-00",
             "matchType": "zhgxtv"
-        },
-        {
-            "host": "110.72.53.201:8181",
-            "ip": "110.72.53.201",
-            "port": 8181,
-            "link": "http://110.72.53.201:8181",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-03 03-36-00",
-            "matchType": "txiptv"
         },
         {
             "host": "218.17.33.178:53290",
