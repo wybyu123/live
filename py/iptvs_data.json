@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 1014
+        "totalStoredCount": 1012
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-09-27 08-02-37",
+            "resultCount": 744,
+            "savedCount": 744
+        },
         {
             "updateTime": "2026-09-26 20-01-54",
             "resultCount": 744,
@@ -68,11 +73,6 @@
         },
         {
             "updateTime": "2026-09-20 20-00-41",
-            "resultCount": 772,
-            "savedCount": 772
-        },
-        {
-            "updateTime": "2026-09-20 08-00-37",
             "resultCount": 772,
             "savedCount": 772
         }
@@ -7892,26 +7892,6 @@
             "source": "1",
             "org": "China Mobile",
             "updateTime": "2026-09-19 15-19-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "111.22.2.250:888",
-            "ip": "111.22.2.250",
-            "port": 888,
-            "link": "http://111.22.2.250:888",
-            "source": "1",
-            "org": "China Mobile",
-            "updateTime": "2026-09-16 22-29-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.101.110.110:9999",
-            "ip": "123.101.110.110",
-            "port": 9999,
-            "link": "http://123.101.110.110:9999",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-16 06-23-00",
             "matchType": "zhgxtv"
         },
         {
