@@ -107,13 +107,13 @@ http://101.18.30.18:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.18.30.18:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰纪实高清" group-title="101.18.30.18:808",金鹰纪实高清
 http://101.18.30.18:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV1" group-title="101.18.30.18:808",CETV1
+#EXTINF:-1 tvg-name="承德公共" group-title="101.18.30.18:808",承德公共
 http://101.18.30.18:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV2" group-title="101.18.30.18:808",CETV2
+#EXTINF:-1 tvg-name="承德新闻" group-title="101.18.30.18:808",承德新闻
 http://101.18.30.18:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV4" group-title="101.18.30.18:808",CETV4
+#EXTINF:-1 tvg-name="廊坊公共" group-title="101.18.30.18:808",廊坊公共
 http://101.18.30.18:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="石家庄都市" group-title="101.18.30.18:808",石家庄都市
+#EXTINF:-1 tvg-name="廊坊新闻" group-title="101.18.30.18:808",廊坊新闻
 http://101.18.30.18:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="石家庄生活" group-title="101.18.30.18:808",石家庄生活
 http://101.18.30.18:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -127,3 +127,5 @@ http://101.18.30.18:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.18.30.18:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="唐山影视" group-title="101.18.30.18:808",唐山影视
 http://101.18.30.18:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="秦皇岛-1" group-title="101.18.30.18:808",秦皇岛-1
+http://101.18.30.18:808/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
