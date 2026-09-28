@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 1010
+        "totalStoredCount": 1008
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-09-28 08-01-11",
+            "resultCount": 744,
+            "savedCount": 744
+        },
         {
             "updateTime": "2026-09-27 20-01-13",
             "resultCount": 744,
@@ -68,11 +73,6 @@
         },
         {
             "updateTime": "2026-09-21 20-00-43",
-            "resultCount": 773,
-            "savedCount": 773
-        },
-        {
-            "updateTime": "2026-09-21 08-00-37",
             "resultCount": 773,
             "savedCount": 773
         }
@@ -7830,28 +7830,6 @@
             "source": "1",
             "org": "Tencent",
             "updateTime": "2026-09-20 06-09-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "113.98.199.3:880",
-            "ip": "113.98.199.3",
-            "port": 880,
-            "link": "http://113.98.199.3:880",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-20 02-29-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "120.79.26.58:80",
-            "ip": [
-                "120.79.26.58"
-            ],
-            "port": 80,
-            "link": "http://120.79.26.58:80",
-            "source": "1",
-            "org": "Alibaba Cloud",
-            "updateTime": "2026-09-19 20-45-00",
             "matchType": "zhgxtv"
         },
         {
