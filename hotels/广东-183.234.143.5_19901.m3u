@@ -85,7 +85,7 @@ http://183.234.143.5:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.234.143.5:19901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="少儿动画" group-title="183.234.143.5:19901",少儿动画
 http://183.234.143.5:19901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="电影2" group-title="183.234.143.5:19901",电影2
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="183.234.143.5:19901",CHC高清电影
 http://183.234.143.5:19901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="测试" group-title="183.234.143.5:19901",测试
 http://183.234.143.5:19901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
