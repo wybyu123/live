@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 1086
+        "totalStoredCount": 1059
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-09-30 08-01-14",
+            "resultCount": 744,
+            "savedCount": 744
+        },
         {
             "updateTime": "2026-09-29 20-01-37",
             "resultCount": 744,
@@ -70,11 +75,6 @@
             "updateTime": "2026-09-23 20-00-41",
             "resultCount": 744,
             "savedCount": 744
-        },
-        {
-            "updateTime": "2026-09-23 08-00-39",
-            "resultCount": 772,
-            "savedCount": 772
         }
     ],
     "results": [
@@ -7519,290 +7519,6 @@
             "matchType": "hsmdtv"
         },
         {
-            "host": "91.110.232.43:5081",
-            "ip": "91.110.232.43",
-            "port": 5081,
-            "link": "http://91.110.232.43:5081",
-            "source": "1",
-            "org": "GLOBALDATA INVESTMENTS INC",
-            "updateTime": "2026-09-20 21-50-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "110.72.61.137:8181",
-            "ip": "110.72.61.137",
-            "port": 8181,
-            "link": "http://110.72.61.137:8181",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-20 00-21-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "110.72.79.50:8181",
-            "ip": "110.72.79.50",
-            "port": 8181,
-            "link": "http://110.72.79.50:8181",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-20 00-21-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "110.72.55.207:8181",
-            "ip": "110.72.55.207",
-            "port": 8181,
-            "link": "http://110.72.55.207:8181",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-20 00-21-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.220.128.25:9998",
-            "ip": "221.220.128.25",
-            "port": 9998,
-            "link": "http://221.220.128.25:9998",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-17 15-19-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "125.33.5.16:9999",
-            "ip": "125.33.5.16",
-            "port": 9999,
-            "link": "http://125.33.5.16:9999",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-15 20-35-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "125.33.16.236:9999",
-            "ip": "125.33.16.236",
-            "port": 9999,
-            "link": "http://125.33.16.236:9999",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-15 20-35-00",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "110.72.6.143:8082",
-            "ip": "110.72.6.143",
-            "port": 8082,
-            "link": "http://110.72.6.143:8082",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-22 06-01-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "121.29.191.188:8000",
-            "ip": "121.29.191.188",
-            "port": 8000,
-            "link": "http://121.29.191.188:8000",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-22 03-03-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "111.112.254.19:808",
-            "ip": "111.112.254.19",
-            "port": 808,
-            "link": "http://111.112.254.19:808",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-21 12-35-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "120.7.86.103:808",
-            "ip": "120.7.86.103",
-            "port": 808,
-            "link": "http://120.7.86.103:808",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-21 11-42-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "8.130.21.200:880",
-            "ip": "8.130.21.200",
-            "port": 880,
-            "link": "http://8.130.21.200:880",
-            "source": "1",
-            "org": "Alibaba Cloud",
-            "updateTime": "2026-09-21 02-08-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "180.141.153.47:8989",
-            "ip": "180.141.153.47",
-            "port": 8989,
-            "link": "http://180.141.153.47:8989",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-21 00-40-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "47.104.102.192:80",
-            "ip": [
-                "47.104.102.192"
-            ],
-            "port": 80,
-            "link": "http://47.104.102.192:80",
-            "source": "1",
-            "org": "Alibaba Cloud",
-            "updateTime": "2026-09-20 22-27-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "47.99.164.242:80",
-            "ip": [
-                "47.99.164.242"
-            ],
-            "port": 80,
-            "link": "http://47.99.164.242:80",
-            "source": "1",
-            "org": "Alibaba Cloud",
-            "updateTime": "2026-09-20 21-32-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "123.53.118.190:9999",
-            "ip": "123.53.118.190",
-            "port": 9999,
-            "link": "http://123.53.118.190:9999",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-20 20-16-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "120.0.181.209:9080",
-            "ip": "120.0.181.209",
-            "port": 9080,
-            "link": "http://120.0.181.209:9080",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-20 19-31-00",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "183.250.156.180:9999",
-            "ip": "183.250.156.180",
-            "port": 9999,
-            "link": "http://183.250.156.180:9999",
-            "source": "1",
-            "org": "China Mobile",
-            "updateTime": "2026-09-15 08-52-00",
-            "matchType": "hsmdtv"
-        },
-        {
-            "host": "125.72.212.30:18080",
-            "ip": "125.72.212.30",
-            "port": 18080,
-            "link": "http://125.72.212.30:18080",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-30 12-10-00",
-            "matchType": "hsmdtv"
-        },
-        {
-            "host": "122.136.10.128:9003",
-            "ip": "122.136.10.128",
-            "port": 9003,
-            "link": "http://122.136.10.128:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-19 18-17-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "182.91.124.232:9003",
-            "ip": "182.91.124.232",
-            "port": 9003,
-            "link": "http://182.91.124.232:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-14 11-37-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "113.25.198.38:9003",
-            "ip": "113.25.198.38",
-            "port": 9003,
-            "link": "http://113.25.198.38:9003",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-11 22-35-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "113.25.198.40:9003",
-            "ip": "113.25.198.40",
-            "port": 9003,
-            "link": "http://113.25.198.40:9003",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-09-11 22-35-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "171.38.222.113:9003",
-            "ip": "171.38.222.113",
-            "port": 9003,
-            "link": "http://171.38.222.113:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-10 14-41-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "42.237.159.119:9003",
-            "ip": "42.237.159.119",
-            "port": 9003,
-            "link": "http://42.237.159.119:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-01 07-28-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "42.237.156.88:9003",
-            "ip": "42.237.156.88",
-            "port": 9003,
-            "link": "http://42.237.156.88:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-01 07-28-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "218.28.0.62:9003",
-            "ip": "218.28.0.62",
-            "port": 9003,
-            "link": "http://218.28.0.62:9003",
-            "source": "1",
-            "org": "China Unicom",
-            "updateTime": "2026-09-01 01-22-00",
-            "matchType": "jsmpeg"
-        },
-        {
-            "host": "222.74.179.206:9003",
-            "ip": "222.74.179.206",
-            "port": 9003,
-            "link": "http://222.74.179.206:9003",
-            "source": "1",
-            "org": "China Telecom",
-            "updateTime": "2026-08-26 05-26-00",
-            "matchType": "jsmpeg"
-        },
-        {
             "host": "58.220.219.14:9901",
             "ip": "58.220.219.14",
             "port": 9901,
@@ -8927,6 +8643,16 @@
             "ip": "139.214.181.159",
             "port": 9901,
             "link": "http://139.214.181.159:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-09-29 04-19-38",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "110.72.55.207:8181",
+            "ip": "110.72.55.207",
+            "port": 8181,
+            "link": "http://110.72.55.207:8181",
             "source": "1",
             "org": "Unknown",
             "updateTime": "2026-09-29 04-19-38",
