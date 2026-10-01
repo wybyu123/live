@@ -19,8 +19,6 @@ http://183.234.143.5:5353/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.234.143.5:5353/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="南方少儿" group-title="183.234.143.5:5353",南方少儿
 http://183.234.143.5:5353/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="珠江电影" group-title="183.234.143.5:5353",珠江电影
-http://183.234.143.5:5353/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1-综合" group-title="183.234.143.5:5353",CCTV1-综合
 http://183.234.143.5:5353/tsfile/live/1_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2-财经" group-title="183.234.143.5:5353",CCTV2-财经
@@ -31,8 +29,6 @@ http://183.234.143.5:5353/tsfile/live/3_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.234.143.5:5353/tsfile/live/4_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5-体育" group-title="183.234.143.5:5353",CCTV5-体育
 http://183.234.143.5:5353/tsfile/live/5_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5+" group-title="183.234.143.5:5353",CCTV5+
-http://183.234.143.5:5353/tsfile/live/6_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6-电影" group-title="183.234.143.5:5353",CCTV6-电影
 http://183.234.143.5:5353/tsfile/live/7_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7-军农" group-title="183.234.143.5:5353",CCTV7-军农
@@ -161,8 +157,6 @@ http://183.234.143.5:5353/tsfile/live/127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.234.143.5:5353/tsfile/live/128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东卫视高" group-title="183.234.143.5:5353",广东卫视高
 http://183.234.143.5:5353/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="经济教育高" group-title="183.234.143.5:5353",经济教育高
-http://183.234.143.5:5353/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="珠江高" group-title="183.234.143.5:5353",珠江高
 http://183.234.143.5:5353/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1高清" group-title="183.234.143.5:5353",CCTV1高清

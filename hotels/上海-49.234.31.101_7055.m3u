@@ -157,5 +157,3 @@ http://49.234.31.101:7055/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 http://49.234.31.101:7055/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="经典电影" group-title="49.234.31.101:7055",经典电影
 http://49.234.31.101:7055/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广场舞台" group-title="49.234.31.101:7055",广场舞台
-http://49.234.31.101:7055/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
