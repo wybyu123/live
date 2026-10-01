@@ -48,10 +48,10 @@ http://222.244.113.235:808
 http://live.zhgbtv.cn:3100
 http://nmxlive.akamaized.net
 http://1.24.39.180:808
-http://222.85.198.92:8000
 http://113.195.172.192:1808
-http://183.237.71.182:40000
+http://222.85.198.92:8000
 http://183.239.108.37:1698
+http://183.237.71.182:40000
 http://27.129.145.110:4433
 http://0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999
 http://120.238.5.44:1698
@@ -65,6 +65,7 @@ http://api.kkitv.itv888.cn:8080
 http://182.150.112.112:2025
 http://114.242.62.109:888
 http://gdsport.ccwu.cc
+http://183.237.240.235:808
 http://gd.wsd.gd.cn:1698
 http://211.97.63.3:3443
 http://btjg.net:809
