@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="14.152.102.71:9901",CCTV1-综合
+http://14.152.102.71:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
