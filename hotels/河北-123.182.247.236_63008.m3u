@@ -15,6 +15,22 @@ http://123.182.247.236:63008/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authi
 http://123.182.247.236:63008/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8-电视剧" group-title="123.182.247.236:63008",CCTV8-电视剧
 http://123.182.247.236:63008/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="123.182.247.236:63008",CCTV9-纪录
+http://123.182.247.236:63008/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10-科教" group-title="123.182.247.236:63008",CCTV10-科教
+http://123.182.247.236:63008/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11-戏曲" group-title="123.182.247.236:63008",CCTV11-戏曲
+http://123.182.247.236:63008/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="123.182.247.236:63008",CCTV12-社会与法
+http://123.182.247.236:63008/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13-新闻" group-title="123.182.247.236:63008",CCTV13-新闻
+http://123.182.247.236:63008/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="123.182.247.236:63008",CCTV14-少儿
+http://123.182.247.236:63008/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="123.182.247.236:63008",CCTV15-音乐
+http://123.182.247.236:63008/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" group-title="123.182.247.236:63008",CCTV5+体育赛事
+http://123.182.247.236:63008/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" group-title="123.182.247.236:63008",CCTV17
 http://123.182.247.236:63008/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="石家庄综合" group-title="123.182.247.236:63008",石家庄综合
