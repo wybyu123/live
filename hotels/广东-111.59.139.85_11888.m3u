@@ -181,8 +181,6 @@ http://192.168.100.1/hls/67/index.m3u8
 http://192.168.100.1/hls/68/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4 高清" group-title="111.59.139.85:11888",中国教育4 高清
 http://192.168.100.1/hls/69/index.m3u8
-#EXTINF:-1 tvg-name="新动漫" group-title="111.59.139.85:11888",新动漫
-http://111.59.139.85:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="精品体育 高清" group-title="111.59.139.85:11888",精品体育 高清
 http://192.168.100.1/hls/90/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="111.59.139.85:11888",卡酷少儿
