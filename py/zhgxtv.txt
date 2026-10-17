@@ -65,9 +65,9 @@ http://gd.wsd.gd.cn:1698
 http://211.97.63.3:3443
 http://111.43.126.240:9003
 http://btjg.net:809
-http://113.64.146.48:1688
-http://110.185.237.164:8888
 http://1.24.190.98:10080
 http://avd.iptviptv.site:9694
 http://gongzhuling.lnott.top:9999
 http://118.122.2.29:9999
+http://110.185.237.164:8888
+http://113.64.146.48:1688
