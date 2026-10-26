@@ -1,11 +1,16 @@
 {
     "storageSummary": {
-        "totalStoredCount": 607
+        "totalStoredCount": 600
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-10-26 06-00-52",
+            "resultCount": 0,
+            "savedCount": 0
+        },
         {
             "updateTime": "2026-10-25 18-00-51",
             "resultCount": 0,
@@ -70,11 +75,6 @@
             "updateTime": "2026-10-19 18-00-44",
             "resultCount": 99,
             "savedCount": 99
-        },
-        {
-            "updateTime": "2026-10-19 06-00-31",
-            "resultCount": 67,
-            "savedCount": 67
         }
     ],
     "results": [
@@ -3279,86 +3279,6 @@
             "org": "CHINA UNICOM China169 Backbone"
         },
         {
-            "host": "221.226.51.220:50081",
-            "ip": "221.226.51.220",
-            "port": 50081,
-            "link": "http://221.226.51.220:50081",
-            "source": "0",
-            "matchType": "hsmdtv",
-            "updateTime": "2026-10-04 10-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "122.244.32.100:8090",
-            "ip": "122.244.32.100",
-            "port": 8090,
-            "link": "http://122.244.32.100:8090",
-            "source": "0",
-            "matchType": "hsmdtv",
-            "updateTime": "2026-09-20 19-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "211.90.188.189:9003",
-            "ip": "211.90.188.189",
-            "port": 9003,
-            "link": "http://211.90.188.189:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-07 04-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "221.205.233.57:9003",
-            "ip": "221.205.233.57",
-            "port": 9003,
-            "link": "http://221.205.233.57:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-07 02-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "221.205.237.43:9003",
-            "ip": "221.205.237.43",
-            "port": 9003,
-            "link": "http://221.205.237.43:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-06 17-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "42.237.156.89:9003",
-            "ip": "42.237.156.89",
-            "port": 9003,
-            "link": "http://42.237.156.89:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-06 11-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "122.136.8.233:9003",
-            "ip": "122.136.8.233",
-            "port": 9003,
-            "link": "http://122.136.8.233:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-06 06-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "122.136.11.43:9003",
-            "ip": "122.136.11.43",
-            "port": 9003,
-            "link": "http://122.136.11.43:9003",
-            "source": "0",
-            "matchType": "jsmpeg",
-            "updateTime": "2026-10-06 03-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
             "host": "58.220.219.14:9901",
             "ip": "58.220.219.14",
             "port": 9901,
@@ -6093,6 +6013,16 @@
             "ip": "120.40.39.246",
             "port": 352,
             "link": "http://120.40.39.246:352",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-25 03-16-33",
+            "matchType": "hsmdtv"
+        },
+        {
+            "host": "221.226.51.220:50081",
+            "ip": "221.226.51.220",
+            "port": 50081,
+            "link": "http://221.226.51.220:50081",
             "source": "1",
             "org": "Unknown",
             "updateTime": "2026-10-25 03-16-33",
