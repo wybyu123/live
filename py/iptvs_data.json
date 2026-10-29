@@ -1,11 +1,21 @@
 {
     "storageSummary": {
-        "totalStoredCount": 403
+        "totalStoredCount": 324
     },
     "message": {
         "version": "1.1"
     },
     "storageData": [
+        {
+            "updateTime": "2026-10-29 18-01-50",
+            "resultCount": 0,
+            "savedCount": 0
+        },
+        {
+            "updateTime": "2026-10-29 18-00-57",
+            "resultCount": 0,
+            "savedCount": 0
+        },
         {
             "updateTime": "2026-10-29 06-00-54",
             "resultCount": 0,
@@ -65,1147 +75,17 @@
             "updateTime": "2026-10-23 18-00-49",
             "resultCount": 0,
             "savedCount": 0
-        },
-        {
-            "updateTime": "2026-10-23 06-00-50",
-            "resultCount": 0,
-            "savedCount": 0
-        },
-        {
-            "updateTime": "2026-10-22 18-00-51",
-            "resultCount": 101,
-            "savedCount": 101
         }
     ],
     "results": [
         {
-            "host": "123.120.5.245:9999",
-            "ip": "123.120.5.245",
-            "port": 9999,
-            "link": "http://123.120.5.245:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-22 16-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "111.194.37.51:9999",
-            "ip": "111.194.37.51",
-            "port": 9999,
-            "link": "http://111.194.37.51:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-22 09-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "114.248.3.152:9999",
-            "ip": "114.248.3.152",
-            "port": 9999,
-            "link": "http://114.248.3.152:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-22 07-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "183.234.143.5:5555",
-            "ip": "183.234.143.5",
-            "port": 5555,
-            "link": "http://183.234.143.5:5555",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-22 01-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "114.252.250.246:9999",
-            "ip": "114.252.250.246",
-            "port": 9999,
-            "link": "http://114.252.250.246:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-22 01-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "111.194.225.79:9999",
-            "ip": "111.194.225.79",
-            "port": 9999,
-            "link": "http://111.194.225.79:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 23-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "111.194.226.229:9999",
-            "ip": "111.194.226.229",
-            "port": 9999,
-            "link": "http://111.194.226.229:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 16-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "175.0.78.167:9999",
-            "ip": "175.0.78.167",
-            "port": 9999,
-            "link": "http://175.0.78.167:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 16-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "221.221.18.163:9999",
-            "ip": "221.221.18.163",
-            "port": 9999,
-            "link": "http://221.221.18.163:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 15-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "114.252.254.242:9999",
-            "ip": "114.252.254.242",
-            "port": 9999,
-            "link": "http://114.252.254.242:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 10-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "125.33.0.240:9999",
-            "ip": "125.33.0.240",
-            "port": 9999,
-            "link": "http://125.33.0.240:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 09-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "114.248.31.46:9999",
-            "ip": "114.248.31.46",
-            "port": 9999,
-            "link": "http://114.248.31.46:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 08-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "125.33.18.252:9999",
-            "ip": "125.33.18.252",
-            "port": 9999,
-            "link": "http://125.33.18.252:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 08-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "183.237.95.108:9901",
-            "ip": "183.237.95.108",
+            "host": "120.238.84.45:9901",
+            "ip": "120.238.84.45",
             "port": 9901,
-            "link": "http://183.237.95.108:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 07-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "219.145.93.74:10000",
-            "ip": "219.145.93.74",
-            "port": 10000,
-            "link": "http://219.145.93.74:10000",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 05-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "111.194.228.90:9999",
-            "ip": "111.194.228.90",
-            "port": 9999,
-            "link": "http://111.194.228.90:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 05-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "202.168.187.221:9999",
-            "ip": "202.168.187.221",
-            "port": 9999,
-            "link": "http://202.168.187.221:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 04-00-00",
-            "org": "Guangdong Cable Corporation Limited"
-        },
-        {
-            "host": "114.252.252.173:9999",
-            "ip": "114.252.252.173",
-            "port": 9999,
-            "link": "http://114.252.252.173:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-21 02-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "125.33.8.254:9999",
-            "ip": "125.33.8.254",
-            "port": 9999,
-            "link": "http://125.33.8.254:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 22-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "111.196.66.229:9999",
-            "ip": "111.196.66.229",
-            "port": 9999,
-            "link": "http://111.196.66.229:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 18-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "125.34.17.45:9999",
-            "ip": "125.34.17.45",
-            "port": 9999,
-            "link": "http://125.34.17.45:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 13-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "222.128.50.144:9999",
-            "ip": "222.128.50.144",
-            "port": 9999,
-            "link": "http://222.128.50.144:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 09-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "180.159.73.219:9999",
-            "ip": "180.159.73.219",
-            "port": 9999,
-            "link": "http://180.159.73.219:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 06-00-00",
-            "org": "China Telecom (Group)"
-        },
-        {
-            "host": "123.112.183.210:9999",
-            "ip": "123.112.183.210",
-            "port": 9999,
-            "link": "http://123.112.183.210:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 05-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "103.39.222.35:9999",
-            "ip": "103.39.222.35",
-            "port": 9999,
-            "link": "http://103.39.222.35:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 04-00-00",
-            "org": "China Telecom (Group)"
-        },
-        {
-            "host": "123.115.137.243:9999",
-            "ip": "123.115.137.243",
-            "port": 9999,
-            "link": "http://123.115.137.243:9999",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-20 00-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "113.26.202.52:1299",
-            "ip": "113.26.202.52",
-            "port": 1299,
-            "link": "http://113.26.202.52:1299",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 14-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "110.72.55.22:8181",
-            "ip": "110.72.55.22",
-            "port": 8181,
-            "link": "http://110.72.55.22:8181",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 12-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "183.239.248.218:8181",
-            "ip": "183.239.248.218",
-            "port": 8181,
-            "link": "http://183.239.248.218:8181",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 12-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "175.0.71.18:8088",
-            "ip": "175.0.71.18",
-            "port": 8088,
-            "link": "http://175.0.71.18:8088",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 07-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "121.19.134.6:808",
-            "ip": "121.19.134.6",
-            "port": 808,
-            "link": "http://121.19.134.6:808",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 05-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "223.78.65.165:9901",
-            "ip": "223.78.65.165",
-            "port": 9901,
-            "link": "http://223.78.65.165:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 04-00-00",
-            "org": "Shandong Mobile Communication Company Limited"
-        },
-        {
-            "host": "111.172.115.5:7777",
-            "ip": "111.172.115.5",
-            "port": 7777,
-            "link": "http://111.172.115.5:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 03-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "120.238.85.131:9901",
-            "ip": "120.238.85.131",
-            "port": 9901,
-            "link": "http://120.238.85.131:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 02-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "sykj1.3322.org:9901",
-            "ip": "36.129.58.18",
-            "port": 9901,
-            "link": "http://sykj1.3322.org:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 01-00-00",
-            "org": "China Mobile communications corporation"
-        },
-        {
-            "host": "223.166.234.41:7777",
-            "ip": "223.166.234.41",
-            "port": 7777,
-            "link": "http://223.166.234.41:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-19 00-00-00",
-            "org": "China Unicom Shanghai network"
-        },
-        {
-            "host": "221.232.196.176:7777",
-            "ip": "221.232.196.176",
-            "port": 7777,
-            "link": "http://221.232.196.176:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 23-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "221.232.198.36:7777",
-            "ip": "221.232.198.36",
-            "port": 7777,
-            "link": "http://221.232.198.36:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 23-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "221.221.137.78:8000",
-            "ip": "221.221.137.78",
-            "port": 8000,
-            "link": "http://221.221.137.78:8000",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 21-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "111.59.24.227:8181",
-            "ip": "111.59.24.227",
-            "port": 8181,
-            "link": "http://111.59.24.227:8181",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 21-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "111.4.82.49:8008",
-            "ip": "111.4.82.49",
-            "port": 8008,
-            "link": "http://111.4.82.49:8008",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 17-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "221.232.197.211:7777",
-            "ip": "221.232.197.211",
-            "port": 7777,
-            "link": "http://221.232.197.211:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 16-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "111.172.114.89:7777",
-            "ip": "111.172.114.89",
-            "port": 7777,
-            "link": "http://111.172.114.89:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 15-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "221.232.14.94:7777",
-            "ip": "221.232.14.94",
-            "port": 7777,
-            "link": "http://221.232.14.94:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 14-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "zzssw01.55555.io:9901",
-            "ip": "171.8.86.48",
-            "port": 9901,
-            "link": "http://zzssw01.55555.io:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 13-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "121.19.134.202:808",
-            "ip": "121.19.134.202",
-            "port": 808,
-            "link": "http://121.19.134.202:808",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 11-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "221.232.14.91:7777",
-            "ip": "221.232.14.91",
-            "port": 7777,
-            "link": "http://221.232.14.91:7777",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 10-00-00",
-            "org": "CHINATELECOM Hubei province Wuhan 5G network"
-        },
-        {
-            "host": "221.13.234.177:9901",
-            "ip": "221.13.234.177",
-            "port": 9901,
-            "link": "http://221.13.234.177:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 10-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "222.241.132.140:8090",
-            "ip": "222.241.132.140",
-            "port": 8090,
-            "link": "http://222.241.132.140:8090",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 08-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "110.72.87.129:8181",
-            "ip": "110.72.87.129",
-            "port": 8181,
-            "link": "http://110.72.87.129:8181",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-18 06-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "123.138.216.44:9901",
-            "ip": "123.138.216.44",
-            "port": 9901,
-            "link": "http://123.138.216.44:9901",
-            "source": "0",
-            "matchType": "txiptv",
-            "updateTime": "2026-10-13 19-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "113.64.147.135:8089",
-            "ip": "113.64.147.135",
-            "port": 8089,
-            "link": "http://113.64.147.135:8089",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 17-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "113.64.147.146:8089",
-            "ip": "113.64.147.146",
-            "port": 8089,
-            "link": "http://113.64.147.146:8089",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 17-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "171.37.67.26:808",
-            "ip": "171.37.67.26",
-            "port": 808,
-            "link": "http://171.37.67.26:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 17-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "113.64.147.88:8089",
-            "ip": "113.64.147.88",
-            "port": 8089,
-            "link": "http://113.64.147.88:8089",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 16-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "110.72.84.2:808",
-            "ip": "110.72.84.2",
-            "port": 808,
-            "link": "http://110.72.84.2:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 16-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "113.64.147.85:8089",
-            "ip": "113.64.147.85",
-            "port": 8089,
-            "link": "http://113.64.147.85:8089",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 16-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "60.10.50.14:808",
-            "ip": "60.10.50.14",
-            "port": 808,
-            "link": "http://60.10.50.14:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 15-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "182.126.176.190:9999",
-            "ip": "182.126.176.190",
-            "port": 9999,
-            "link": "http://182.126.176.190:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 15-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "183.237.240.236:808",
-            "ip": "183.237.240.236",
-            "port": 808,
-            "link": "http://183.237.240.236:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 13-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "47.100.188.126",
-            "ip": "47.100.188.126",
-            "port": 80,
-            "link": "http://47.100.188.126",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 11-00-00",
-            "org": "Hangzhou Alibaba Advertising Co.,Ltd."
-        },
-        {
-            "host": "110.72.64.187:808",
-            "ip": "110.72.64.187",
-            "port": 808,
-            "link": "http://110.72.64.187:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 10-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "110.72.64.226:808",
-            "ip": "110.72.64.226",
-            "port": 808,
-            "link": "http://110.72.64.226:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 09-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "125.44.158.77:9999",
-            "ip": "125.44.158.77",
-            "port": 9999,
-            "link": "http://125.44.158.77:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 04-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "58.255.200.213:18081",
-            "ip": "58.255.200.213",
-            "port": 18081,
-            "link": "http://58.255.200.213:18081",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 04-00-00",
-            "org": "China Unicom IP network China169 Guangdong province"
-        },
-        {
-            "host": "123.10.78.27:808",
-            "ip": "123.10.78.27",
-            "port": 808,
-            "link": "http://123.10.78.27:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 02-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "110.72.85.120:808",
-            "ip": "110.72.85.120",
-            "port": 808,
-            "link": "http://110.72.85.120:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 01-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "cssbyd.imwork.net:8082",
-            "ip": "220.168.77.153",
-            "port": 8082,
-            "link": "http://cssbyd.imwork.net:8082",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-22 00-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "110.72.82.53:808",
-            "ip": "110.72.82.53",
-            "port": 808,
-            "link": "http://110.72.82.53:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 23-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "110.72.78.0:808",
-            "ip": "110.72.78.0",
-            "port": 808,
-            "link": "http://110.72.78.0:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 23-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "110.72.66.3:808",
-            "ip": "110.72.66.3",
-            "port": 808,
-            "link": "http://110.72.66.3:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 23-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "110.72.60.144:808",
-            "ip": "110.72.60.144",
-            "port": 808,
-            "link": "http://110.72.60.144:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 23-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "124.114.57.239:15000",
-            "ip": "124.114.57.239",
-            "port": 15000,
-            "link": "http://124.114.57.239:15000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 22-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "125.44.158.124:9999",
-            "ip": "125.44.158.124",
-            "port": 9999,
-            "link": "http://125.44.158.124:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 20-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "112.46.85.60:8009",
-            "ip": "112.46.85.60",
-            "port": 8009,
-            "link": "http://112.46.85.60:8009",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 19-00-00",
-            "org": "China Mobile Communications Group Co., Ltd."
-        },
-        {
-            "host": "113.98.199.3:880",
-            "ip": "113.98.199.3",
-            "port": 880,
-            "link": "http://113.98.199.3:880",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 18-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "112.232.104.233:50001",
-            "ip": "112.232.104.233",
-            "port": 50001,
-            "link": "http://112.232.104.233:50001",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 18-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "113.64.147.85:8081",
-            "ip": "113.64.147.85",
-            "port": 8081,
-            "link": "http://113.64.147.85:8081",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 17-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "113.64.147.12:8081",
-            "ip": "113.64.147.12",
-            "port": 8081,
-            "link": "http://113.64.147.12:8081",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 17-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "113.206.171.200:5001",
-            "ip": "113.206.171.200",
-            "port": 5001,
-            "link": "http://113.206.171.200:5001",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 15-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "113.228.44.76:8888",
-            "ip": "113.228.44.76",
-            "port": 8888,
-            "link": "http://113.228.44.76:8888",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 15-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "42.231.29.87:808",
-            "ip": "42.231.29.87",
-            "port": 808,
-            "link": "http://42.231.29.87:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 13-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "115.196.122.124:5000",
-            "ip": "115.196.122.124",
-            "port": 5000,
-            "link": "http://115.196.122.124:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 10-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "116.233.46.82:5000",
-            "ip": "116.233.46.82",
-            "port": 5000,
-            "link": "http://116.233.46.82:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 07-00-00",
-            "org": "China Telecom (Group)"
-        },
-        {
-            "host": "117.28.167.18:5000",
-            "ip": "117.28.167.18",
-            "port": 5000,
-            "link": "http://117.28.167.18:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 06-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "117.84.132.145:8888",
-            "ip": "117.84.132.145",
-            "port": 8888,
-            "link": "http://117.84.132.145:8888",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 05-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "123.11.11.139:9999",
-            "ip": "123.11.11.139",
-            "port": 9999,
-            "link": "http://123.11.11.139:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 04-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "219.156.178.157:9999",
-            "ip": "219.156.178.157",
-            "port": 9999,
-            "link": "http://219.156.178.157:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 04-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "101.200.164.241:5000",
-            "ip": "101.200.164.241",
-            "port": 5000,
-            "link": "http://101.200.164.241:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 03-00-00",
-            "org": "Hangzhou Alibaba Advertising Co.,Ltd."
-        },
-        {
-            "host": "222.90.142.223:9999",
-            "ip": "222.90.142.223",
-            "port": 9999,
-            "link": "http://222.90.142.223:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 03-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "113.64.147.236:8089",
-            "ip": "113.64.147.236",
-            "port": 8089,
-            "link": "http://113.64.147.236:8089",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-21 01-00-00",
-            "org": "CHINATELECOM Guangdong province Zhongshan 5G network"
-        },
-        {
-            "host": "120.48.177.179:8888",
-            "ip": "120.48.177.179",
-            "port": 8888,
-            "link": "http://120.48.177.179:8888",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 22-00-00",
-            "org": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-        },
-        {
-            "host": "120.48.148.191:8888",
-            "ip": "120.48.148.191",
-            "port": 8888,
-            "link": "http://120.48.148.191:8888",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 22-00-00",
-            "org": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-        },
-        {
-            "host": "110.72.86.149:808",
-            "ip": "110.72.86.149",
-            "port": 808,
-            "link": "http://110.72.86.149:808",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 21-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "120.211.62.180:8000",
-            "ip": "120.211.62.180",
-            "port": 8000,
-            "link": "http://120.211.62.180:8000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 21-00-00",
-            "org": "Hebei Mobile Communication Company Limited"
-        },
-        {
-            "host": "121.29.191.171:8000",
-            "ip": "121.29.191.171",
-            "port": 8000,
-            "link": "http://121.29.191.171:8000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 20-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "42.227.152.88:9999",
-            "ip": "42.227.152.88",
-            "port": 9999,
-            "link": "http://42.227.152.88:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 19-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "123.117.165.88:5000",
-            "ip": "123.117.165.88",
-            "port": 5000,
-            "link": "http://123.117.165.88:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 15-00-00",
-            "org": "China Unicom Beijing Province Network"
-        },
-        {
-            "host": "123.53.86.245:9999",
-            "ip": "123.53.86.245",
-            "port": 9999,
-            "link": "http://123.53.86.245:9999",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 14-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "123.234.92.39:5000",
-            "ip": "123.234.92.39",
-            "port": 5000,
-            "link": "http://123.234.92.39:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 14-00-00",
-            "org": "CHINA UNICOM China169 Backbone"
-        },
-        {
-            "host": "171.13.174.238:5000",
-            "ip": "171.13.174.238",
-            "port": 5000,
-            "link": "http://171.13.174.238:5000",
-            "source": "0",
-            "matchType": "zhgxtv",
-            "updateTime": "2026-10-20 13-00-00",
-            "org": "Chinanet"
-        },
-        {
-            "host": "61.136.172.236:9901",
-            "ip": "61.136.172.236",
-            "port": 9901,
-            "link": "http://61.136.172.236:9901",
+            "link": "http://120.238.84.45:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "153.0.171.163:85",
-            "ip": "153.0.171.163",
-            "port": 85,
-            "link": "http://153.0.171.163:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.198.86.186:9901",
-            "ip": "120.198.86.186",
-            "port": 9901,
-            "link": "http://120.198.86.186:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "139.227.221.147:9901",
-            "ip": "139.227.221.147",
-            "port": 9901,
-            "link": "http://139.227.221.147:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "61.178.227.57:9901",
-            "ip": "61.178.227.57",
-            "port": 9901,
-            "link": "http://61.178.227.57:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "58.57.40.22:9901",
-            "ip": "58.57.40.22",
-            "port": 9901,
-            "link": "http://58.57.40.22:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.196.235.42:9901",
-            "ip": "120.196.235.42",
-            "port": 9901,
-            "link": "http://120.196.235.42:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "115.150.63.77:9902",
-            "ip": "115.150.63.77",
-            "port": 9902,
-            "link": "http://115.150.63.77:9902",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "49.87.154.246:10091",
-            "ip": "49.87.154.246",
-            "port": 10091,
-            "link": "http://49.87.154.246:10091",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.7.175.127:9901",
-            "ip": "221.7.175.127",
-            "port": 9901,
-            "link": "http://221.7.175.127:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.99.195.122:65000",
-            "ip": "112.99.195.122",
-            "port": 65000,
-            "link": "http://112.99.195.122:65000",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.104.239.114:9901",
-            "ip": "218.104.239.114",
-            "port": 9901,
-            "link": "http://218.104.239.114:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
@@ -1215,797 +95,7 @@
             "link": "http://36.136.38.87:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.198.95.220:9901",
-            "ip": "120.198.95.220",
-            "port": 9901,
-            "link": "http://120.198.95.220:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "183.234.143.5:9902",
-            "ip": "183.234.143.5",
-            "port": 9902,
-            "link": "http://183.234.143.5:9902",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "222.169.85.8:9901",
-            "ip": "222.169.85.8",
-            "port": 9901,
-            "link": "http://222.169.85.8:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "124.165.251.82:85",
-            "ip": "124.165.251.82",
-            "port": 85,
-            "link": "http://124.165.251.82:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "119.39.9.8:9901",
-            "ip": "119.39.9.8",
-            "port": 9901,
-            "link": "http://119.39.9.8:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.234.22.76:9901",
-            "ip": "112.234.22.76",
-            "port": 9901,
-            "link": "http://112.234.22.76:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "59.39.89.130:60901",
-            "ip": "59.39.89.130",
-            "port": 60901,
-            "link": "http://59.39.89.130:60901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "222.134.245.16:9901",
-            "ip": "222.134.245.16",
-            "port": 9901,
-            "link": "http://222.134.245.16:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.30.73.119:229",
-            "ip": "112.30.73.119",
-            "port": 229,
-            "link": "http://112.30.73.119:229",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.30.73.119:9901",
-            "ip": "112.30.73.119",
-            "port": 9901,
-            "link": "http://112.30.73.119:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.15.109.216:59901",
-            "ip": "113.15.109.216",
-            "port": 59901,
-            "link": "http://113.15.109.216:59901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.13.170.98:9901",
-            "ip": "218.13.170.98",
-            "port": 9901,
-            "link": "http://218.13.170.98:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "118.193.115.2:9901",
-            "ip": "118.193.115.2",
-            "port": 9901,
-            "link": "http://118.193.115.2:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "111.59.139.82:11888",
-            "ip": "111.59.139.82",
-            "port": 11888,
-            "link": "http://111.59.139.82:11888",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.7.175.154:8445",
-            "ip": "221.7.175.154",
-            "port": 8445,
-            "link": "http://221.7.175.154:8445",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.27.5.218:9901",
-            "ip": "112.27.5.218",
-            "port": 9901,
-            "link": "http://112.27.5.218:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "153.0.171.163:9901",
-            "ip": "153.0.171.163",
-            "port": 9901,
-            "link": "http://153.0.171.163:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.221.137.78:9000",
-            "ip": "221.221.137.78",
-            "port": 9000,
-            "link": "http://221.221.137.78:9000",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.198.86.251:9901",
-            "ip": "120.198.86.251",
-            "port": 9901,
-            "link": "http://120.198.86.251:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.13.139.26:9901",
-            "ip": "218.13.139.26",
-            "port": 9901,
-            "link": "http://218.13.139.26:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.70.60.179:9901",
-            "ip": "120.70.60.179",
-            "port": 9901,
-            "link": "http://120.70.60.179:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.238.84.45:9901",
-            "ip": "120.238.84.45",
-            "port": 9901,
-            "link": "http://120.238.84.45:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "139.214.181.125:9901",
-            "ip": "139.214.181.125",
-            "port": 9901,
-            "link": "http://139.214.181.125:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.65.162.153:9901",
-            "ip": "113.65.162.153",
-            "port": 9901,
-            "link": "http://113.65.162.153:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.65.162.27:9901",
-            "ip": "113.65.162.27",
-            "port": 9901,
-            "link": "http://113.65.162.27:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.65.162.234:9901",
-            "ip": "113.65.162.234",
-            "port": 9901,
-            "link": "http://113.65.162.234:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "222.71.55.147:9901",
-            "ip": "222.71.55.147",
-            "port": 9901,
-            "link": "http://222.71.55.147:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "61.138.128.226:29901",
-            "ip": "61.138.128.226",
-            "port": 29901,
-            "link": "http://61.138.128.226:29901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "139.227.221.198:9901",
-            "ip": "139.227.221.198",
-            "port": 9901,
-            "link": "http://139.227.221.198:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "61.143.43.2:9901",
-            "ip": "61.143.43.2",
-            "port": 9901,
-            "link": "http://61.143.43.2:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "super8gb.x3322.net:9901",
-            "ip": "super8gb.x3322.net",
-            "port": 9901,
-            "link": "http://super8gb.x3322.net:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "124.90.45.52:9901",
-            "ip": "124.90.45.52",
-            "port": 9901,
-            "link": "http://124.90.45.52:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.77.84.102:85",
-            "ip": "218.77.84.102",
-            "port": 85,
-            "link": "http://218.77.84.102:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "116.77.33.98:44330",
-            "ip": "116.77.33.98",
-            "port": 44330,
-            "link": "http://116.77.33.98:44330",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "124.116.183.146:9901",
-            "ip": "124.116.183.146",
-            "port": 9901,
-            "link": "http://124.116.183.146:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "112.99.193.34:9901",
-            "ip": "112.99.193.34",
-            "port": 9901,
-            "link": "http://112.99.193.34:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "124.228.160.112:9901",
-            "ip": "124.228.160.112",
-            "port": 9901,
-            "link": "http://124.228.160.112:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.198.84:9901",
-            "ip": "101.66.198.84",
-            "port": 9901,
-            "link": "http://101.66.198.84:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.198.18:9901",
-            "ip": "101.66.198.18",
-            "port": 9901,
-            "link": "http://101.66.198.18:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.198.184:9901",
-            "ip": "101.66.198.184",
-            "port": 9901,
-            "link": "http://101.66.198.184:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.195.232:9901",
-            "ip": "101.66.195.232",
-            "port": 9901,
-            "link": "http://101.66.195.232:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.198.234:9901",
-            "ip": "101.66.198.234",
-            "port": 9901,
-            "link": "http://101.66.198.234:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.194.29:9901",
-            "ip": "101.66.194.29",
-            "port": 9901,
-            "link": "http://101.66.194.29:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.194.176:9901",
-            "ip": "101.66.194.176",
-            "port": 9901,
-            "link": "http://101.66.194.176:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "182.32.204.113:9901",
-            "ip": "182.32.204.113",
-            "port": 9901,
-            "link": "http://182.32.204.113:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "119.164.216.162:9901",
-            "ip": "119.164.216.162",
-            "port": 9901,
-            "link": "http://119.164.216.162:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "gxdl-lhs.8866.org:85",
-            "ip": "gxdl-lhs.8866.org",
-            "port": 85,
-            "link": "http://gxdl-lhs.8866.org:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "183.223.157.33:85",
-            "ip": "183.223.157.33",
-            "port": 85,
-            "link": "http://183.223.157.33:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "xjayrf.eatuo.com:9901",
-            "ip": "xjayrf.eatuo.com",
-            "port": 9901,
-            "link": "http://xjayrf.eatuo.com:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.17.216.102:9901",
-            "ip": "218.17.216.102",
-            "port": 9901,
-            "link": "http://218.17.216.102:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "36.158.96.201:9901",
-            "ip": "36.158.96.201",
-            "port": 9901,
-            "link": "http://36.158.96.201:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "222.240.82.92:9901",
-            "ip": "222.240.82.92",
-            "port": 9901,
-            "link": "http://222.240.82.92:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "111.59.63.32:9901",
-            "ip": "111.59.63.32",
-            "port": 9901,
-            "link": "http://111.59.63.32:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "111.221.137.154:9901",
-            "ip": "111.221.137.154",
-            "port": 9901,
-            "link": "http://111.221.137.154:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "218.17.196.234:9901",
-            "ip": "218.17.196.234",
-            "port": 9901,
-            "link": "http://218.17.196.234:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "171.108.239.101:8181",
-            "ip": "171.108.239.101",
-            "port": 8181,
-            "link": "http://171.108.239.101:8181",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.25.252.226:9901",
-            "ip": "113.25.252.226",
-            "port": 9901,
-            "link": "http://113.25.252.226:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "113.90.154.189:9901",
-            "ip": "113.90.154.189",
-            "port": 9901,
-            "link": "http://113.90.154.189:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "183.62.8.58:50085",
-            "ip": "183.62.8.58",
-            "port": 50085,
-            "link": "http://183.62.8.58:50085",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "39.165.39.49:85",
-            "ip": "39.165.39.49",
-            "port": 85,
-            "link": "http://39.165.39.49:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.237.39.10:9901",
-            "ip": "120.237.39.10",
-            "port": 9901,
-            "link": "http://120.237.39.10:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "gfr.x3322.net:9901",
-            "ip": "gfr.x3322.net",
-            "port": 9901,
-            "link": "http://gfr.x3322.net:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "111.221.137.234:44330",
-            "ip": "111.221.137.234",
-            "port": 44330,
-            "link": "http://111.221.137.234:44330",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.7.175.154:85",
-            "ip": "221.7.175.154",
-            "port": 85,
-            "link": "http://221.7.175.154:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "122.224.58.42:85",
-            "ip": "122.224.58.42",
-            "port": 85,
-            "link": "http://122.224.58.42:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.198.84.146:9901",
-            "ip": "120.198.84.146",
-            "port": 9901,
-            "link": "http://120.198.84.146:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "49.234.31.101:7011",
-            "ip": "49.234.31.101",
-            "port": 7011,
-            "link": "http://49.234.31.101:7011",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "101.66.195.192:9901",
-            "ip": "101.66.195.192",
-            "port": 9901,
-            "link": "http://101.66.195.192:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "42.225.117.174:11199",
-            "ip": "42.225.117.174",
-            "port": 11199,
-            "link": "http://42.225.117.174:11199",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "39.165.39.49:19901",
-            "ip": "39.165.39.49",
-            "port": 19901,
-            "link": "http://39.165.39.49:19901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "116.128.243.121:85",
-            "ip": "116.128.243.121",
-            "port": 85,
-            "link": "http://116.128.243.121:85",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "116.76.254.170:44330",
-            "ip": "116.76.254.170",
-            "port": 44330,
-            "link": "http://116.76.254.170:44330",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "119.62.24.75:50085",
-            "ip": "119.62.24.75",
-            "port": 50085,
-            "link": "http://119.62.24.75:50085",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "221.7.49.226:50085",
-            "ip": "221.7.49.226",
-            "port": 50085,
-            "link": "http://221.7.49.226:50085",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "39.150.102.131:19901",
-            "ip": "39.150.102.131",
-            "port": 19901,
-            "link": "http://39.150.102.131:19901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "120.238.94.82:9901",
-            "ip": "120.238.94.82",
-            "port": 9901,
-            "link": "http://120.238.94.82:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "183.94.146.79:9901",
-            "ip": "183.94.146.79",
-            "port": 9901,
-            "link": "http://183.94.146.79:9901",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "123.118.55.165:45237",
-            "ip": "123.118.55.165",
-            "port": 45237,
-            "link": "http://123.118.55.165:45237",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "180.165.12.42:50001",
-            "ip": "180.165.12.42",
-            "port": 50001,
-            "link": "http://180.165.12.42:50001",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
@@ -2015,7 +105,17 @@
             "link": "http://112.27.145.212:9902",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.104.239.114:9901",
+            "ip": "218.104.239.114",
+            "port": 9901,
+            "link": "http://218.104.239.114:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
@@ -2025,87 +125,947 @@
             "link": "http://183.223.157.123:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "111.8.242.104:8088",
-            "ip": "111.8.242.104",
-            "port": 8088,
-            "link": "http://111.8.242.104:8088",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "txiptv"
-        },
-        {
-            "host": "139.214.181.174:9901",
-            "ip": "139.214.181.174",
+            "host": "183.237.95.108:9901",
+            "ip": "183.237.95.108",
             "port": 9901,
-            "link": "http://139.214.181.174:9901",
+            "link": "http://183.237.95.108:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "222.137.229.140:9901",
-            "ip": "222.137.229.140",
+            "host": "120.198.86.186:9901",
+            "ip": "120.198.86.186",
             "port": 9901,
-            "link": "http://222.137.229.140:9901",
+            "link": "http://120.198.86.186:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "101.66.199.20:9901",
-            "ip": "101.66.199.20",
+            "host": "120.198.95.220:9901",
+            "ip": "120.198.95.220",
             "port": 9901,
-            "link": "http://101.66.199.20:9901",
+            "link": "http://120.198.95.220:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "123.149.41.183:9901",
-            "ip": "123.149.41.183",
+            "host": "183.94.146.79:9901",
+            "ip": "183.94.146.79",
             "port": 9901,
-            "link": "http://123.149.41.183:9901",
+            "link": "http://183.94.146.79:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "222.241.154.37:9901",
-            "ip": "222.241.154.37",
+            "host": "123.138.216.44:9901",
+            "ip": "123.138.216.44",
             "port": 9901,
-            "link": "http://222.241.154.37:9901",
+            "link": "http://123.138.216.44:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "1b6467f415.iok.la:9931",
-            "ip": "1b6467f415.iok.la",
-            "port": 9931,
-            "link": "http://1b6467f415.iok.la:9931",
+            "host": "118.193.115.2:9901",
+            "ip": "118.193.115.2",
+            "port": 9901,
+            "link": "http://118.193.115.2:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
             "matchType": "txiptv"
         },
         {
-            "host": "39.152.103.17:8089",
-            "ip": "39.152.103.17",
-            "port": 8089,
-            "link": "http://39.152.103.17:8089",
+            "host": "111.59.139.82:11888",
+            "ip": "111.59.139.82",
+            "port": 11888,
+            "link": "http://111.59.139.82:11888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.7.175.154:8445",
+            "ip": "221.7.175.154",
+            "port": 8445,
+            "link": "http://221.7.175.154:8445",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.27.5.218:9901",
+            "ip": "112.27.5.218",
+            "port": 9901,
+            "link": "http://112.27.5.218:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.196.235.42:9901",
+            "ip": "120.196.235.42",
+            "port": 9901,
+            "link": "http://120.196.235.42:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "119.39.9.8:9901",
+            "ip": "119.39.9.8",
+            "port": 9901,
+            "link": "http://119.39.9.8:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "219.145.93.74:10000",
+            "ip": "219.145.93.74",
+            "port": 10000,
+            "link": "http://219.145.93.74:10000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "61.136.172.236:9901",
+            "ip": "61.136.172.236",
+            "port": 9901,
+            "link": "http://61.136.172.236:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "58.57.40.22:9901",
+            "ip": "58.57.40.22",
+            "port": 9901,
+            "link": "http://58.57.40.22:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "153.0.171.163:85",
+            "ip": "153.0.171.163",
+            "port": 85,
+            "link": "http://153.0.171.163:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.59.24.227:8181",
+            "ip": "111.59.24.227",
+            "port": 8181,
+            "link": "http://111.59.24.227:8181",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "139.227.221.147:9901",
+            "ip": "139.227.221.147",
+            "port": 9901,
+            "link": "http://139.227.221.147:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "61.178.227.57:9901",
+            "ip": "61.178.227.57",
+            "port": 9901,
+            "link": "http://61.178.227.57:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "115.150.63.77:9902",
+            "ip": "115.150.63.77",
+            "port": 9902,
+            "link": "http://115.150.63.77:9902",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "49.87.154.246:10091",
+            "ip": "49.87.154.246",
+            "port": 10091,
+            "link": "http://49.87.154.246:10091",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.7.175.127:9901",
+            "ip": "221.7.175.127",
+            "port": 9901,
+            "link": "http://221.7.175.127:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.99.195.122:65000",
+            "ip": "112.99.195.122",
+            "port": 65000,
+            "link": "http://112.99.195.122:65000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.4.82.49:8008",
+            "ip": "111.4.82.49",
+            "port": 8008,
+            "link": "http://111.4.82.49:8008",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "183.234.143.5:9902",
+            "ip": "183.234.143.5",
+            "port": 9902,
+            "link": "http://183.234.143.5:9902",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.169.85.8:9901",
+            "ip": "222.169.85.8",
+            "port": 9901,
+            "link": "http://222.169.85.8:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "124.165.251.82:85",
+            "ip": "124.165.251.82",
+            "port": 85,
+            "link": "http://124.165.251.82:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.234.22.76:9901",
+            "ip": "112.234.22.76",
+            "port": 9901,
+            "link": "http://112.234.22.76:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "59.39.89.130:60901",
+            "ip": "59.39.89.130",
+            "port": 60901,
+            "link": "http://59.39.89.130:60901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.134.245.16:9901",
+            "ip": "222.134.245.16",
+            "port": 9901,
+            "link": "http://222.134.245.16:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-35",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "116.128.243.121:85",
+            "ip": "116.128.243.121",
+            "port": 85,
+            "link": "http://116.128.243.121:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.30.73.119:229",
+            "ip": "112.30.73.119",
+            "port": 229,
+            "link": "http://112.30.73.119:229",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.25.252.226:9901",
+            "ip": "113.25.252.226",
+            "port": 9901,
+            "link": "http://113.25.252.226:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.30.73.119:9901",
+            "ip": "112.30.73.119",
+            "port": 9901,
+            "link": "http://112.30.73.119:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "223.78.65.165:9901",
+            "ip": "223.78.65.165",
+            "port": 9901,
+            "link": "http://223.78.65.165:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.15.109.216:59901",
+            "ip": "113.15.109.216",
+            "port": 59901,
+            "link": "http://113.15.109.216:59901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.13.170.98:9901",
+            "ip": "218.13.170.98",
+            "port": 9901,
+            "link": "http://218.13.170.98:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "153.0.171.163:9901",
+            "ip": "153.0.171.163",
+            "port": 9901,
+            "link": "http://153.0.171.163:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "110.72.55.22:8181",
+            "ip": "110.72.55.22",
+            "port": 8181,
+            "link": "http://110.72.55.22:8181",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.221.137.78:8000",
+            "ip": "221.221.137.78",
+            "port": 8000,
+            "link": "http://221.221.137.78:8000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.221.137.78:9000",
+            "ip": "221.221.137.78",
+            "port": 9000,
+            "link": "http://221.221.137.78:9000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.198.86.251:9901",
+            "ip": "120.198.86.251",
+            "port": 9901,
+            "link": "http://120.198.86.251:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.13.139.26:9901",
+            "ip": "218.13.139.26",
+            "port": 9901,
+            "link": "http://218.13.139.26:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.70.60.179:9901",
+            "ip": "120.70.60.179",
+            "port": 9901,
+            "link": "http://120.70.60.179:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.26.202.52:1299",
+            "ip": "113.26.202.52",
+            "port": 1299,
+            "link": "http://113.26.202.52:1299",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "183.239.248.218:8181",
+            "ip": "183.239.248.218",
+            "port": 8181,
+            "link": "http://183.239.248.218:8181",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.237.39.10:9901",
+            "ip": "120.237.39.10",
+            "port": 9901,
+            "link": "http://120.237.39.10:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "139.214.181.125:9901",
+            "ip": "139.214.181.125",
+            "port": 9901,
+            "link": "http://139.214.181.125:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.65.162.27:9901",
+            "ip": "113.65.162.27",
+            "port": 9901,
+            "link": "http://113.65.162.27:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.65.162.234:9901",
+            "ip": "113.65.162.234",
+            "port": 9901,
+            "link": "http://113.65.162.234:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.65.162.153:9901",
+            "ip": "113.65.162.153",
+            "port": 9901,
+            "link": "http://113.65.162.153:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.71.55.147:9901",
+            "ip": "222.71.55.147",
+            "port": 9901,
+            "link": "http://222.71.55.147:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "139.227.221.198:9901",
+            "ip": "139.227.221.198",
+            "port": 9901,
+            "link": "http://139.227.221.198:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "61.143.43.2:9901",
+            "ip": "61.143.43.2",
+            "port": 9901,
+            "link": "http://61.143.43.2:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "super8gb.x3322.net:9901",
+            "ip": "super8gb.x3322.net",
+            "port": 9901,
+            "link": "http://super8gb.x3322.net:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "124.90.45.52:9901",
+            "ip": "124.90.45.52",
+            "port": 9901,
+            "link": "http://124.90.45.52:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.77.84.102:85",
+            "ip": "218.77.84.102",
+            "port": 85,
+            "link": "http://218.77.84.102:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "116.77.33.98:44330",
+            "ip": "116.77.33.98",
+            "port": 44330,
+            "link": "http://116.77.33.98:44330",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "124.116.183.146:9901",
+            "ip": "124.116.183.146",
+            "port": 9901,
+            "link": "http://124.116.183.146:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "112.99.193.34:9901",
+            "ip": "112.99.193.34",
+            "port": 9901,
+            "link": "http://112.99.193.34:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "124.228.160.112:9901",
+            "ip": "124.228.160.112",
+            "port": 9901,
+            "link": "http://124.228.160.112:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.198.18:9901",
+            "ip": "101.66.198.18",
+            "port": 9901,
+            "link": "http://101.66.198.18:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.198.84:9901",
+            "ip": "101.66.198.84",
+            "port": 9901,
+            "link": "http://101.66.198.84:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.194.29:9901",
+            "ip": "101.66.194.29",
+            "port": 9901,
+            "link": "http://101.66.194.29:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.198.184:9901",
+            "ip": "101.66.198.184",
+            "port": 9901,
+            "link": "http://101.66.198.184:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.194.176:9901",
+            "ip": "101.66.194.176",
+            "port": 9901,
+            "link": "http://101.66.194.176:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.198.234:9901",
+            "ip": "101.66.198.234",
+            "port": 9901,
+            "link": "http://101.66.198.234:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "121.19.134.149:808",
+            "ip": "121.19.134.149",
+            "port": 808,
+            "link": "http://121.19.134.149:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "182.32.204.113:9901",
+            "ip": "182.32.204.113",
+            "port": 9901,
+            "link": "http://182.32.204.113:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "119.164.216.162:9901",
+            "ip": "119.164.216.162",
+            "port": 9901,
+            "link": "http://119.164.216.162:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "gxdl-lhs.8866.org:85",
+            "ip": "gxdl-lhs.8866.org",
+            "port": 85,
+            "link": "http://gxdl-lhs.8866.org:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "183.223.157.33:85",
+            "ip": "183.223.157.33",
+            "port": 85,
+            "link": "http://183.223.157.33:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "xjayrf.eatuo.com:9901",
+            "ip": "xjayrf.eatuo.com",
+            "port": 9901,
+            "link": "http://xjayrf.eatuo.com:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.17.216.102:9901",
+            "ip": "218.17.216.102",
+            "port": 9901,
+            "link": "http://218.17.216.102:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "36.158.96.201:9901",
+            "ip": "36.158.96.201",
+            "port": 9901,
+            "link": "http://36.158.96.201:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.240.82.92:9901",
+            "ip": "222.240.82.92",
+            "port": 9901,
+            "link": "http://222.240.82.92:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.59.63.32:9901",
+            "ip": "111.59.63.32",
+            "port": 9901,
+            "link": "http://111.59.63.32:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.221.137.154:9901",
+            "ip": "111.221.137.154",
+            "port": 9901,
+            "link": "http://111.221.137.154:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "218.17.196.234:9901",
+            "ip": "218.17.196.234",
+            "port": 9901,
+            "link": "http://218.17.196.234:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "171.108.239.101:8181",
+            "ip": "171.108.239.101",
+            "port": 8181,
+            "link": "http://171.108.239.101:8181",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "113.90.154.189:9901",
+            "ip": "113.90.154.189",
+            "port": 9901,
+            "link": "http://113.90.154.189:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "183.62.8.58:50085",
+            "ip": "183.62.8.58",
+            "port": 50085,
+            "link": "http://183.62.8.58:50085",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "39.165.39.49:85",
+            "ip": "39.165.39.49",
+            "port": 85,
+            "link": "http://39.165.39.49:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.238.94.82:9901",
+            "ip": "120.238.94.82",
+            "port": 9901,
+            "link": "http://120.238.94.82:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "61.138.128.226:29901",
+            "ip": "61.138.128.226",
+            "port": 29901,
+            "link": "http://61.138.128.226:29901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "gfr.x3322.net:9901",
+            "ip": "gfr.x3322.net",
+            "port": 9901,
+            "link": "http://gfr.x3322.net:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "110.72.87.129:8181",
+            "ip": "110.72.87.129",
+            "port": 8181,
+            "link": "http://110.72.87.129:8181",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.221.137.234:44330",
+            "ip": "111.221.137.234",
+            "port": 44330,
+            "link": "http://111.221.137.234:44330",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.198.84.146:9901",
+            "ip": "120.198.84.146",
+            "port": 9901,
+            "link": "http://120.198.84.146:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.7.175.154:85",
+            "ip": "221.7.175.154",
+            "port": 85,
+            "link": "http://221.7.175.154:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "122.224.58.42:85",
+            "ip": "122.224.58.42",
+            "port": 85,
+            "link": "http://122.224.58.42:85",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "zzssw01.55555.io:9901",
+            "ip": "zzssw01.55555.io",
+            "port": 9901,
+            "link": "http://zzssw01.55555.io:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "42.225.117.174:11199",
+            "ip": "42.225.117.174",
+            "port": 11199,
+            "link": "http://42.225.117.174:11199",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "39.165.39.49:19901",
+            "ip": "39.165.39.49",
+            "port": 19901,
+            "link": "http://39.165.39.49:19901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "116.76.254.170:44330",
+            "ip": "116.76.254.170",
+            "port": 44330,
+            "link": "http://116.76.254.170:44330",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2115,7 +1075,137 @@
             "link": "http://112.123.243.37:50085",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "119.62.24.75:50085",
+            "ip": "119.62.24.75",
+            "port": 50085,
+            "link": "http://119.62.24.75:50085",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "221.7.49.226:50085",
+            "ip": "221.7.49.226",
+            "port": 50085,
+            "link": "http://221.7.49.226:50085",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "39.150.102.131:19901",
+            "ip": "39.150.102.131",
+            "port": 19901,
+            "link": "http://39.150.102.131:19901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "123.118.55.165:45237",
+            "ip": "123.118.55.165",
+            "port": 45237,
+            "link": "http://123.118.55.165:45237",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "180.165.12.42:50001",
+            "ip": "180.165.12.42",
+            "port": 50001,
+            "link": "http://180.165.12.42:50001",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "111.8.242.104:8088",
+            "ip": "111.8.242.104",
+            "port": 8088,
+            "link": "http://111.8.242.104:8088",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "139.214.181.174:9901",
+            "ip": "139.214.181.174",
+            "port": 9901,
+            "link": "http://139.214.181.174:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.137.229.140:9901",
+            "ip": "222.137.229.140",
+            "port": 9901,
+            "link": "http://222.137.229.140:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "101.66.199.20:9901",
+            "ip": "101.66.199.20",
+            "port": 9901,
+            "link": "http://101.66.199.20:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "123.149.41.183:9901",
+            "ip": "123.149.41.183",
+            "port": 9901,
+            "link": "http://123.149.41.183:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "222.241.154.37:9901",
+            "ip": "222.241.154.37",
+            "port": 9901,
+            "link": "http://222.241.154.37:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "1b6467f415.iok.la:9931",
+            "ip": "1b6467f415.iok.la",
+            "port": 9931,
+            "link": "http://1b6467f415.iok.la:9931",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "39.152.103.17:8089",
+            "ip": "39.152.103.17",
+            "port": 8089,
+            "link": "http://39.152.103.17:8089",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2125,7 +1215,17 @@
             "link": "http://8.137.121.66:20240",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "gd202.tv1288.xyz",
+            "ip": "gd202.tv1288.xyz",
+            "port": 80,
+            "link": "http://gd202.tv1288.xyz",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2135,7 +1235,7 @@
             "link": "http://58.220.219.14:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2145,7 +1245,7 @@
             "link": "http://58.19.38.162:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2155,7 +1255,7 @@
             "link": "http://58.221.214.82:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2165,7 +1265,7 @@
             "link": "http://61.157.139.15:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2175,7 +1275,7 @@
             "link": "http://61.156.228.12:8154",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2185,7 +1285,7 @@
             "link": "http://219.159.91.10:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2195,7 +1295,7 @@
             "link": "http://61.138.128.226:19901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2205,7 +1305,7 @@
             "link": "http://101.19.84.8:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2215,7 +1315,7 @@
             "link": "http://116.128.242.83:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2225,7 +1325,7 @@
             "link": "http://110.80.17.38:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2235,7 +1335,7 @@
             "link": "http://121.19.134.222:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2245,7 +1345,7 @@
             "link": "http://58.19.43.46:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2255,7 +1355,7 @@
             "link": "http://123.138.22.30:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2265,7 +1365,7 @@
             "link": "http://183.131.246.250:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2275,7 +1375,7 @@
             "link": "http://220.164.192.48:50085",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2285,7 +1385,7 @@
             "link": "http://124.128.73.58:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2295,7 +1395,7 @@
             "link": "http://120.238.94.10:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2305,7 +1405,7 @@
             "link": "http://58.243.224.244:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2315,7 +1415,7 @@
             "link": "http://111.160.17.2:59901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2325,7 +1425,7 @@
             "link": "http://119.36.148.115:59901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2335,7 +1435,7 @@
             "link": "http://123.132.233.194:352",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2345,7 +1445,7 @@
             "link": "http://218.15.183.23:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2355,7 +1455,7 @@
             "link": "http://183.3.134.56:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2365,7 +1465,7 @@
             "link": "http://121.33.239.242:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2375,7 +1475,7 @@
             "link": "http://mom.coms.hk:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2385,7 +1485,7 @@
             "link": "http://120.198.101.106:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2395,7 +1495,7 @@
             "link": "http://180.213.174.225:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2405,7 +1505,7 @@
             "link": "http://110.53.218.182:9902",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2415,7 +1515,7 @@
             "link": "http://www.peanutbar.cn:8099",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2425,7 +1525,7 @@
             "link": "http://183.94.1.118:8801",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2435,7 +1535,7 @@
             "link": "http://113.57.93.165:9900",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2445,7 +1545,7 @@
             "link": "http://113.57.20.158:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2455,7 +1555,7 @@
             "link": "http://116.9.204.242:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2465,7 +1565,7 @@
             "link": "http://119.6.59.216:60033",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2475,7 +1575,7 @@
             "link": "http://113.200.148.203:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2485,7 +1585,7 @@
             "link": "http://60.209.125.254:352",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2495,7 +1595,7 @@
             "link": "http://110.81.206.138:49231",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2505,7 +1605,7 @@
             "link": "http://61.163.181.78:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2515,7 +1615,7 @@
             "link": "http://61.163.181.78:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2525,7 +1625,7 @@
             "link": "http://123.129.70.178:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2535,7 +1635,7 @@
             "link": "http://111.14.181.15:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2545,7 +1645,7 @@
             "link": "http://221.2.148.205:8154",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2555,7 +1655,7 @@
             "link": "http://123.130.84.106:8154",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2565,7 +1665,7 @@
             "link": "http://tv.zzlag.top:9087",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2575,7 +1675,7 @@
             "link": "http://218.17.33.178:53290",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2585,7 +1685,7 @@
             "link": "http://183.223.157.33:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2595,7 +1695,7 @@
             "link": "http://120.202.94.181:9446",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2605,7 +1705,7 @@
             "link": "http://101.66.198.83:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2615,7 +1715,7 @@
             "link": "http://221.13.235.203:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2625,7 +1725,7 @@
             "link": "http://1.197.203.33:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2635,7 +1735,7 @@
             "link": "http://111.8.224.6:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2645,7 +1745,7 @@
             "link": "http://111.8.242.142:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2655,7 +1755,7 @@
             "link": "http://139.214.181.142:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2665,7 +1765,7 @@
             "link": "http://111.8.242.127:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2675,7 +1775,7 @@
             "link": "http://119.166.53.110:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2685,7 +1785,7 @@
             "link": "http://61.184.46.85:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2695,7 +1795,7 @@
             "link": "http://101.66.198.164:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2705,7 +1805,7 @@
             "link": "http://101.66.199.183:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2715,7 +1815,7 @@
             "link": "http://222.214.208.34:59901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2725,7 +1825,7 @@
             "link": "http://211.92.102.44:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2735,7 +1835,7 @@
             "link": "http://1.192.152.76:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2745,7 +1845,7 @@
             "link": "http://27.15.4.131:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2755,7 +1855,7 @@
             "link": "http://60.187.246.137:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2765,7 +1865,7 @@
             "link": "http://221.13.235.4:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2775,7 +1875,7 @@
             "link": "http://125.125.234.143:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2785,7 +1885,7 @@
             "link": "http://171.43.64.195:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2795,7 +1895,7 @@
             "link": "http://110.72.61.221:8181",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2805,7 +1905,7 @@
             "link": "http://110.6.204.65:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2815,7 +1915,7 @@
             "link": "http://221.13.235.120:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2825,7 +1925,7 @@
             "link": "http://123.163.114.168:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2835,7 +1935,7 @@
             "link": "http://123.163.114.168:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2845,7 +1945,7 @@
             "link": "http://223.75.149.129:9906",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2855,7 +1955,7 @@
             "link": "http://101.66.199.101:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2865,7 +1965,7 @@
             "link": "http://124.234.172.108:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2875,7 +1975,7 @@
             "link": "http://182.114.48.52:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2885,7 +1985,7 @@
             "link": "http://123.118.53.84:45237",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2895,7 +1995,7 @@
             "link": "http://115.207.211.191:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2905,7 +2005,7 @@
             "link": "http://114.241.111.140:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2915,7 +2015,7 @@
             "link": "http://sun135790.x3322.net:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2925,7 +2025,7 @@
             "link": "http://220.187.222.240:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2935,7 +2035,7 @@
             "link": "http://219.146.95.58:59902",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2945,7 +2045,7 @@
             "link": "http://222.136.68.235:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2955,7 +2055,7 @@
             "link": "http://27.39.122.2:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2965,7 +2065,17 @@
             "link": "http://111.221.137.155:44330",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "txiptv"
+        },
+        {
+            "host": "120.238.85.131:9901",
+            "ip": "120.238.85.131",
+            "port": 9901,
+            "link": "http://120.238.85.131:9901",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2975,7 +2085,7 @@
             "link": "http://58.255.200.180:10443",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2985,7 +2095,7 @@
             "link": "http://101.66.195.169:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -2995,7 +2105,7 @@
             "link": "http://125.43.249.130:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3005,7 +2115,7 @@
             "link": "http://221.13.235.245:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3015,7 +2125,7 @@
             "link": "http://42.231.221.33:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3025,7 +2135,7 @@
             "link": "http://39.164.143.66:13994",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3035,7 +2145,7 @@
             "link": "http://144.52.161.112:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3045,7 +2155,7 @@
             "link": "http://61.184.46.85:85",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3055,7 +2165,7 @@
             "link": "http://36.36.200.196:44330",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3065,7 +2175,7 @@
             "link": "http://113.218.204.144:9002",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3075,7 +2185,7 @@
             "link": "http://hczn.x3322.net:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3085,7 +2195,7 @@
             "link": "http://jiugong.wulinsy.cn:39901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3095,7 +2205,7 @@
             "link": "http://genglei.8866.org:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3105,7 +2215,7 @@
             "link": "http://110.80.17.38:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3115,7 +2225,7 @@
             "link": "http://58.245.255.38:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3125,7 +2235,7 @@
             "link": "http://tpc.x3322.net:9901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
@@ -3135,107 +2245,17 @@
             "link": "http://183.215.134.239:19901",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "txiptv"
         },
         {
-            "host": "121.57.88.206:898",
-            "ip": "121.57.88.206",
-            "port": 898,
-            "link": "http://121.57.88.206:898",
+            "host": "112.46.85.60:8009",
+            "ip": "112.46.85.60",
+            "port": 8009,
+            "link": "http://112.46.85.60:8009",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "183.196.87.176:880",
-            "ip": "183.196.87.176",
-            "port": 880,
-            "link": "http://183.196.87.176:880",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "183.129.255.66:8480",
-            "ip": "183.129.255.66",
-            "port": 8480,
-            "link": "http://183.129.255.66:8480",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "222.223.41.27:8888",
-            "ip": "222.223.41.27",
-            "port": 8888,
-            "link": "http://222.223.41.27:8888",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "61.221.215.25:8800",
-            "ip": "61.221.215.25",
-            "port": 8800,
-            "link": "http://61.221.215.25:8800",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "zmgd.zyrnet.com:8888",
-            "ip": "zmgd.zyrnet.com",
-            "port": 8888,
-            "link": "http://zmgd.zyrnet.com:8888",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "116.228.170.214:9003",
-            "ip": "116.228.170.214",
-            "port": 9003,
-            "link": "http://116.228.170.214:9003",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "nklive.nbs.cn",
-            "ip": "nklive.nbs.cn",
-            "port": 80,
-            "link": "http://nklive.nbs.cn",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "ak.cj022.com:10080",
-            "ip": "ak.cj022.com",
-            "port": 10080,
-            "link": "http://ak.cj022.com:10080",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "gmxw.7766.org:808",
-            "ip": "gmxw.7766.org",
-            "port": 808,
-            "link": "http://gmxw.7766.org:808",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3245,7 +2265,117 @@
             "link": "http://183.11.239.36:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "116.228.170.214:9003",
+            "ip": "116.228.170.214",
+            "port": 9003,
+            "link": "http://116.228.170.214:9003",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "nklive.nbs.cn",
+            "ip": "nklive.nbs.cn",
+            "port": 80,
+            "link": "http://nklive.nbs.cn",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "gmxw.7766.org:808",
+            "ip": "gmxw.7766.org",
+            "port": 808,
+            "link": "http://gmxw.7766.org:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "zmgd.zyrnet.com:8888",
+            "ip": "zmgd.zyrnet.com",
+            "port": 8888,
+            "link": "http://zmgd.zyrnet.com:8888",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "61.221.215.25:8800",
+            "ip": "61.221.215.25",
+            "port": 8800,
+            "link": "http://61.221.215.25:8800",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "ak.cj022.com:10080",
+            "ip": "ak.cj022.com",
+            "port": 10080,
+            "link": "http://ak.cj022.com:10080",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "121.57.88.206:898",
+            "ip": "121.57.88.206",
+            "port": 898,
+            "link": "http://121.57.88.206:898",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "183.196.87.176:880",
+            "ip": "183.196.87.176",
+            "port": 880,
+            "link": "http://183.196.87.176:880",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "183.129.255.66:8480",
+            "ip": "183.129.255.66",
+            "port": 8480,
+            "link": "http://183.129.255.66:8480",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "222.223.41.27:8888",
+            "ip": "222.223.41.27",
+            "port": 8888,
+            "link": "http://222.223.41.27:8888",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "120.211.62.180:8000",
+            "ip": "120.211.62.180",
+            "port": 8000,
+            "link": "http://120.211.62.180:8000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3255,7 +2385,47 @@
             "link": "http://60.223.94.230:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "110.72.66.3:808",
+            "ip": "110.72.66.3",
+            "port": 808,
+            "link": "http://110.72.66.3:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "110.72.64.187:808",
+            "ip": "110.72.64.187",
+            "port": 808,
+            "link": "http://110.72.64.187:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "110.72.64.226:808",
+            "ip": "110.72.64.226",
+            "port": 808,
+            "link": "http://110.72.64.226:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "60.10.50.14:808",
+            "ip": "60.10.50.14",
+            "port": 808,
+            "link": "http://60.10.50.14:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3265,7 +2435,7 @@
             "link": "http://61.138.99.166:1080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3275,7 +2445,7 @@
             "link": "http://112.27.235.94:8000",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3285,7 +2455,7 @@
             "link": "http://feiyuegang.ufycb.com:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3295,7 +2465,7 @@
             "link": "http://183.196.33.171:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3305,7 +2475,7 @@
             "link": "http://111.225.92.130:8800",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3315,7 +2485,7 @@
             "link": "http://222.244.113.235:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3325,7 +2495,7 @@
             "link": "http://live.zhgbtv.cn:3100",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3335,7 +2505,7 @@
             "link": "http://110.72.59.126:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3345,7 +2515,7 @@
             "link": "http://110.72.66.25:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3355,7 +2525,7 @@
             "link": "http://171.12.189.27:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3365,7 +2535,7 @@
             "link": "http://60.220.167.189:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3375,7 +2545,7 @@
             "link": "http://123.52.8.82:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3385,7 +2555,7 @@
             "link": "http://api.kkitv.itv888.cn:8080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3395,7 +2565,7 @@
             "link": "http://182.150.112.112:2025",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3405,7 +2575,7 @@
             "link": "http://114.242.62.109:888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3415,7 +2585,7 @@
             "link": "http://gdsport.ccwu.cc",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3425,7 +2595,7 @@
             "link": "http://183.237.240.235:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3435,7 +2605,7 @@
             "link": "http://120.238.5.44:1698",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3445,7 +2615,7 @@
             "link": "http://gd.wsd.gd.cn:1698",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3455,67 +2625,27 @@
             "link": "http://211.97.63.3:3443",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
-            "host": "183.239.108.37:1698",
-            "ip": "183.239.108.37",
-            "port": 1698,
-            "link": "http://183.239.108.37:1698",
+            "host": "113.26.251.182:8009",
+            "ip": "113.26.251.182",
+            "port": 8009,
+            "link": "http://113.26.251.182:8009",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
-            "host": "1.24.39.180:808",
-            "ip": "1.24.39.180",
-            "port": 808,
-            "link": "http://1.24.39.180:808",
+            "host": "112.92.129.96:9898",
+            "ip": "112.92.129.96",
+            "port": 9898,
+            "link": "http://112.92.129.96:9898",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "113.195.172.192:1808",
-            "ip": "113.195.172.192",
-            "port": 1808,
-            "link": "http://113.195.172.192:1808",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "183.237.71.182:40000",
-            "ip": "183.237.71.182",
-            "port": 40000,
-            "link": "http://183.237.71.182:40000",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "27.129.145.110:4433",
-            "ip": "27.129.145.110",
-            "port": 4433,
-            "link": "http://27.129.145.110:4433",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "zhgxtv"
-        },
-        {
-            "host": "0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999",
-            "ip": "0c13e1c9e82e5635-web.nnl5-link.sczhgx.com",
-            "port": 8999,
-            "link": "http://0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3525,7 +2655,67 @@
             "link": "http://218.206.193.218:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "1.24.39.180:808",
+            "ip": "1.24.39.180",
+            "port": 808,
+            "link": "http://1.24.39.180:808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "183.239.108.37:1698",
+            "ip": "183.239.108.37",
+            "port": 1698,
+            "link": "http://183.239.108.37:1698",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "113.195.172.192:1808",
+            "ip": "113.195.172.192",
+            "port": 1808,
+            "link": "http://113.195.172.192:1808",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "183.237.71.182:40000",
+            "ip": "183.237.71.182",
+            "port": 40000,
+            "link": "http://183.237.71.182:40000",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "27.129.145.110:4433",
+            "ip": "27.129.145.110",
+            "port": 4433,
+            "link": "http://27.129.145.110:4433",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999",
+            "ip": "0c13e1c9e82e5635-web.nnl5-link.sczhgx.com",
+            "port": 8999,
+            "link": "http://0c13e1c9e82e5635-web.nnl5-link.sczhgx.com:8999",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3535,7 +2725,7 @@
             "link": "http://182.140.125.47:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3545,7 +2735,7 @@
             "link": "http://hmfs.f3322.net:3388",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3555,7 +2745,7 @@
             "link": "http://112.92.128.71:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3565,7 +2755,7 @@
             "link": "http://123.175.209.118:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3575,7 +2765,7 @@
             "link": "http://1.24.190.98:10080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3585,7 +2775,7 @@
             "link": "http://avd.iptviptv.site:9694",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3595,7 +2785,7 @@
             "link": "http://gongzhuling.lnott.top:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3605,7 +2795,7 @@
             "link": "http://118.122.2.29:9999",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3615,7 +2805,7 @@
             "link": "http://110.185.237.164:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3625,7 +2815,7 @@
             "link": "http://113.64.146.48:1688",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3635,7 +2825,7 @@
             "link": "http://139.211.217.79:9004",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3645,7 +2835,7 @@
             "link": "http://110.53.54.122:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3655,7 +2845,7 @@
             "link": "http://1.31.14.70:54321",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3665,7 +2855,7 @@
             "link": "http://111.61.236.247:9081",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3675,7 +2865,7 @@
             "link": "http://42.49.129.136:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3685,7 +2875,7 @@
             "link": "http://112.123.206.32:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3695,7 +2885,7 @@
             "link": "http://1.24.39.180:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3705,7 +2895,7 @@
             "link": "http://58.17.48.228:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3715,7 +2905,7 @@
             "link": "http://ms.fxim.net:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3725,7 +2915,7 @@
             "link": "http://220.161.87.62:8800",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3735,7 +2925,7 @@
             "link": "http://220.161.87.62:8090",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3745,7 +2935,7 @@
             "link": "http://10.8.8.200:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3755,7 +2945,7 @@
             "link": "http://221.225.162.96:9004",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3765,7 +2955,7 @@
             "link": "http://182.150.23.74:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3775,7 +2965,7 @@
             "link": "http://27.41.245.32:801",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3785,7 +2975,17 @@
             "link": "http://113.9.214.47:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "zhgxtv"
+        },
+        {
+            "host": "cssbyd.imwork.net:8082",
+            "ip": "cssbyd.imwork.net",
+            "port": 8082,
+            "link": "http://cssbyd.imwork.net:8082",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3795,7 +2995,7 @@
             "link": "http://171.38.148.188:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3805,7 +3005,7 @@
             "link": "http://60.16.0.216:5757",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3815,7 +3015,7 @@
             "link": "http://113.195.172.192:808",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3825,7 +3025,7 @@
             "link": "http://42.227.89.97:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3835,7 +3035,7 @@
             "link": "http://113.101.119.74:8090",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3845,7 +3045,7 @@
             "link": "http://1.190.240.47:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3855,7 +3055,7 @@
             "link": "http://112.27.67.154:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3865,7 +3065,7 @@
             "link": "http://61.161.61.119:9004",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3875,7 +3075,7 @@
             "link": "http://112.46.105.20:8009",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3885,7 +3085,7 @@
             "link": "http://nmxlive.akamaized.net",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3895,7 +3095,7 @@
             "link": "http://111.43.126.240:9003",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
@@ -3905,17 +3105,17 @@
             "link": "http://btjg.net:809",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "zhgxtv"
         },
         {
-            "host": "113.57.140.161:10081",
-            "ip": "113.57.140.161",
-            "port": 10081,
-            "link": "http://113.57.140.161:10081",
+            "host": "223.112.114.228:50080",
+            "ip": "223.112.114.228",
+            "port": 50080,
+            "link": "http://223.112.114.228:50080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3925,7 +3125,17 @@
             "link": "http://221.226.51.220:50081",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "hsmdtv"
+        },
+        {
+            "host": "113.57.140.161:10081",
+            "ip": "113.57.140.161",
+            "port": 10081,
+            "link": "http://113.57.140.161:10081",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3935,7 +3145,7 @@
             "link": "http://61.162.52.6:8088",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3945,7 +3155,7 @@
             "link": "http://120.40.39.246:352",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3955,7 +3165,7 @@
             "link": "http://219.147.245.238:25480",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3965,7 +3175,7 @@
             "link": "http://118.122.144.115:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3975,7 +3185,7 @@
             "link": "http://58.56.162.102:4466",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -3985,17 +3195,7 @@
             "link": "http://221.226.51.220:50080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
-            "matchType": "hsmdtv"
-        },
-        {
-            "host": "223.112.114.228:50080",
-            "ip": "223.112.114.228",
-            "port": 50080,
-            "link": "http://223.112.114.228:50080",
-            "source": "1",
-            "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4005,7 +3205,7 @@
             "link": "http://27.223.110.214:8009",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4015,7 +3215,17 @@
             "link": "http://123.147.78.145:8089",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
+            "matchType": "hsmdtv"
+        },
+        {
+            "host": "183.250.156.180:9999",
+            "ip": "183.250.156.180",
+            "port": 9999,
+            "link": "http://183.250.156.180:9999",
+            "source": "1",
+            "org": "Unknown",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4025,7 +3235,7 @@
             "link": "http://110.16.65.6:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4035,7 +3245,7 @@
             "link": "http://221.2.36.34:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4045,7 +3255,7 @@
             "link": "http://221.213.43.82:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4055,7 +3265,7 @@
             "link": "http://222.71.90.218:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4065,7 +3275,7 @@
             "link": "http://36.32.174.67:60080",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4075,7 +3285,7 @@
             "link": "http://113.140.12.230:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4085,7 +3295,7 @@
             "link": "http://58.210.168.86:10800",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4095,7 +3305,7 @@
             "link": "http://110.53.52.63:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         },
         {
@@ -4105,7 +3315,7 @@
             "link": "http://60.223.224.176:8888",
             "source": "1",
             "org": "Unknown",
-            "updateTime": "2026-10-28 04-03-57",
+            "updateTime": "2026-10-29 04-27-36",
             "matchType": "hsmdtv"
         }
     ]
