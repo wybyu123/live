@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="3" group-title="http://120.209.208.163:9003" tvg-logo="",3
+http://120.209.208.163:9003/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="4" group-title="http://120.209.208.163:9003" tvg-logo="",4
+http://120.209.208.163:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="http://139.211.217.79:9004" tvg-logo="",CCTV1
 http://139.211.217.79:9004/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="http://139.211.217.79:9004" tvg-logo="",CCTV2
@@ -113,7 +117,3 @@ http://139.211.217.79:9004/hls/75/index.m3u8
 http://139.211.217.79:9004/hls/85/index.m3u8
 #EXTINF:-1 tvg-name="长影频道" group-title="http://139.211.217.79:9004" tvg-logo="",长影频道
 http://139.211.217.79:9004/hls/74/index.m3u8
-#EXTINF:-1 tvg-name="3" group-title="http://120.209.208.163:9003" tvg-logo="",3
-http://120.209.208.163:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="4" group-title="http://120.209.208.163:9003" tvg-logo="",4
-http://120.209.208.163:9003/hls/4/index.m3u8
