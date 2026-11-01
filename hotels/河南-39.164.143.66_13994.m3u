@@ -143,7 +143,7 @@ http://39.164.143.66:13994/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=
 http://39.164.143.66:13994/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="中国天气" group-title="39.164.143.66:13994",中国天气
 http://39.164.143.66:13994/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="财富天下" group-title="39.164.143.66:13994",财富天下
+#EXTINF:-1 tvg-name="三沙卫视" group-title="39.164.143.66:13994",三沙卫视
 http://39.164.143.66:13994/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="安庆新闻" group-title="39.164.143.66:13994",安庆新闻
 http://39.164.143.66:13994/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -175,3 +175,7 @@ http://39.164.143.66:13994/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=
 http://39.164.143.66:13994/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" group-title="39.164.143.66:13994",深圳卫视
 http://39.164.143.66:13994/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="海南卫视" group-title="39.164.143.66:13994",海南卫视
+http://39.164.143.66:13994/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTN" group-title="39.164.143.66:13994",CCTN
+http://39.164.143.66:13994/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
