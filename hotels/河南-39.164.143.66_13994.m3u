@@ -57,6 +57,8 @@ http://39.164.143.66:13994/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=
 http://39.164.143.66:13994/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="梨园频道" group-title="39.164.143.66:13994",梨园频道
 http://39.164.143.66:13994/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="戏曲娱乐" group-title="39.164.143.66:13994",戏曲娱乐
+http://39.164.143.66:13994/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="39.164.143.66:13994",金鹰卡通
 http://39.164.143.66:13994/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="优漫卡通" group-title="39.164.143.66:13994",优漫卡通
@@ -95,6 +97,8 @@ http://39.164.143.66:13994/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=
 http://39.164.143.66:13994/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" group-title="39.164.143.66:13994",贵州卫视
 http://39.164.143.66:13994/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" group-title="39.164.143.66:13994",贵州卫视
+http://39.164.143.66:13994/tsfile/live/0120_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="四川卫视" group-title="39.164.143.66:13994",四川卫视
 http://39.164.143.66:13994/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江西卫视" group-title="39.164.143.66:13994",江西卫视
@@ -147,27 +151,27 @@ http://39.164.143.66:13994/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=
 http://39.164.143.66:13994/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="热播剧场" group-title="39.164.143.66:13994",热播剧场
 http://39.164.143.66:13994/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="戏曲娱乐" group-title="39.164.143.66:13994",戏曲娱乐
-http://39.164.143.66:13994/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="齐鲁频道" group-title="39.164.143.66:13994",齐鲁频道
+#EXTINF:-1 tvg-name="民生频道" group-title="39.164.143.66:13994",民生频道
 http://39.164.143.66:13994/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="环球影视" group-title="39.164.143.66:13994",环球影视
 http://39.164.143.66:13994/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="民生频道" group-title="39.164.143.66:13994",民生频道
+#EXTINF:-1 tvg-name="幸运影视" group-title="39.164.143.66:13994",幸运影视
+http://39.164.143.66:13994/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="百乐电影" group-title="39.164.143.66:13994",百乐电影
 http://39.164.143.66:13994/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安多卫视" group-title="39.164.143.66:13994",安多卫视
 http://39.164.143.66:13994/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="蒙古语卫视" group-title="39.164.143.66:13994",蒙古语卫视
 http://39.164.143.66:13994/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="幸运影视" group-title="39.164.143.66:13994",幸运影视
-http://39.164.143.66:13994/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" group-title="39.164.143.66:13994",深圳卫视
-http://39.164.143.66:13994/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="海南卫视" group-title="39.164.143.66:13994",海南卫视
 http://39.164.143.66:13994/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTN" group-title="39.164.143.66:13994",CCTN
-http://39.164.143.66:13994/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="厦门卫视" group-title="39.164.143.66:13994",厦门卫视
 http://39.164.143.66:13994/tsfile/live/0129_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="39.164.143.66:13994",山东教育卫视
 http://39.164.143.66:13994/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTN" group-title="39.164.143.66:13994",CCTN
+http://39.164.143.66:13994/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" group-title="39.164.143.66:13994",深圳卫视
+http://39.164.143.66:13994/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" group-title="39.164.143.66:13994",安徽卫视
+http://39.164.143.66:13994/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0

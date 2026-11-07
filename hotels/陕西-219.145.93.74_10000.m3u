@@ -71,3 +71,9 @@ http://219.145.93.74:10000/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=
 http://219.145.93.74:10000/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" group-title="219.145.93.74:10000",贵州卫视
 http://219.145.93.74:10000/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="吉林卫视" group-title="219.145.93.74:10000",吉林卫视
+http://219.145.93.74:10000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="海南卫视" group-title="219.145.93.74:10000",海南卫视
+http://219.145.93.74:10000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="219.145.93.74:10000",宁夏卫视
+http://219.145.93.74:10000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
