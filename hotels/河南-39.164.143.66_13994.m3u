@@ -28,7 +28,7 @@ http://39.164.143.66:13994/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="CCTV—14" group-title="39.164.143.66:13994",CCTV—14
 http://39.164.143.66:13994/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV—15" group-title="39.164.143.66:13994",CCTV—15
-http://39.164.143.66:13994/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.143.66:13994/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云音乐高清" group-title="39.164.143.66:13994",风云音乐高清
 http://39.164.143.66:13994/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV—17" group-title="39.164.143.66:13994",CCTV—17
@@ -56,7 +56,7 @@ http://39.164.143.66:13994/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="星影" group-title="39.164.143.66:13994",星影
 http://39.164.143.66:13994/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="梨园频道" group-title="39.164.143.66:13994",梨园频道
-http://39.164.143.66:13994/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.143.66:13994/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="戏曲娱乐" group-title="39.164.143.66:13994",戏曲娱乐
 http://39.164.143.66:13994/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="39.164.143.66:13994",金鹰卡通
@@ -66,7 +66,7 @@ http://39.164.143.66:13994/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="39.164.143.66:13994",卡酷少儿
 http://39.164.143.66:13994/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" group-title="39.164.143.66:13994",安徽卫视
-http://39.164.143.66:13994/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.143.66:13994/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="河南卫视" group-title="39.164.143.66:13994",河南卫视
 http://39.164.143.66:13994/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="北京卫视高清" group-title="39.164.143.66:13994",北京卫视高清
@@ -96,9 +96,7 @@ http://39.164.143.66:13994/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="云南卫视" group-title="39.164.143.66:13994",云南卫视
 http://39.164.143.66:13994/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" group-title="39.164.143.66:13994",贵州卫视
-http://39.164.143.66:13994/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" group-title="39.164.143.66:13994",贵州卫视
-http://39.164.143.66:13994/tsfile/live/0120_2.m3u8?key=txiptv&playlive=0&authid=0
+http://39.164.143.66:13994/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="四川卫视" group-title="39.164.143.66:13994",四川卫视
 http://39.164.143.66:13994/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江西卫视" group-title="39.164.143.66:13994",江西卫视
@@ -149,29 +147,51 @@ http://39.164.143.66:13994/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=
 http://39.164.143.66:13994/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="亳州综合" group-title="39.164.143.66:13994",亳州综合
 http://39.164.143.66:13994/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="热播剧场" group-title="39.164.143.66:13994",热播剧场
-http://39.164.143.66:13994/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="民生频道" group-title="39.164.143.66:13994",民生频道
-http://39.164.143.66:13994/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="环球影视" group-title="39.164.143.66:13994",环球影视
-http://39.164.143.66:13994/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="幸运影视" group-title="39.164.143.66:13994",幸运影视
 http://39.164.143.66:13994/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="百乐电影" group-title="39.164.143.66:13994",百乐电影
+#EXTINF:-1 tvg-name="环球影视" group-title="39.164.143.66:13994",环球影视
+http://39.164.143.66:13994/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="民生频道" group-title="39.164.143.66:13994",民生频道
+http://39.164.143.66:13994/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东珠江" group-title="39.164.143.66:13994",广东珠江
+http://39.164.143.66:13994/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏体育" group-title="39.164.143.66:13994",江苏体育
 http://39.164.143.66:13994/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安多卫视" group-title="39.164.143.66:13994",安多卫视
 http://39.164.143.66:13994/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="蒙古语卫视" group-title="39.164.143.66:13994",蒙古语卫视
 http://39.164.143.66:13994/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="海南卫视" group-title="39.164.143.66:13994",海南卫视
-http://39.164.143.66:13994/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTN" group-title="39.164.143.66:13994",CCTN
+http://39.164.143.66:13994/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="厦门卫视" group-title="39.164.143.66:13994",厦门卫视
 http://39.164.143.66:13994/tsfile/live/0129_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="39.164.143.66:13994",山东教育卫视
 http://39.164.143.66:13994/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTN" group-title="39.164.143.66:13994",CCTN
-http://39.164.143.66:13994/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" group-title="39.164.143.66:13994",深圳卫视
 http://39.164.143.66:13994/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" group-title="39.164.143.66:13994",安徽卫视
-http://39.164.143.66:13994/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="央视文化精品" group-title="39.164.143.66:13994",央视文化精品
+http://39.164.143.66:13994/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="女性时尚" group-title="39.164.143.66:13994",女性时尚
+http://39.164.143.66:13994/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="兵器科技" group-title="39.164.143.66:13994",兵器科技
+http://39.164.143.66:13994/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="安徽国际" group-title="39.164.143.66:13994",安徽国际
+http://39.164.143.66:13994/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="空中课堂" group-title="39.164.143.66:13994",空中课堂
+http://39.164.143.66:13994/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="39.164.143.66:13994",快乐垂钓
+http://39.164.143.66:13994/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="39.164.143.66:13994",四海钓鱼
+http://39.164.143.66:13994/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="法治天地" group-title="39.164.143.66:13994",法治天地
+http://39.164.143.66:13994/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="武术世界" group-title="39.164.143.66:13994",武术世界
+http://39.164.143.66:13994/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="热播剧场" group-title="39.164.143.66:13994",热播剧场
+http://39.164.143.66:13994/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="影迷电影" group-title="39.164.143.66:13994",影迷电影
+http://39.164.143.66:13994/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动作电影" group-title="39.164.143.66:13994",动作电影
+http://39.164.143.66:13994/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="家庭院影" group-title="39.164.143.66:13994",家庭院影
+http://39.164.143.66:13994/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
