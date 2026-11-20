@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="119.129.172.45:9901",CCTV1-综合
+http://119.129.172.45:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2-财经" group-title="119.129.172.45:9901",CCTV2-财经
+http://119.129.172.45:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3-综艺" group-title="119.129.172.45:9901",CCTV3-综艺
+http://119.129.172.45:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4-国际" group-title="119.129.172.45:9901",CCTV4-国际
+http://119.129.172.45:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5-体育" group-title="119.129.172.45:9901",CCTV5-体育
+http://119.129.172.45:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6-电影" group-title="119.129.172.45:9901",CCTV6-电影
+http://119.129.172.45:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12-社会与法" group-title="119.129.172.45:9901",CCTV12-社会与法
+http://119.129.172.45:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14-少儿" group-title="119.129.172.45:9901",CCTV14-少儿
+http://119.129.172.45:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15-音乐" group-title="119.129.172.45:9901",CCTV15-音乐
+http://119.129.172.45:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东体育" group-title="119.129.172.45:9901",广东体育
+http://119.129.172.45:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="119.129.172.45:9901",嘉佳卡通
+http://119.129.172.45:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="119.129.172.45:9901",江苏卫视
+http://119.129.172.45:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="119.129.172.45:9901",IPTV热播剧场
+http://119.129.172.45:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
