@@ -372,9 +372,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```[cite: 5]
-
-### 验证方式
-
-1. 运行更新后的 `generate_zhgxtv.py` 生成新的 `zhgxtv_live.m3u`[cite: 5]。
-2. 打开 `zhgxtv_live.m3u` 查看前几行，确认每条频道行均为 `#EXTINF:-1 tvg-name="CCTV1" group-title="iptv_..." tvg-logo="",CCTV1`，且 `CCTV1` 前没有隐藏的空白/BOM 字符。
