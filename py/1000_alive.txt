@@ -34,6 +34,7 @@ http://121.19.134.163:808/iptv/live/1000.json?key=txipt
 http://121.19.134.48:808/iptv/live/1000.json?key=txipt
 http://123.123.194.32:9998/iptv/live/1000.json?key=txipt
 http://123.123.204.71:9998/iptv/live/1000.json?key=txipt
+http://123.123.205.109:9998/iptv/live/1000.json?key=txipt
 http://123.138.216.44:9901/iptv/live/1000.json?key=txipt
 http://124.152.247.189:2001/iptv/live/1000.json?key=txipt
 http://124.228.160.3:9901/iptv/live/1000.json?key=txipt
